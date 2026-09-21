@@ -1,0 +1,681 @@
+
+
+=========================================
+📖 INÍCIO DA VIDEO_68
+=========================================
+
+[00:00]  Vamos pegar o material para colocar a textura. Lembrando que você quiser colocar qualquer textura.
+[00:06]  Dois cliques, material, color.
+[00:10]  É bem parecido a forma que se colocamos no que tem.
+[00:14]  Vamos em color, aqui temos a textura.
+[00:19]  A textura podemos colocar em qualquer um aqui, que é o material.
+[00:23]  Vamos em color, textura.
+[00:27]  Ficamos.
+[00:30]  Aqui está a textura. Vamos ver o cabaite aqui, bem pouquinho.
+[00:37]  200 poucos cabaites. Coloquei uma imagem, uma outra imagem no Photoshop.
+[00:43]  O mesmo tamanho de imagem, uma textura parecida.
+[00:49]  E ela tem 3 mil poucos cabaites, então já economizou bastante memória.
+[00:57]  Vamos abrir e vamos clicar em não aqui.
+[01:02]  E podemos pegar a textura e aplicar na esfera.
+[01:06]  Deixe-me colocar uma iluminação legal aqui.
+[01:10]  Vamos novamente em Sky, criar um novo material.
+[01:16]  Luminense, desligamos os outros.
+[01:19]  E iluminense, vamos colocar em 84, que de repente.
+[01:24]  Vamos colocar isso no Sky.
+[01:26]  Voltamos aqui, vamos em Effect, Global Illumination.
+[01:32]  E vamos mudar o preset para interior, Height, Difusible Death.
+[01:36]  Beleza?
+[01:37]  A gente renderiza, a gente vai ter uma realização ver bonitinha aqui pra gente fazer a nossa cena bonita, né?
+[01:44]  Beleza.
+[01:45]  Então, se você colocou o material, já não vai aparecer legal, né?
+[01:49]  Eu vou colocar aqui uma letra, então eu vou colocar essa letra aqui.
+[01:54]  A gente vai ver aqui o que está acontecendo, se você entender melhor o que está acontecendo, tá?
+[01:59]  Só retracionar aqui para aparecer uma perspectiva legal.
+[02:05]  Aqui não tem muita coisa de arte, não, tá só pra mostrar a textura, tá pessoal?
+[02:11]  Então, eu vou colocar a textura aqui na letra também, olha só.
+[02:15]  Então, quando a gente coloca a textura a primeira vista, ela fica assim, tá?
+[02:19]  Bem bagunçada, ela fica muito legal e a gente tem que arrumar.
+[02:24]  Como é que a gente faz? Seleciona o material aqui, tá?
+[02:26]  O material já aplicado, no caso esses dois.
+[02:29]  A gente pode mudar a projeção dele, tá?
+[02:33]  Caso não fique legal.
+[02:35]  Então, em um projeto, você lembra? Você viu que eu nem precisei fazer a textura toda, né, completa?
+[02:41]  Basta fazer sua base da textura aqui, nesse caso, tá?
+[02:46]  Então, olha só.
+[02:48]  Então, vem em projeção e eu vou colocar em cúbico, né?
+[02:51]  Ou seja, ele vai criar várias outras em cubo.
+[02:55]  Então, vai replicar.
+[02:57]  Então, com isso, já vai dar uma melhorada um pouco, mais ou menos o suficiente.
+[03:02]  Então, eu venho aqui, eu lembro, eu tenho que diminuir.
+[03:07]  Colocar 25 e 25.
+[03:10]  Então, olha só como já está mudando, né?
+[03:12]  Olha, bem legal.
+[03:14]  Então, a gente vai diminuindo mais.
+[03:16]  No caso, eu vou colocar 5 ou 5, diminui bastante logo.
+[03:22]  Puts, olha só, que lindo, né, pessoal? Que legal que ficou.
+[03:26]  Então, já fica muito bonito. Então, olha só, né?
+[03:29]  Então, nesse caso aqui, ó, como eu coloquei branco, né?
+[03:36]  O fundo, eu posso vir aqui em mix mode, eu posso colocar isso em multiply.
+[03:40]  Porque eu multiply, ele vai tirar o branco e vai multiplicar com a cor que eu tiver aqui em cima, tá?
+[03:46]  Então, no caso, eu posso colocar um vermelho.
+[03:48]  Se renderizar, eu vou ter o preto com vermelho, tá vendo?
+[03:52]  Então, eu posso colocar amarelo.
+[03:56]  Vou colocar qualquer outra cor aqui.
+[04:00]  Tá vendo?
+[04:01]  Então, já vai ficar bem legal, bem bonitinho.
+[04:05]  Então, olha só.
+[04:07]  Uma outra coisa que a gente pode fazer é inverter.
+[04:10]  A gente vem aqui em Black Point, a gente coloca 1.
+[04:15]  É ficar todo preto e em White Point, a gente coloca 0.
+[04:19]  Aí, a gente vai inverter.
+[04:20]  Então, olha só o que acontece, né?
+[04:23]  Bem bonito também, ok?
+[04:26]  Então, eu vou voltar aqui para 0 e colocar 1 aqui.
+[04:32]  Muito bem, ó, está aplicada a minha textura.
+[04:35]  Aí, eu posso duplicar aqui, né?
+[04:38]  E colocar nos outros aqui, ó.
+[04:40]  Um cubo, um outro torus aqui, né?
+[04:45]  Nos outros torus todos.
+[04:49]  Debrando que eu tenha aqui, né?
+[04:51]  Colocar eles em Cubic.
+[04:53]  No caso, foi simples que a gente colocou aqui, né?
+[04:56]  Beleza.
+[04:57]  Aí, eu posso colocar também esse material no plane, ó.
+[05:00]  Duplique, eu vou colocar um plane aqui.
+[05:03]  Então, se renderizar assim na toda, olha só que legal, né?
+[05:07]  Ter a textura toda aplicada aqui.
+[05:10]  É...
+[05:11]  Você vê que em alguns trechos, só, não aparece muito legal.
+[05:15]  Parece que está cortada a textura, ó, né?
+[05:19]  Porque acontece o seguinte, pessoal.
+[05:23]  Para você concertar isso aí, só com o UV Map, tá?
+[05:27]  Que é uma aula que nem tem aqui no curso.
+[05:30]  Porque já é um conteúdo totalmente diferente.
+[05:32]  Mas você pode pesquisar que tem muito conteúdo relacionado a isso.
+[05:35]  Inclusive, o novo Cinema 4D.
+[05:37]  Isso aí você faz com um passo de mágica, né?
+[05:40]  Então, quando você procurar UV Map, você coloca UV Map.
+[05:45]  Cinema 4D S-22, tá?
+[05:49]  Porque lá tem um revolucionário UV Map.
+[05:53]  Que vai concertar isso aqui.
+[05:57]  Ok?
+[05:58]  Mesmo assim, ó.
+[06:00]  Na letra, a parte da capa, né?
+[06:02]  Parece muito bem.
+[06:03]  É só.
+[06:05]  É.
+[06:06]  Beleza, pessoal.
+[06:07]  Então, daqui, ó, a gente pode até fazer uma cena.
+[06:09]  Já sabe, pessoal.
+[06:10]  Olha só.
+[06:11]  Se eu pegar esse car, colocar ele mais aqui para frente.
+[06:14]  Olha só.
+[06:15]  Vou nos rotar a sinalha assim.
+[06:17]  Vou rotar a sinalha assim.
+[06:20]  E eu vou pegar esse extrude dele.
+[06:23]  Eu vou duplicar quando você controver.
+[06:25]  Pega o segundo, eu vou colocar para trás.
+[06:27]  Vou ligar aqui ao Beverly Outside.
+[06:31]  E eu vou criar aqui um novo material branco.
+[06:36]  Eu vou colocar aqui.
+[06:38]  Eu vou renderizar.
+[06:40]  Olha só.
+[06:41]  Bem bonitinho, né?
+[06:43]  Então, eu poderia aqui, ó, colocar uma câmera, né?
+[06:47]  Eu posso vir aqui e mudar a distenda de parafísica.
+[06:51]  Em Física, eu posso ligar o Deffield.
+[06:54]  E eu seleciono a câmera Física.
+[06:57]  Eu posso colocar aqui, ponto 5.
+[07:01]  Aqui, ó, em Óptio, eu posso ver o meu Deffield ligando essa opção aqui, ó.
+[07:06]  Deffield.
+[07:08]  Então, eu posso ver aí onde está o foco.
+[07:11]  Então, arrasto para cá.
+[07:16]  Arrasto mais até aparecer o meu foco aqui.
+[07:20]  Olha só.
+[07:22]  Está vendo?
+[07:23]  Então, olha que legal, né, pessoal?
+[07:25]  Então, se eu renderizar, olha só a cena que eu já tenho aqui.
+[07:32]  Bastante simples, eu cliei uma cena.
+[07:34]  Cliei, né?
+[07:36]  Né, pessoal?
+[07:38]  Então, se pegar esse extrude aqui e deixar ele um pouco mais fininho,
+[07:42]  meio objeto,
+[07:44]  colocar 5 aqui.
+[07:47]  E eu vou colocar aqui atrás.
+[07:51]  Aqui atrás.
+[07:52]  Então, pessoal, é dessa forma que a gente adiciona a textura,
+[07:55]  aqui no cinema 4D.
+[07:57]  Então, você pode ver também, é bem simples.
+[07:59]  Tudo é simples, né?
+[08:03]  E, então, é desse jeito, tá, pessoal?
+[08:05]  Que a gente coloca a textura aqui dentro do cinema 4D.
+[08:07]  Lembrando que, uma das outras coisas a ressaltar aqui,
+[08:10]  é o seguinte, tá?
+[08:12]  Aqui você pode colocar, porque a textura, tá?
+[08:14]  Seja de terra, tá?
+[08:16]  Seja gráfica.
+[08:18]  Você vai poder colocar aqui.
+[08:20]  Olha só.
+[08:22]  O que a gente pode fazer aqui,
+[08:25]  vou desligar essa textura aqui, né?
+[08:28]  A gente pode pegar o pincel
+[08:32]  e colocar aqui
+[08:34]  hard rent.
+[08:36]  E eu vou colocar aqui um preto, né?
+[08:38]  Novamente.
+[08:42]  Olha só.
+[08:43]  Posso fazer aqui um pequeno rabisco.
+[08:55]  Né?
+[08:57]  E isso, eu posso salvar novamente.
+[08:59]  Save as.
+[09:01]  Tif.
+[09:03]  Vou colocar a textura aqui
+[09:05]  Text2.
+[09:07]  Pressiona OK.
+[09:09]  Vou lá no cinema.
+[09:11]  Encolore.
+[09:13]  Eu não sei porque eu dupliquei o monte aqui,
+[09:15]  para ele chover o que aconteceu.
+[09:17]  Chovemkin Edit.
+[09:19]  The Latinus Edge Material.
+[09:21]  Vamos pegar aqui o 2.
+[09:24]  Eu vou vir aqui em textura.
+[09:27]  Nós vamos carregar, então, essa nova aqui, ó.
+[09:29]  Tá?
+[09:31]  Então, eu reguei para cá.
+[09:33]  Ela foi para alguns, né?
+[09:35]  Não foi para o texto.
+[09:37]  Posso jogar aqui, ó, acima do material do texto.
+[09:39]  E eu renderizo.
+[09:41]  Olha só, pessoal, que legal, não?
+[09:43]  A gente está plantinho aqui.
+[09:45]  Então, eu posso trocar.
+[09:47]  Eu posso deixar lá branco, com vermelho, ó.
+[09:49]  Eu coloco isso aqui.
+[09:51]  Eu coloco em 1, como eu falei para vocês.
+[09:53]  E aqui, eu coloco 0.
+[09:55]  Vai ficar o contrário.
+[09:57]  Então, vai aparecer isso aí.
+[09:59]  Eu tiro de multiply e coloco para Edit.
+[10:01]  Tá?
+[10:03]  O Edit, no caso, vai eliminar o preto
+[10:05]  e vai deixar os brancos.
+[10:07]  Ó, ficou muito grosseira, né?
+[10:09]  A gente poderia ter feito um pouco mais fino.
+[10:11]  Se a gente vier aqui, ó.
+[10:13]  Pegue o brush de novo.
+[10:15]  E cria um novo layer, né?
+[10:18]  Lutando direito.
+[10:20]  Hard Hand Hold.
+[10:22]  Hard Hold aqui.
+[10:24]  Tem que diminuir o tamanho.
+[10:26]  Vou deixar um pouco mais fininho.
+[10:28]  Eu posso vir aqui em brush.
+[10:30]  Peraí, isso aqui que é de pressão, né?
+[10:32]  No caso, eu tenho mesa digitalizadora aqui.
+[10:34]  Ó, puxando aqui.
+[10:36]  Venom File, Save As.
+[10:38]  Eu só vou em cima dessa aqui.
+[10:40]  Yes. Pessoal, ok.
+[10:42]  Então, eu vou novamente aqui.
+[10:44]  Carrego a 9.
+[10:46]  Então, olha só, que legal.
+[10:50]  Né, pessoal?
+[10:52]  Então, você vê que não é tão complexo,
+[10:54]  não é tão difícil de fazer.
+[10:56]  Então, olha só, que legal.
+[11:00]  Né, pessoal?
+[11:02]  Então, você vê que não é tão complexo,
+[11:04]  não é tão difícil de fazer, né?
+[11:06]  Deixa eu dar dois cliques
+[11:08]  e deixar esse material aqui realmente branco.
+[11:10]  Deixar aqui levemente rosado.
+[11:14]  Muito bom mesmo, então.
+[11:16]  Tá, beleza, pessoal?
+[11:18]  Então, é dessa forma que coloca textura
+[11:20]  no cinema 4D.
+[11:22]  Essa forma você vai colocar qualquer tipo de textura aí.
+[11:24]  Beleza?
+[11:26]  Então, até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_69
+=========================================
+
+[00:00]  Jens, lembra que, bem pessoal, vamos conhecer alguns princípios de design, pessoal, nada
+[00:04]  que é regra, é isso, também não precisa seguir uma ordem, isso são conceitos que
+[00:09]  ajudam na criação de peças, e o principal, o conforto visual, eu quero que você guarde
+[00:14]  pra sempre, tá bom, essa frase conforto visual, você termina sua peça, verifique se ela
+[00:21]  tem conforto visual, tá bom, então, porque esses princípios são importantes, o nosso
+[00:25]  cérebro é extremamente ligado a conforto, tanto é que todos os dias nós estamos verificando
+[00:30]  ou pensando se tal coisa é feia, se tal coisa é bonita, se tal coisa nos agrada, se tal
+[00:35]  coisa não agrada, vamos falar aqui do primeiro assunto que seria conforto visual, então,
+[00:40]  nós podemos ver aqui uma peça bastante bagunçada, nós temos aqui uma bagunça, digamos que
+[00:46]  se eu tivesse informação em cada cubo desse, seria bastante ruim de ler, de identificar
+[00:53]  o que teria que ler primeiro, ou identificar uma ordem, já aqui nessa peça, podemos notar
+[00:58]  que temos uma organização, aqui eu primeiramente olho para esse cubo, depois eu olho para os
+[01:05]  outros cubos ali atrás, então isso é visualmente confortável, aqui eu poderia ter informações,
+[01:12]  uma informação aqui e outras informações menos relevantes ali atrás, então bastante
+[01:18]  confortável, então o conforto visual, você tem que dar atenção a isso, deixar as coisas
+[01:22]  visualmente confortáveis, então vamos seguir aqui alguns conceitos para nós termos uma
+[01:27]  peça visualmente confortável, bem, então vamos falar sobre o contraste, então em resumo
+[01:33]  podemos dizer que o contraste é buscar uma forma para diferenciar e destacar alguma
+[01:37]  coisa, contraste como vocês já sabem, muitas imagino, preto e branco, seria o inverso, seria
+[01:44]  uma coisa inversa, nós podemos também ter contraste em relação a formas, em relação
+[01:50]  a cores, em relação a textura e escala, eu posso colocar um vermelho aqui, aquele cubo
+[01:57]  ali, ele é o cubo principal, ele é o destaque, então nós temos aqui um contraste bem bonito,
+[02:03]  o contraste pode não ser uma peça da frente, pode ser uma peça aqui de trás, então tudo
+[02:08]  isso vai mudar a impressão de quem está vendo a imagem, por exemplo nessa imagem de trás
+[02:12]  eu posso ter a impressão de que algo está escondido, ou algo vai aparecer ali atrás,
+[02:18]  no caso eu teria aqui um cubo escondido, o contraste como eu falei não se dá apenas
+[02:26]  por cores, por exemplo aqui eu tenho um bom contraste, um contraste em relação a formas,
+[02:32]  ou seja, eu tenho aqui um cubo grande, esse cubo destaca, é para esse cubo que normalmente
+[02:38]  as pessoas vão olhar primeiro e vão dar atenção a ele, porque ele está maior e ele se destaca
+[02:43]  dos outros, certo? Então eu posso deixar esse cubo também vermelho, eu vou ter um contraste
+[02:49]  obviamente muito forte, bem legal, eu posso colocar também os cubos de trás vermelho,
+[02:57]  eu posso colocar todo mundo vermelho aqui, deixa eu resetar aqui da frente novo, ficar
+[03:02]  todo mundo vermelho, ok, eu tenho todo mundo vermelho e novamente temos o cubo bastante
+[03:10]  grande e destacado, e se eu quero destacar mais esse cubo aqui, eu posso simplesmente
+[03:17]  colocar uma textura nele e ele vai se destacar dos outros, não é? Então eu tenho um destaque
+[03:24]  bem maior nesse cubo aqui por estar com uma textura e os outros não estarem com textura,
+[03:28]  então eu vou voltar aqui e eu vou colocar esse material, por exemplo, lá nos cubos de
+[03:33]  trás, então você vê que acaba competindo, eu quero olhar para os cubos de trás, eu
+[03:39]  quero olhar para os cubos da frente, saber o que está acontecendo, então é toda essa
+[03:45]  questão de onde você coloca a textura, como você coloca os elementos maiores ou menores
+[03:49]  vai influenciar na percepção de quem está vendo, então aqui nós temos outro exemplo,
+[03:54]  porém neste exemplo nós temos aqui, quero ressaltar aqui o conceito de Gestalt, Gestalt
+[04:01]  é o estudo da percepção humana em relação às formas, a existência de padrões de comportamento
+[04:07]  visual que o ser humano tem, nosso comportamento ao ver essa imagem é o seguinte, é agrupar
+[04:13]  nosso cérebro, ele tenta agrupar as coisas aqui, deixa eu te falar como, deixa eu colocar
+[04:18]  aqui o do do paint, tá escando, beleza, então nosso cérebro quando ele vê essa imagem
+[04:26]  ele tenta agrupar, então eu tenho aqui três peças iguais e o meu cérebro agrupa isso,
+[04:33]  assim como essas esferas aqui, outro grupo e eu tenho esse cubo aqui sozinho, então
+[04:41]  eu fiz esse agrupamento aqui, das formas ele atrás, eu sei que eu tenho esse cubo aqui
+[04:46]  maior em destaque, então eu sei que esse cubo ele é importante aqui na cena, uma outra
+[04:52]  coisa importante a falar é o equilíbrio, olha só, eu tenho aqui uma cena equilibrada,
+[04:58]  eu tenho elemento aqui deste lado, tá bom, eu tenho elemento deste lado e eu tenho elemento
+[05:04]  aqui central, legal, então domine esses conceitos você vai criar peças boas, porque eu coloquei
+[05:10]  esses elementos aqui para não deixar a minha peça pobre, uma forma de elementos aqui,
+[05:15]  outro grupo de forma de elementos aqui, criando uma diversidade, causando equilíbrio na cena,
+[05:21]  como eu coloquei um grupo desse lado, grupo desse lado eu tenho uma cena equilibrada,
+[05:26]  então isso é muito legal, então novamente nós podemos então, por exemplo, clone, colocar
+[05:32]  textura nos pés de trás, nós temos aqui uma controvessa, nós ao colocar a vermelha ali atrás
+[05:41]  e a textura nós acabamos destacando, chamando também a tensão para os elementos menores
+[05:48]  ali atrás, isso pessoal, é uma questão de prioridade, mas se eu tivesse colocado uma
+[05:52]  coisa com cores mais fracas, talvez nós chamássemos de tensão, então deixa eu colocar aqui o
+[05:57]  material aqui nesse cubo da frente e pronto, eu tenho aqui meu cubo destacado agora, como você
+[06:02]  pode notar, então pessoal, outro conceito que você deve aplicar as suas peças, não em todas,
+[06:08]  mas em algumas que é bastante importante, é fotografia, tá bom, nós temos aqui uma imagem,
+[06:15]  eu coloquei a câmera, tá bom, eu coloquei o foco e nós temos aqui o foco neste cubo aqui,
+[06:21]  como você pode ver aqui que está nítido e os elementos lá de trás eu desfoquei, ou seja,
+[06:27]  eu tenho uma cena aqui fotográfica, se eu colocar, por exemplo, o material em todo o mundo, deixa eu
+[06:33]  aplicar aqui no R, renderizar novamente, então é só pessoal, fotografia seria isso o conceito,
+[06:42]  você colocar o elemento aqui a frente, focar nele, o restante você pode desfocar, assim eu tenho
+[06:48]  aqui uma cena que não está vazia, está preenchida, está bem legal, olha só aqui essa cena, por
+[06:53]  exemplo, eu tenho aqui os cubos não tão alinhado, então quando uma pessoa vê isso, a peça já vai
+[06:58]  perceber, nossa isso aqui não está alinhado, está estranho, então já é legal você alinhar isso aí,
+[07:07]  alinei aqui, perfeito, então se alinhar, nós temos uma peça perfeita, bem bonitinha, eu tenho aqui
+[07:15]  uns elementos muito simples, mas que nos traz um bom agrado visual, ou seja, conforto visual pessoal,
+[07:21]  tá bom, então legal, olha só que cena bonitinha que ficou, então pessoal você precisa ter essas
+[07:28]  noções de escala de elementos, de textura, porque muitas vezes as peças aparecem rapidamente
+[07:33]  para as pessoas, então as nossas peças terão que ter um fácil entendimento, organização
+[07:39]  não significa peça boa, por exemplo, se você colocar uma peça muito organizada com elementos
+[07:44]  ríduos do mesmo tamanho e com as mesmas texturas, por exemplo, a pessoa não sabe para onde ela vai
+[07:50]  olhar, não sabe se tem um elemento ali em destaque, olha só por exemplo, qual cubo aqui você
+[07:58]  olhou primeiro, eu tenho certeza que você não tem noção de qual cubo você olhou primeiro aqui
+[08:04]  nessa cena, porque nós colocamos aqui os cubos todos uniforme e nós temos aqui uma percepção de
+[08:10]  repente de um prédio de janelas ou de uma grade ou então mesmo de vários cubos, então seria essa
+[08:18]  percepção, então agora eu vou te mostrar um exemplo onde a gente destaca um cubo e será para lá que
+[08:24]  todo mundo vai olhar primeiramente, olha só, um cubo aqui em destaque vermelho se destacou dos
+[08:31]  demais, então como eu falei, contraste não se trata apenas de cores, tá bom, eu posso pegar os cubos
+[08:37]  e fazer um cubo em destaque, como a gente pode ver agora, então você acabou olhando mais para
+[08:43]  esse cubo maior e deixando os cubos menores ali para depois, então pessoal, vamos falar novamente do
+[08:49]  conceito de fotografia, olha só, novamente eu tenho o cubo aqui, mais a frente, eu tenho bastante
+[08:56]  destaque e ele pode ser também centralizado, conceito de fotografia novamente, desfoque-os ali atrás
+[09:02]  e corto no objeto aqui principal e novamente aqui, formas, tá bom, você notou que temos um
+[09:10]  circo e esse outro cubo arredondado aqui, então isso se destaca aqui nessa peça, é uma peça
+[09:17]  simples mas que diz muito a respeito em questão de arte e como eu estou ressaltando, receito de
+[09:21]  gestaltos novamente, então olha só, esses cubos aqui que estão fora também, nosso cérebro, ele
+[09:28]  colocou todos esses cubos aqui, e ele separou, a gente consegue separar visualmente aqui que tem um
+[09:36]  circo aqui e que tem um outro elemento aqui diferente, esses conceitos que nós temos que levar
+[09:42]  para as nossas peças, então novamente o cérebro diz, tem vários cubos pequenos, mas tem esse
+[09:47]  grande aqui, essa percepção que é legal de a gente usar em vídeo, mesmo que às vezes não fique
+[09:52]  legível que tem aqui, é só questão de preenchimento para deixar a cena equilibrada para
+[09:57]  o efeito fotográfico, o que eu fiz, coloquei aqui meu elemento que é o principal em destaque e peguei
+[10:05]  os elementos aqui, deixei três visíveis, eu fiz o equilíbrio na cena e ali atrás tem objetos
+[10:13]  desfocados, mesmo que não apareça, você pode notar que isso colabora para a cena, colabora para a
+[10:18]  composição, então os elementos aqui de luz, aqui parece mais nítido e atrás parece desfocado,
+[10:25]  então mesmo que isso não seja nítido nós conseguimos perceber o que está vindo ali
+[10:31]  atrás, aqui novamente a mesma coisa, em relação ao contraste nós podemos ver aqui um fundo azul,
+[10:37]  nós temos azul novamente aqui de borda, mas o azul com tonalidade diferente, com um leve
+[10:43]  contraste e aqui nós já temos o maior contraste deixando a letra plateada, nessa parte de baixo
+[10:48]  aqui é só, coloquei azul, eu fiz uma borda plateada e coloquei novamente aqui o prata,
+[10:55]  essa cor branca, claro, e coloquei o desconto em azul, isso faz com que nós temos aqui uma
+[11:02]  diferença entre as letras, se tivesse colocado 20%, o mesmo estilo aqui embaixo poderia ter ficado
+[11:07]  um pouco mais sem graça isso aqui, eu creio que tem um charme bem maior, aqui nós podemos ver o
+[11:12]  exemplo pessoal de que não significa que contraste é apenas cor, como você pode ver eu tenho um
+[11:18]  fundo azul e tenho um elemento azul, porém o meu fundo azul, eu posso notar que ele tem uma textura
+[11:25]  aqui, ele tem a questão fotográfica deste foco ali atrás, eu tenho esse objeto focado aqui em
+[11:31]  frente e ele tem a textura diferente, então com isso meio me distando no fundo azul, o meu
+[11:37]  objeto está muito nítido, tá legal? Aqui já temos um contraste bastante alto, branco aqui no
+[11:44]  pico, então fica bem legal, aproveitar esse momento para te falar uma coisa, o que o cliente
+[11:48]  quer, o cliente quer mostrar o preço, quer mostrar o produto, quer mostrar o preço, então você pega
+[11:56]  o nome, você não coloca o nome, você coloca o nome menor que o produto e menor que o preço, tá legal?
+[12:02]  Porque esses dois elementos aqui são principais, aqui a pessoa está vendo a vacia e está vendo o
+[12:10]  preço, então isso é destaque, então pessoal nesse outro vídeo que eu quero mostrar para você
+[12:15]  novamente eu tenho aqui o equilíbrio de cena, eu tenho uma logo aqui deste lado, eu tenho a logo
+[12:20]  ali do outro lado e eu tenho aqui conceito de fotografia novamente, eu tenho meu objeto aqui
+[12:26]  focado e o fundo desfocado a parte de trás, então com isso nós temos uma peça, o fundo preto,
+[12:33]  vermelho e depois vem um amarelo, então temos um bom contraste nessa peça, nós podemos notar
+[12:39]  o conceito de equilíbrio também de gestalt, a primeira vista nós temos aqui um contraste,
+[12:46]  nós temos aqui a logo bastante destacada em vermelho e nós temos aqui o restante todo
+[12:52]  fosco, digamos cores escuras aqui sem reflexão sem brilho e nós temos aqui os tênis aqui,
+[12:59]  organizados e o nosso cérebro que ele faz e já agrupa que nós temos esses tênis aqui e de
+[13:06]  vez nós temos essa logo aqui em destaque e ela também está maior, muito maior que os outros
+[13:11]  elementos, então novamente aqui ó eu tenho aqui um um texto bastante destacado, eu tenho aqui
+[13:17]  um ícone deste lado, eu tenho outro ícone deste lado aqui, o que me dá é o que me traz
+[13:23]  equilíbrio e aqui pessoal novamente eu tenho bastante contraste, eu tenho cores escuras e o
+[13:28]  texto em cor clara, eu fiz uma barra amarela e coloquei outra cor preta aqui dando bastante
+[13:34]  e com isso temos uma peça bastante confortável e novamente conceito fotográfico ali, fundo
+[13:40]  desfocado, o objeto aqui focado, aqui você pode ver a peça toda né, aqui o objeto que seria
+[13:46]  focado e aqui para trás nós temos outros elementos que ficam desfocado porque o que me interessa é
+[13:51]  essa parte aqui da frente e olha só pessoal essa peça aqui, lá é um tanto simples mas nós
+[13:56]  podemos ver o contraste que temos aqui, o quanto se destaca e para onde eu quero que a pessoal
+[14:02]  olha aqui ó, nesses tubos de luz está bom, então isso tem que ficar mais destacado que
+[14:07]  as outras peças, aqui é uma dica bastante legal que a gente pode usar em relação ao contraste
+[14:11]  aqui eu tenho um fundo com uma textura e ele é fosco e já aqui na letra eu coloquei uma
+[14:18]  bordinha branca para diferenciar e depois eu coloquei um material azul aqui mas esse material
+[14:25]  aqui ele brilha, então ele fica diferente do fundo né destaca e por fim eu coloquei aqui
+[14:32]  branco né, ficou bastante destacado, então eu podemos ver aqui essa peça aqui embaixo e
+[14:37]  outras ali e isso é equilíbrio a cena né, isso preencheu aqui um espaço que ficaria um chão
+[14:43]  vazio mas não chama tanta atenção porque eu coloco esses menores do que a letra show de
+[14:49]  oferta junto com a logo tá legal, então para onde eu quero que a pessoa olha aqui é para show de
+[14:55]  ofertas e a logo, legal? então aqui nesse exemplo né podemos ver que tem bastante formação
+[15:00]  isso acontece mesmo, o cliente ban manda para gente bastante formação e a gente tem que colocar
+[15:05]  e não tem jeito, a gente tem que tentar colocar da melhor forma possível, por isso é bom estudar
+[15:09]  esses conceitos, você aprendendo isso você vai conseguir colocar todos os seus elementos de forma
+[15:16]  organizada que vai ficar debuintinho, então como você pode ver aqui a peça, pensando novamente em
+[15:21]  que eu coloquei duas bases aqui e como eu falei o cliente quer ver e exposto o seu produto e o
+[15:26]  preço, então a gente pega o produto, a gente coloca ele grande, coloca o preço grande, novamente
+[15:32]  pessoal tem aqui ó o conceito fotográfico né, tem uma controvessa aqui né, você está pensando
+[15:38]  ah poderia ter posicionado melhor aí e tal, isso aí para parecer real que ela estivesse na base
+[15:44]  coisas não são tão simples assim na produção do vídeo tá bom pessoal, você vai fazer a base,
+[15:49]  você vai colocar o produto, o cliente ele troca o produto, então às vezes coisa acontece muito
+[15:55]  rápido, às vezes com pouco tempo tem que ir, nós temos que enviar esses vídeos para o cliente
+[16:00]  para ir para a TV, então o tempo é curto, não tem como fazer toda uma composição perfeita tá
+[16:06]  bom, lembrando que você está trabalhando não para fazer um vídeo, para fazer um vídeo extremamente
+[16:11]  perfeito, você está trabalhando para você resolver a situação do cliente, qual é a situação
+[16:16]  do cliente, é fazer um vídeo onde ele vai mostrar os produtos, vai exibir os peços, vai mostrar
+[16:22]  a promoção dele e vai tentar vender, entendeu, essa é a situação, você tem que resolver a situação
+[16:28]  do cliente, o cliente não está vendendo aqui uma foto realismo tá bom, não quer saber se aqui tem
+[16:34]  sombra, se aqui está bonitinho, mas é claro, se a gente puder fazer isso, ótimo, vai ficar show né,
+[16:40]  vai ficar show, vai ficar muito bom, toda vez que você puder fazer isso eu te aconselho e faça,
+[16:45]  mas tem em mente que você tem prazo para entregar e resolver a situação do cliente tá bom, então
+[16:51]  pessoal grave isso, conforto visual tá bom, lembrando que contraste pode ser de cores, pode ser de
+[16:58]  formas, pode ser de texturas ou mesmo de posições usando o conceito fotográfico, lembrando também
+[17:05]  de equilíbrio, temos que deixar a cena equilibrada e lembrar também dos conceitos de gestalt,
+[17:10]  usar formas que não vão se destacar mais do que o elemento principal, lembrando pessoal que
+[17:14]  tem muito mais conceitos em relação a design, tendo visto que o curso é de vareja, eu estou
+[17:19]  pegando os principais conceitos que tem relação com o curso tá bom, e estou a expondo ele aqui
+[17:24]  para vocês, para você aprender a criar as peças, legal, então até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_70
+=========================================
+
+[00:00]  Já se lembro aqui, pessoal, vamos falar agora sobre alinhamento.
+[00:04]  Tudo que você coloca aqui, pessoal, você vai ter que colocar em uma posição.
+[00:09]  Ao pensar nessa posição, pense também em alinhamento.
+[00:12]  Eu vou abrir aqui, aqui em Tile Action, vamos ativar isso, legal.
+[00:18]  Então eu vou criar aqui um texto, eu vou pegar o meu fermento de texto.
+[00:22]  Então eu vou colocar aqui, por exemplo, promoção, promoção, beleza.
+[00:28]  Digamos que eu tenha produtos para colocar aqui desse lado, tá bom?
+[00:31]  E desse lado eu vou colocar preço e eu vou colocar promoção também do outro lado
+[00:34]  para colocar logo do cliente.
+[00:36]  Então beleza, olha só, eu vou pegar aqui promoção, eu vou diminuir aqui já,
+[00:40]  diminuir um pouquinho e eu vou colocar aqui apenas, tá bom?
+[00:45]  Eu vou duplicar a promoção, control D e eu vou arrastar aqui para baixo,
+[00:50]  eu vou colocar um preço aqui, é o 29, tá bom?
+[00:54]  Seria o preço.
+[00:55]  Então vamos aumentar o tamanho do 29, legal.
+[01:04]  Então eu vou agora criar, duplicar novamente o 29, control D, vou arrastar ele para cá.
+[01:11]  E agora eu vou colocar aqui, opa, eu vou colocar aqui, ó, aqui onde está 30,
+[01:17]  eu vou escrever aqui, ó, produto, clico aqui, produto.
+[01:24]  E eu vou diminuir agora o tamanho, legal.
+[01:30]  E agora eu vou criar aqui, ó, um novo shape layer, tá bom?
+[01:34]  New shape layer, ou pelo atalho, contra o shape de barra, ao lado do Z, contra o barro.
+[01:42]  Então eu vou adicionar retângulo, vou adicionar stroke, legal.
+[01:49]  Vou entrar no retângulo e em size eu vou abrir aqui, ó.
+[01:55]  Legal, digamos que isso aqui seja o pessoal, o meu produto,
+[01:57]  pressionar V aqui para ferramente seleção, eu vou arrastar aqui, ó.
+[02:03]  Deixa eu diminuir aqui, produto, aqui.
+[02:07]  É, eu vou duplicar, né, e eu vou colocar aqui em cima, digamos que seja logo, logo.
+[02:17]  Legal, pessoal, você fez isso aí, ó, né, aqui está.
+[02:21]  Então, ok, pessoal, o que eu quero dizer com alinhamento?
+[02:25]  O alinhamento, pessoal, significa nós vamos alinhar, olha, simplesmente alinhar mesmo, tá bom, pessoal?
+[02:31]  Isso aqui, e eu vou te mostrar agora os recursos que temos aqui no After Effects em relação ao alinhamento.
+[02:37]  Então aqui, ó, promoção aqui, eu vou colocar o preço, então, por aqui.
+[02:44]  E o produto, tá bom, eu quero alinhar ele também, eu vou alinhar ele também aqui,
+[02:48]  eu vou colocar totalmente no canto, tá legal, eu vou seguir essa linha aqui e vou pegar aqui o texto, né,
+[02:56]  produto, centralizar aqui. Legal, o logo está aqui.
+[03:01]  E, pessoal, pressionar CTRL R, você tem aqui, ó, uma régua, tá bom, então, olha, eu posso colocar aqui uma,
+[03:09]  para assar uma reta aqui e alinhar o logo, posso traçar outra aqui, ó, o logo já está alineado aqui, ok?
+[03:16]  Só precisaria alinhar ele, com esse cara aqui, vamos ver aqui, ó.
+[03:25]  Legal, alineado aqui agora, eu imagino que aqui seja uma boa posição.
+[03:32]  E, ok, então eu vou duplicar esse 29, né, vamos só colocar aqui, ó, vírgula 90, por exemplo,
+[03:39]  vamos diminuir o tamanho, mais ou menos aqui, ó, a gente pode colocar aqui.
+[03:45]  Novamente, vamos ter que alinhar, então, ó, coloca aqui, ó, uma linha, posso dar um pouco de zoom,
+[03:51]  pressionando CTRL MAX, e o alinho aqui, ó, legal.
+[03:59]  Então, você pode simplesmente tirar aqui novamente, e, pessoal, alinhamento não se trata,
+[04:06]  apenas está bom de uma coisa estar aqui, alinhada uma a outra, alinhamento também se trata de distância,
+[04:12]  tá bom? De uma coisa para a outra, vou colocar o texto mais aqui para baixo, e o produto,
+[04:19]  um pouco mais aqui para baixo. Então, olha só, se aqui deste lado, por exemplo, eu tenho aqui, ó,
+[04:25]  por exemplo, Aproveite, é por tempo limitado, digamos assim, vou escrever só isso aí mesmo,
+[04:37]  então, vamos diminuir aqui o tamanho, opa, diminuir aqui o tamanho, e, né, vou afastar, vamos
+[04:46]  diminuir mais um pouco aqui. Então, ok, ó, coloco aqui, eu vou em parágrafo, vou alinhar aqui para
+[04:56]  para a direita, né, eu vou colocar aqui, ó, legal.
+[05:04]  Então, eu vou duplicar este cara aqui, ó, eu vou colocar ele para cá,
+[05:11]  ok, você pode ver os dois ficam alineados aqui, se você duplicar e pressionar shift,
+[05:17]  você mantém alineado, então, o erro bastante comum que a gente vê, né, é por exemplo, eu coloquei
+[05:23]  esta letra aqui, ó, e você percebe que aqui, entre as duas frases, nós temos este espaço,
+[05:30]  então, acontece um erro bastante comum, é que quando você faz uma outra frase de
+[05:35]  mesmo tamanho, às vezes você não coloca aqui, por exemplo, a mesma distância, e faz isso aqui,
+[05:41]  então, isso causa, né, então, em uma arte, isso é bastante ruim, porque, olha, aqui está
+[05:49]  dessa forma, e aqui já estou vendo de outra forma, então, já está estranho para mim, ok, pessoal,
+[05:55]  a mesma coisa, pessoal, o mesmo conceito que você deve se dar, eu vou pegar aqui, ó, este retângulo,
+[06:01]  vou diminuir ele aqui, ó, então, a mesma coisa também, você tem que ter um conceito sobre
+[06:05]  proporção, do que é ruim, do que é bom, tá bom? Você faz isso aqui, ó, legal, né, bonitinho,
+[06:11]  beleza, essa forma aqui, ó, tá bonitinho, porque eu digo que tá bonito isso aqui, porque, ó, eu
+[06:17]  tenho um bom espaço aqui, e um bom espaço aqui, não estou falando do tamanho do espaço,
+[06:21]  mas eu tenho um espaço, olha, uniforme, aqui, sobre o texto, vou duplicar isso aqui, ó, vou
+[06:28]  arrastar, eu vou colocar aqui para baixo, uma coisa ruim que você deve evitar é isso aqui, ó,
+[06:38]  entendeu, você está fazendo, você faz um retângulo, aí você coloca o texto assim, meio que dá uma
+[06:45]  pressão de que não está confortável, tá bom? Aí você tem uma fonte, você tem que colocar aqui
+[06:51]  uma palavra, por exemplo, opa, não, eu não sei o que você vai falar com a paroxita, né, para lelepipedo,
+[07:00]  será que é assim? Se não for, é assim agora, então, você quer escrever para lelepipedo dentro
+[07:05]  de esse quadrado, que as pessoas, algumas pessoas fazem, fazem isso aqui, ó, as pessoas
+[07:11]  apertam a palavra dentro, para caber dentro de um retângulo, né, então, quando você for fazer
+[07:17]  arte com relação a retângulo, tá bom? Você deve ter um roteiro ou alguma coisa do tipo,
+[07:22]  você pega a maior palavra, tá bom? Então, você pega a maior palavra e já coloca no retângulo
+[07:28]  deixando com um espaço legal, assim, em ambas as partes, tá bom? Isso não significa a proporção
+[07:34]  de cima e tal, mas pelo menos assim, ó, tá bom? Aí você coloca um bom espaço para todo mundo ficar
+[07:41]  alineado, por exemplo, eu vou ter, ó, por exemplo, é só que eu vou fazer aqui, ó, eu vou duplicar
+[07:48]  novamente, o roteiro está aqui para cima, eu vou, então, se você tiver isso aqui, ó, no seu design,
+[07:55]  você tem aqui uma boa proporção, bem posicionado, né, a fonte integra, e aqui você tem um cubozinho
+[08:03]  estreito e a palavra está estreita aqui, né, então, não é nada bonito, não é legal. E o que você
+[08:11]  faz? Você tem aqui um tamanho de um cubo que está para todo mundo e você quer escrever uma palavra
+[08:17]  muito grande, paralelepípedo. Bem, uma coisa que você pode fazer, pessoal, é usar uma fonte condensada,
+[08:25]  tá bom? Fonte condensada, pessoal, é uma fonte mais apertada, olha só, paralelepípedo, ok? Quase
+[08:34]  Kobe aqui, então, eu venho aqui, ó, em Jin, aqui, ó, tem um tipo dessa fonte condensada, então, eu
+[08:42]  tenho aqui, acho que eu tenho o bold também dela, ó, bold condensada, eu aumento, entendeu? Então,
+[08:49]  essa fonte, ela tem uma proporção, né, na horizontal menor, então, vou colocar um outro aqui, por exemplo,
+[08:57]  chamada Teco, Tecobound, ou em Tecobound passou, Semibound, ou então, eu posso colocar médio,
+[09:09]  como você pode ver, médio fica bem legal aqui, evite amassar a fonte mesmo na horizontal ou na vertical,
+[09:18]  isso aqui é horrível, pessoal, isso é muito feio, eu vou fazer aqui uma tela,
+[09:22]  para eu te mostrar isso aqui, tá bom? Então, promoção, aproveite, é por tempo, né, limitado,
+[09:28]  então é só que eu vou fazer, colocar aqui, posso pegar aqui, ó, colocar uma linha, traçar uma linha,
+[09:35]  colocar aqui, alineado, e, ó, eu vou manter uma proporção aqui de distância, como se testa
+[09:44]  menor, eu posso ter um espaço menor aqui e um espaço maior dali, então, esse mesmo espaço que eu
+[09:51]  coloco aqui, pessoal, distância para esse texto, é legal colocar ele aqui também, olha, colocar aqui
+[09:57]  dois, será que aqui, é, dois, ó, coloquei o dois mais próximo, então, eu vou para o cima, deu, vem
+[10:06]  espaço ali, vem espaço aqui, eu pego 90, novamente, eu vou colocar a linha aqui, eu vou alinear ele também,
+[10:16]  legal, e eu vou colocar aqui, ó, a gente vai colocar, vamos duplicar aqui, vamos duplicar o 90,
+[10:26]  vou diminuir ele aqui, ó, vou colocar aqui por mês, colocar minúsculo, colocar por mês aqui,
+[10:33]  eu vou colocar aqui por mês, selecionando ele todo, control A, e eu vou diminuir,
+[10:45]  então, eu posso pegar o mesmo tamanho dessa fonte aqui, 46, clico aqui, ó, coloco 46 também,
+[10:52]  opa, legal, aí eu vou pegar a minha linha, eu vou colocar aqui, eu vou alinear o por mês aqui,
+[11:00]  e também na parte de baixo, olha só, aí eu vou pegar, olha, eu vou criar aqui também,
+[11:11]  esse cara aqui, tudo dinheiro, é o contrário, R, depois aqui, isso, aí eu pego isto, eu posso colocar aqui,
+[11:21]  legal, colocar fora, não tem um pouco de distância, não tem uma proporção confortável, então eu vou
+[11:32]  então eu vou agora tirar minhas linhas aqui que eu coloquei,
+[11:44]  e logo eu posso tirar aqui,
+[11:51]  então pessoal, então pessoal, olha só que legal que nós temos aqui essa tela, bem bonitinha, bem organizada,
+[11:58]  aí aqui nós podemos ver, que nós poderíamos diminuir o promoção, olha só, eu vou alinear aqui
+[12:06]  novamente, eu posso ver aqui, né, posso diminuir promoção até que ele fique, né, o tamanho que eu
+[12:13]  quero, então vou aqui em parágrafo, vou colocar ele pra direita, tá bom, eu vou arrastar ele
+[12:19]  novamente e alinhar ele aqui novamente, e eu vou diminuir agora também da fonte dele até, ó, estar aqui
+[12:33]  aqui, e eu vou em fit,
+[12:39]  então pessoal, olha só, o quanto isso fica confortável visualmente, né, lembra da aula anterior, conforto
+[12:45]  visual, é, o que era conforto visual, lembra da aula anterior, visualmente confortável, né,
+[12:56]  então eu vou arrastar aqui, ó, ainda vamos criar um outro agora aqui, vou deixar o rs, posso deixar o rs,
+[13:03]  por exemplo, colocar ele aqui, aí 29 eu colocaria virgo da 90, né, o pessoal faz assim também,
+[13:10]  e olha só pessoal, como dá diferença aqui, ó, eu ia colocar 29,90, ia ocupar esse espaço aí, eu ia
+[13:22]  colocar por mês aqui embaixo, esse aqui não existir, né, e por exemplo, se eu pego aqui, ó, promoção,
+[13:30]  aumento muito, e coloca aqui, e pego aqui, ó, o aproveite por tempo limitado, eu posso colocar,
+[13:40]  iria colocar assim, então pessoal, olha só isso aqui, né, você precisa decidir aí o que é mais
+[13:46]  confortável para você visualmente, olha só, para você entender pessoal, a importância
+[13:53]  do que é você alinhar as coisas, tá bom, de que é você manter a proporção, alinhamento, distância,
+[13:59]  olha só, deste lado aqui, ó, também quando você faz de qualquer forma, e não tem um alinhamento legal,
+[14:08]  né, você pode até colocar mais ou menos aqui, então pessoal, esse alinhamento também não é uma
+[14:13]  regra rígida, tá bom, olha só isso aqui, ó, nesse caso aqui, ó, eu tenho número 2 aqui,
+[14:20]  ele acaba aqui, talvez seja legal pegar esse cara e colocar aqui, ó, mas quando eu vou colocar ele aqui,
+[14:25]  ó, eu tenho que lembrar dessa distância aqui, ó, tá bom, eu lembro dela e coloco aqui, ó,
+[14:31]  lembrei da distância e coloquei, posicionei, ficou bonitinho, bem legal, então isso é legal,
+[14:38]  pessoal, e isso aqui é horrível, eu não estou falando dessa forma de colocar o preço, você pode
+[14:43]  colocar dessa forma também, da forma integral, mas tem que alinhar as coisas, manter um bom espaço
+[14:50]  entre os objetos, tá bom, se você levar esse conceito, você vai conseguir alinhar as coisas muito
+[14:54]  bem e fazer peças visualmente confortáveis, tá bom, e o cliente gosta muito dessas coisas, tá bom,
+[15:00]  pessoal, então o After Effects ele tem aqui, ó, um grid, tá bom, eu pouco uso ele, na verdade,
+[15:05]  eu uso mais a regra mesmo, vamos usar aqui, ó, se proporcional grid, você pode alinhar as coisas,
+[15:12]  você liga aqui o snap, ó, vamos alinhar aqui, eu curto muito não usar esse grid,
+[15:19]  mas tem aqui de recurso, tá bom, ele não é muito legal, aí você pode ter como base para alinhar
+[15:29]  as coisas, tá bom, pessoal, a desvantagem dele é isso, tá bom, por exemplo, ele não tem como
+[15:35]  saber aqui a proporção do 29, por exemplo, aí, ó, aí quando for alinhar aqui, ó, por mês,
+[15:43]  eu coloco por mês aqui, ó, vou colocar 90, eu não tenho, eu vou ter que colocar a regra aqui,
+[15:49]  então por isso eu prefiro trabalhar mesmo com a regra, tá legal, ok, pessoal, então essa é uma
+[15:53]  aula de alinhamento e proporção, tá bom, mantenha a proporção das coisas, mantenha as mesmas distâncias
+[16:01]  para que as coisas fique de forma perfeita, uma coisa interessante você se fazer, pessoal,
+[16:07]  você se acostumar, tá bom, para estar atenção nessas coisas, como por exemplo, você for no supermercado,
+[16:12]  você arrumar as suas coisas, você alinhar ali o que tem para alinhar, quando você colocar no caixa
+[16:18]  você alinha, tá bom, sei lá, quando você for lavar a loça, alinhe as coisas, peça atenção nessas
+[16:24]  coisas que vão fazer diferença no seu trabalho, tá bom, se você ficar praticando isso no seu dia a
+[16:30]  dia, quando você tiver uma situação vai ser muito simples para você alinhar, tá bom, e posicionar
+[16:35]  as coisas, parece coisa boba, mas não é, pessoal, então até a próxima.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_71
+=========================================
+
+[00:00]  Gens, Leão aqui e vamos a mais uma aula. Olha só pessoal, uma coisa que é muito importante e que pessoas ainda vacilam nesse quesito
+[00:07]  é em relação a logo do cliente, pessoal. Você não pode esquecer a logo do cliente, pessoal.
+[00:12]  Você não pode esquecer o que você tem que fazer com a logo do cliente em um vídeo.
+[00:16]  Isso é super importante e ajuda muito para um vídeo ser aprovado de primeira.
+[00:20]  Uma das primeiras coisas que você tem que pensar em relação a logo é manter a qualidade dela.
+[00:24]  Se você tem um cliente de primeira, acontece muito, às vezes, de mandar apenas um JPEG ali no WhatsApp
+[00:30]  e aquilo é a logo que ele tem. Então, muitas vezes, você vai ter mesmo que vetorizar, tá bom?
+[00:35]  Ou então, você paga para alguém, para algum design que você conhece, paga para ele vetorizar para você e mandar o arquivo.
+[00:41]  Então, como isso você consegue exibir no vídeo a logo do cliente com qualidade.
+[00:45]  E depois disso, você gastou ali, mas você tem um cliente fixo e você vai conseguir exibir a logo com qualidade.
+[00:50]  Isso é importante. Então, outra coisa em relação a logo é destaque, tá bom, pessoal?
+[00:54]  Você tem que colocar logo em destaque para ela ficar bonitinha lá.
+[00:58]  Você pode fazer uma arte encaixar ela no layout e você pode exibir a logo.
+[01:03]  Ou então, você pode deixar no canto também, alguns gostam.
+[01:06]  Mas quando você faz essa forma aqui, é um diferencial pensar na logo dentro do layout.
+[01:11]  Se for possível, sempre colocar. Olha só, neste outro exemplo, eu tenho aqui embaixo.
+[01:16]  Aqui na espécie, eu já não tenho, mas eu tenho no canto, tá legal? Eu tenho aqui em cima.
+[01:22]  Então, o cliente nota logo dentro, tá bom, pessoal?
+[01:25]  O cliente gosta muito de ver a logo dele ali na TV.
+[01:29]  Isso é muito importante, porque eles estão pagando, não é barato, eles colocarem um vídeo desse na TV.
+[01:35]  Então, a logo dele tem que ser exibida ao máximo.
+[01:39]  Então, olha só, esse aqui, eu coloquei a logo ali atrás.
+[01:42]  Esses aqui são vídeos, pessoal. Normalmente aprovados de primeira, tá bom?
+[01:46]  Terminei e mandei para o cliente aprovado.
+[01:48]  Mas é claro, eu reviso antes, né?
+[01:51]  Então, olha, novamente a logo aqui bem destacada.
+[01:54]  E aqui no final, então, olha, a logo bastante destacada, como eu já falei em outra aula.
+[01:59]  E repetir, né, pessoal, a logo. Você pode repetir ela bastante, sem problemas.
+[02:04]  Eu repeti em todas as telas. Aqui, olha, em todas as telas.
+[02:08]  Então, como eu falei sobre proporção, né, aqui eu tenho a logo maior nessa arte aqui.
+[02:14]  E já aqui, olha, onde eu estou mostrando produtos, onde o foco é produto, eu tenho a logo menor.
+[02:20]  Tá legal, pessoal? Não coloca também a logo para competir com as outras coisas que tem que ser destaque.
+[02:24]  Aqui, o destaque é o produto e o preço.
+[02:27]  E depois, vem as outras coisas. Então, a logo está ali, né, não...
+[02:31]  A logo não está opaca, né? Ela tem um bom destaque ali, mas ela não é o primeiro plano.
+[02:37]  Não é a primeira coisa a ser vista aqui. E por ela repetir também, né?
+[02:41]  Aqui, a pessoa já está acostumada, já está vendo maranata.
+[02:44]  E o que ela vai ver diferente aqui é os produtos e o preço.
+[02:46]  E também, sempre que possível, você deve dar vida à logo, tá bom?
+[02:50]  Você anima ela, seja no início, seja no final.
+[02:53]  Seja quando ela entrar aqui, ó, no cantinho, você coloca ela animada também, tá bom?
+[02:58]  Nunca joga a logo de qualquer jeito aí na tela.
+[03:01]  Isso não é legal, porque o cliente às vezes pode reclamar.
+[03:05]  Pô, nem deu atenção para a minha logo e tal, entendeu?
+[03:08]  Porque, olha só, pessoal, o cliente está pagando, entendeu?
+[03:12]  Ele quer que você faça, entendeu? E não quer saber...
+[03:15]  Ah, porque não sei o que, não sei o que, entendeu?
+[03:18]  Não tem desculpa para os clientes.
+[03:20]  Se você fechar um trabalho com o cliente, muitas vezes você está pensando
+[03:23]  ah, eu vou fechar um preço bem legal para mim, né?
+[03:26]  Eu vou receber bem por esse vídeo.
+[03:28]  Então, um cliente pessoal, ele vai querer que tu faça, entendeu?
+[03:32]  Um negócio legal para ele. Então, você tem que fazer um negócio legal.
+[03:35]  Então, você tem que dar atenção a todas essas coisinhas, tá bom?
+[03:39]  Então, recapitulando, tá bom?
+[03:41]  A logo do cliente, destacar ela ao máximo, repetir, né?
+[03:45]  Para enfatizar e colocar ela com qualidade no vídeo.
+[03:48]  Sempre com qualidade, tá legal, pessoal?
+[03:50]  E dar vida a ela também, tá legal?
+[03:53]  Colocar ela animada de um jeito bem legal.
+[03:56]  Também, pessoal, tem cliente que nem dá bola para isso.
+[03:58]  Mesmo assim, você faz.
+[04:00]  Você pega esses conceitos, pessoal, você aplica e seus trabalhos, tá bom?
+[04:02]  Tem muita gente que fala, ah, não sei o que, eu faço qualquer jeito.
+[04:05]  Eu ganho dinheiro e tal, entendeu?
+[04:07]  Portanto, é o dinheiro.
+[04:09]  Cara, se por exemplo, tu fala essas coisas, velho.
+[04:12]  Tu compete com o outro cara,
+[04:14]  só que o cara, ele olha para todos esses conceitos,
+[04:16]  ele peça tensões de detalhes,
+[04:18]  ele faz todas as peças com esses detalhes,
+[04:21]  bem alinhadas com conceitos, conceitos fotográficos
+[04:24]  e faz as coisas bem bonitinhas, logo bem animadas e posiciona bem.
+[04:27]  Eu sou de uma agência, né?
+[04:29]  E eu quero te contratar.
+[04:31]  Você acha que eu vou contratar quem?
+[04:33]  O cara ali que faz um trabalho grosseiro,
+[04:35]  só porque ele ganha dinheiro, ele ganha dinheiro fácil.
+[04:38]  Ou eu vou contratar o cara ali que faz um trabalho bem legal, entendeu?
+[04:41]  Por esses motivos, pessoal,
+[04:43]  a gente acaba recebendo apagamentos maiores
+[04:46]  por conta de que o cliente quer o nosso trabalho, entendeu?
+[04:49]  Ele quer o trabalho que a gente faz
+[04:52]  de diferente dos outros, tá bom, pessoal?
+[04:54]  Isso tem valor.
+[04:56]  E o valor que eu estou falando, pessoal, não é valor de dinheiro, tá legal?
+[04:59]  Eu estou falando em valor.
+[05:01]  É uma coisa diferencial, você tem um diferencial.
+[05:04]  Então, isso tem muito valor.
+[05:06]  Por exemplo, se você pega uma pedra na rua um sexto,
+[05:09]  você pega, você joga fora.
+[05:11]  E você pega um diamante, você sabe o valor que tem aquilo,
+[05:14]  você sabe quanto é importante um diamante
+[05:16]  e por ele ser importante, por consequência,
+[05:18]  ele tem um preço, ok?
+[05:20]  Então, essa é a diferença de valor e preço.
+[05:23]  Tá legal, pessoal?
+[05:24]  Então, mais duas cozinhas extras aqui na sala pra você.
+[05:27]  Então, tem que mais que aproveitar, né?
+[05:29]  Até a próxima aula.

@@ -1,0 +1,371 @@
+
+
+=========================================
+📖 INÍCIO DA VIDEO_263
+=========================================
+
+[00:00]  Muito bem pessoal, gente, nem aqui, e se você não acompanhou a aula do Octane, né, que você está fazendo apenas com estendas, né,
+[00:08]  a gente fez, a gente colocou essas duas telas aqui, substituição, né, para colocar a renderização com o Octane, né,
+[00:15]  e a galerinha que está fazendo com o Octane vai ter que ter esse resultado aqui, né, um pouco mais de intensidade em relação
+[00:21]  A escola é principalmente prata, né, e a iluminação que está em um ângulo aqui é um pouco diferente, né,
+[00:30]  então por isso a gente vê essa diferença aqui, né, e a peça de metal ela é bem mais fritida nesse caso aqui, beleza?
+[00:39]  Então, para você que está fazendo com estendas, estendas, né, pode ficar tranquilo aí que vai dar tudo certo.
+[00:47]  Ok, então olha só, a renderização com o Octane, né, então ficou uma iluminação até um pouco melhor, bem mais viva, né,
+[00:57]  porém não é uma diferença gritante, ninguém vai dizer assim, por exemplo, ah, a renderização faz a renderização com o Octane,
+[01:06]  porque eu acho que essa aí com estenda não está muito legal, ninguém vai notar isso aqui, né, então realmente,
+[01:13]  realmente o que vai ajudar nesse cara usando o Octane é, né, um pouco mais de iluminação e nitidez em alguns detalhes,
+[01:20]  e tempo de renderização mais rápido, beleza? Então, vamos renderizar isso aqui, ter parado para enviar para o cliente, né,
+[01:29]  então como você pode ver, a logo do cliente aqui, né, não aparece na tela de 50% desconto, beleza, de boa, né,
+[01:39]  acho que uma tela pode passar, no restante todo o vídeo você vê que consta o nome Protiping, então bem legal isso, né,
+[01:47]  então olha só, a gente vai renderizar isso aqui, né, para deixar prontinho para o cliente, então você vem em Farley,
+[01:54]  Export, Adobe Media Encoder, como você ainda lembra, né, que eu acredito que você assistiu completamente a aula de renderização
+[02:04]  daquelas três prioridades, primeiro a gente tenta renderizar aqui no Media Encoder, se não der certo a gente tenta renderizar a compra em E,
+[02:12]  se não der certo a gente tenta então renderizar dentro do After Effects, né, então vamos abrir o Media Encoder,
+[02:19]  eu creio que o de vocês também está tudo ok e nós vamos renderizar essa parada aí,
+[02:26]  deixa eu abrir aqui o Media Encoder, demora um pouquinho, e prontinho, tá, tá abrindo aqui, vamos lá cara, beleza,
+[02:38]  então Media Encoder abriu, eu te aguardo o envio aqui do projeto da composição pra cá para que o Media Encoder possa renderizar,
+[02:47]  então isso pode demorar um pouquinho aí, dependendo do projeto e também da sua máquina, beleza, então vamos aguardar aí,
+[02:56]  enquanto isso a gente pode clicar em file save, né, Project, você deixa essa algodinha aí, então prontinho,
+[03:02]  já caiu pra cá, né, o black file standard já está aqui, então sem clicar aqui, né,
+[03:10]  corresponder à origem de taxa de bits alta, né, então está numa resolução já bem legal, isso aqui é o suficiente pra mandar pra TV,
+[03:18]  eu não sei que alguém peça pra você uma qualidade extremamente alta, né, se ele se manda na qualidade mais alta possível,
+[03:26]  você vai clicar aqui, aí você aguarda, abre essa genelinha, né, então quando abrir aqui,
+[03:35]  se algum cliente especificamente pedir pra você, manda uma qualidade mais alta possível, né, então o que você vai fazer,
+[03:43]  você vai abrir isso aqui, você vai aqui embaixo, você muda essa codificação aqui pra codificação para constante,
+[03:52]  e a taxa de bits, você vai colocar isso aqui no topo, tá, no caso tá em 10 aqui ó, né, você vai aumentar isso aqui ao máximo,
+[03:59]  você pode ver que vai chegar a 90 MB aqui, usar a qualidade máxima de renderização, e você vai pressionar OK, beleza,
+[04:10]  então ele vai estar numa qualidade bem mais alta, então você vai clicar no vídeo, aí você vai escolher um local para salvar,
+[04:16]  você vai em Black Friday, né, na partinha de render, então ó, 00 Black Friday, né, a gente pode renomear aqui, prototype,
+[04:26]  deixa eu colocar Full HD, tá, vale a pena lembrar que HD não é Full HD, tá, então 1080p é o Full HD,
+[04:37]  já, o HD é o 720, tá, só reforçando aí pra, né, pra que ainda não tá ligado, então você clica em salvar,
+[04:47]  você dá o play aqui, então ó, você tá vendo aqui embaixo uma figura, tá renderizando já o nosso vídeo, beleza,
+[04:55]  ou seja, já vamos mandar para o cliente para ele aprovar, muito bem pessoal, então terminou a renderização, né,
+[05:02]  agora que tem a data tudo certo, então, terminado a renderização, né, vai ficar dessa forma aqui,
+[05:09]  vai aparecer esse símbolo aqui para você, né, se você clicar, aparece esse bloco de notas aqui, não vamos entrar nisso, né,
+[05:18]  não vamos entrar em detalhe em relação a isso, e vamos clicar aqui e nós já vamos a, então, o programa do Xplode,
+[05:27]  vai ver nosso vídeo aqui, né, então vou dar um play para a gente conferir.
+[05:32]  Black Friday Protype, tudo com 50% de desconto, Smart TV 43 polegadas, a partir de 1299,
+[05:40]  Smartphone JS, 699, Notebook JS, 999, Black Friday Protype, Black Friday Protype, tudo com 50%
+[05:51]  aí o 50% saiu extremamente alto, né, porque eu dupliquei aqui, ó, e não desliguei o audio, né, como você pode ver na tela 01,
+[05:59]  eu desliguei aqui, né, nessa tela faltou desligar aqui, e por isso saiu o som de 50% tão alto, né,
+[06:07]  então eu teria que renderizar novamente, quando você tiver problemas de audio usando aqui o video encoder,
+[06:13]  às vezes você manda de volta aqui e não corrige, manda o mesmo audio, tá, então o que você faz?
+[06:20]  Você vem aqui, deleta, né, e você clica em sim, você vem editar, você vem em Preferências,
+[06:27]  aí você vem aqui em Etadados, opa, não, aqui, Media, isso, Media, tá, e para não acontecer esse problema,
+[06:37]  você vem aqui, ó, limpo, tá, aí deixa eu limpar o banco de dados aqui, ó, limpando o banco de dados de cache de media,
+[06:46]  tá, tão prontinho, impressionou, ok, quando a gente mandar, de certeza que isso aqui vai dar certo, né,
+[06:53]  então eu desliguei aqui o audio, tá, da minha tela, deixei apenas com um impacto, é a mesma tela, então acabou duplicando
+[07:00]  o volume de um, do impacto, tá, então vamos em File, Export, e vamos colocar em Media encoder queui novamente,
+[07:10]  então ó, já está aqui, né, dessa vez bastante rápido, a gente clica aqui, a gente volta, né,
+[07:17]  porque sempre tenta salvar na parte do projeto, e em Render, vamos entrar, então seleciona aqui, Salvar,
+[07:25]  e eu vou colocar em sim, para substituir, e lembrando que, ó, com a experiência de Outbit, né, taxa de bit alta,
+[07:34]  o cliente, num caso que quer a insolução do máximo, então a gente vem aqui, ó, para a constante, né, e coloca no máximo aqui,
+[07:42]  utilizar a qualidade máxima de renderização, se impressionar, ok, e dar um play no render, tá bom, novamente vou renderizar aí,
+[07:50]  e logo mais eu volto, beleza, muito bem pessoal, renderizado novamente, né, vamos clicar aqui, para abrir o Rack Explorer,
+[07:58]  ele acabou criando outro aqui na verdade, né, então eu posso deletar esse primeiro aqui, que eu sei que eu errado,
+[08:05]  e esse um, eu vou renomear e tirar esse um daqui, né, então beleza, eu vou dar um play aqui para verificar esse status do certo.
+[08:20]  Então é isso, aí a gente vai fazer o que, ó, vamos ver em Black Friday aqui no projeto, né, e vamos abrir esse aqui,
+[08:42]  que a gente estava com o Premiere Pro, né, então a gente vai identificar onde está, tá meio balançado meu aqui,
+[08:49]  identifica aqui onde está o painel dos projetos, né, o Project aqui, identificou, aí você vem em volta aqui,
+[08:57]  vamos na parte do render, vamos pegar aqui, o Black Friday, né, o HD, e vamos jogar aqui dentro do Project, né, olha só,
+[09:06]  parece copiar, entendeu, então com esse cara aqui, a gente vai jogar ele aqui para criar uma sequência, né,
+[09:13]  é sempre bem legal fazer isso, porque a sequência já vai ser criada nos mesmos parâmetros do vídeo, né,
+[09:20]  olha só, 1920 x 1080, 29,97 frames por segundo, então ele já vai pegar todas as informações,
+[09:28]  então a gente pressiona ok, beleza, o que a gente vai fazer aqui? Quando a gente sente mandar isso aqui,
+[09:34]  por exemplo, no WhatsApp que eu postava no Facebook, a imagem que vai ficar é essa aqui, né, então seria praticamente
+[09:41]  uma perca de trabalho aqui, isso poderia ser, então é legal, nem interessante ficar uma imagem do cliente,
+[09:48]  a pessoa que está navegando na internet não vai chamar atenção disso aqui, né, meio estranho, talvez por curiosidade,
+[09:55]  por curiosidade, mas é bem interessante a gente colocar o Black Friday aqui, então até mesmo a tela,
+[10:02]  40% deste ponto, né, poder colocar também, então a gente vai colocar o Black Friday nesse caso,
+[10:08]  a gente vai clicar aqui, para tirar uma fotografia, tá, tirar uma foto aqui, caso você não esteja vendo esse botão,
+[10:17]  ó, de repente esteja assim, né, ó, aí você não está vendo a imagem da câmera, né, você clica nesse botão demais
+[10:26]  e você procura a câmera aqui, tá, então olha só, outra dica que ele proimera, né, se você vinha aqui,
+[10:32]  você vê que tem um monte de outros botões aqui, né, interessantes, então de repente você pode estar utilizando,
+[10:39]  beleza, então vamos pegar aqui, ó, a câmera, aí você vai, se você pegar, arrastar para cá, ó, tá, simplesmente assim,
+[10:48]  e você pressiona ok, prontinho a câmera vai ficar adicionada aqui, tá, lembrando que é esse botão demais aqui,
+[10:53]  você acessa esse menu e consegue arrastar umas coisas para cá, vamos fechar e vamos clicar aqui na imagem fotografia,
+[11:01]  né, aqui em cima você escolhe o nome, por exemplo, frame black friday, tá, e aqui você escolhe um formato,
+[11:11]  jpeg, png ou outras coisas, né, eu gosto de colocar png e aqui é onde você vai salvar a imagem, tá,
+[11:18]  ou seja, eu seria lá na parte onde salva a imagem, você pode clicar e salvar dentro da própria parte do projeto,
+[11:25]  né, ó, cliquei e eu vou salvar dentro da parte do projeto, vou salvar aqui em imagem, né, e selecionar a parte,
+[11:32]  aí dessa forma é ficar guardado para sempre esse frame, né, depois suplicar e ver o projeto para alguém,
+[11:37]  alguém abrir e vai estar o frame aqui, então isso é bem legal, e muito importante, tá, pessoal, não tão importante, né,
+[11:44]  a cor, ó, né, mas é muito importante, ou seja, clicar aqui porque já vai importar para o projeto a imagem, tá,
+[11:52]  você não estiver marcado, você vai salvar, você vai ter que ir lá na parte, pegar e colocar aqui de novo, né,
+[11:58]  você marcar essa opção, o programa já vai automaticamente importar para cá, então isso é bem legal,
+[12:03]  como você pode ver, vai aparecer aqui após o pressionar ok, ó, legal, e você pega isso, você rasta para cá,
+[12:11]  aí a gente está um zoom 1, você está vendo aqui, ó, isso aqui é um frame, né, o logo aqui, ó, um frame,
+[12:18]  então a gente vai cortar aqui e deletar esse restante, ó, que eu tenho um frame, beleza, então vai ser isso,
+[12:26]  então na tela do, então na, naquela thumbnail que fica no WhatsApp, vai aparecer essa imagem, na thumbnail,
+[12:34]  na thumbnail que vai ficar também no Facebook, vai aparecer esta imagem, beleza, então bem mais interessante,
+[12:41]  você pressiona contra o M, tá, eu já vi o também em 1080 aqui, tá, eu só baixo aqui, vou colocar aqui para constante,
+[12:52]  né, ó, 18 megas legal, eu deixo 10 megas, eu mando isso aqui para o cliente, né, porque os telefones de hoje já estão trabalhando
+[13:00]  nessa resolução tranquilamente, vamos marcar, usar máximo de renderização aqui, né, qualidade, e é isso, caso você queira
+[13:08]  mandar para um cliente uma resolução mais baixa, é aquilo que eu falei para você, você vê aqui, ó, e muda para o WhatsApp,
+[13:15]  né, eu tenho vários tamanhos aqui, por exemplo, 43 mega, é 43 mega, né, que é o 620, que é apenas HD, né,
+[13:26]  então olha só, aqui está HD, tá, então eu posso mandar também nessa resolução, lembrando, né,
+[13:34]  essa aqui não é uma aula de renderização completa, né, pessoal, só estou revisando as coisas que você, o formato você coloca em H264,
+[13:42]  MP4, e aqui você escolhe o seu preset, né, que você deve ter feito o preset comigo na aula de renderização, beleza,
+[13:50]  e feito isso, basta você clicar em output name e escolher o local para salvar, no caso vai ser o mesmo local onde salvamos
+[13:58]  o vídeo lá, estão em render, você pode até clicar aqui, e ao invés de full, a gente pode colocar aqui, ó,
+[14:07]  redes sociais, né, e pronto, você clica em salvar, e aqui basta clicar em exportar, né, como é um vídeo muito rápido,
+[14:20]  renderização muito rápida, é uma coisa leve, a gente pode cortar mesmo aqui no playmete, não precisa levar para o media encoder, beleza,
+[14:26]  então, ó, já foi, salvando o projeto, está renderizado, a gente vem render, nós temos aqui agora redes sociais,
+[14:34]  se a gente der um play,
+[14:52]  beleza, então é isso, pessoal, nosso vídeo aí está prontinho, daqui você pode mandar para o cliente, né,
+[14:58]  que ele vai ficar com a Thumbnail que eu falei para vocês, que ela tem a linha de, ó, vai ficar desse jeito, então lá na rede sociais,
+[15:05]  ao invés de ficar desse jeito aqui, ó, está vendo? Essa primeira imagem aqui, iria ficar desse jeito, aí como a gente tirou a Thumbnail,
+[15:13]  vai ficar desse jeito aqui, né, então fica bem legal, legal, olha só, aparece aqui, se você tirar o olhinho, olha só,
+[15:23]  vai ficar desse jeito, né, se você olhar aqui para essa tela, aí a gente troca por essa, é dessa forma que vai aparecer lá no WhatsApp,
+[15:31]  Instagram e Facebook, beleza, lembrando que, acho que no Facebook dá para colocar assim a primeira tela, né, dá para colocar a tela,
+[15:39]  que vai ficar ali de Thumbnail, eu não sei se a reação não patrocinada, mas eu sei que no Instagram dá para a gente escolher assim a tela,
+[15:46]  a tela principal, né, mas o cliente às vezes nem escolhe, então é legal, a gente vai deixar no ponto para ficar para ele, beleza?
+[15:54]  Então, pessoal, é isso, até a próxima!
+
+
+=========================================
+📖 INÍCIO DA VIDEO_264
+=========================================
+
+[00:00]  O que é aí pessoal, beleza? Eu estou aqui com o trabalho do Sidney Souza, já enviou para mim aqui o trabalho dele, é esse vídeo aqui, então vamos analisar um pouquinho aqui e ver o que está rolando, beleza, e vamos ver o que tem que ajustar.
+[00:30]  70% de desconto, é isso mesmo, 70% de desconto, menor preço da cidade, em um vingão esportivo da loja Protide, na perca, é por tempo limitado, Protide no centro da cidade.
+[00:46]  Beleza? Ficou bem legal, a gente vai, ficou bem legal e cara, tu já está avançando porque tu está praticando, entendeu? Isso eu vai conseguir obter o nível que você quer se praticar, entendeu? Então, por estar praticando aí tu já ganha muitos pontos da frente, então isso é bem legal, né? Só praticando para a gente conseguir realmente chegar ao nível que a gente quer.
+[01:14]  Então, pontos para você ir por conta da prática e ter enviado aí, muito bem, vamos começar então analisando os pontos positivos, né?
+[01:26]  Pessoal, vai muito pena lembrar também que todas essas peças aqui, tudo, o cenário, assistião, essas peças de metais aqui atrás, essa parede nada é pronto, né? Tudo a gente faz no cinema 4D, então o cara fez tudo aí, né? Tudo a mão mesmo, então isso que é legal, isso vai trazer uma liberdade de criação e muitas possibilidades mais para frente.
+[01:51]  Agora, olha aqui, deixa eu ver. Colocou umas linhas aqui, né? Olha só, então já foi um detalhe, aquele acrescentou, ficou bem legal e isso é legal de fazer porque... Deixa eu ver se tem aqui...
+[02:09]  Isso é legal de fazer porque é tipo, ah, eu quero implementar uma coisa aqui, aí você vai implementando, sabe? Então já vai te dando uma experiência já de tipo, eu coloquei uma coisa aqui para fazer diferença, isso é bem legal.
+[02:27]  Agora, o 3DDM tá bom, né? É um 3D bem legal, olha só, ele fez as letras bem feitas, escolheu uma boa fonte, tá muito bom o espaçamento aqui da fonte, né? Tudo mais e tá super legível, né?
+[02:42]  Talvez esteja um pouco próximo a esse esportivo aqui, não sei, mas tá tudo bem. Então olha só, recebe bastante brilho, né? Ele colocou mais de brilho aqui e isso tá bem legal, você percebe que recebe brilho aqui nesses cantos e isso é muito bom.
+[03:00]  Resalta bastante o texto, né? O design tá muito bom, né? Ele deixou com o espaçamento, não deixou nada tão apertado, então ficou bem bonitinho, ó, tem um espaço em cima, tem um espaço embaixo, então dá pra ver que é uma peça bem construída e que não foi feito na louca, né?
+[03:20]  Agora essa questão de espaço, deixa eu ver aqui, aqui, você tem que prestar atenção quando colocar palavras assim, ó, quando tem cedilha e alguns assentos pra não acontecer isso, né? Então deixa um pouco de espaço aí pra aparecer realmente todo o texto, deixa eu ver como é que tá o outro aqui, ó.
+[03:39]  Entendeu? Aqui já aparece mais, aqui aparece um cardim, mas comi um pouco no meu, né? Aí tem que deixar, parecia um pouco mais não deixar detonar tanto assim, cadê?
+[03:51]  Ó, aí detonou muito aqui. Beleza? A textura ficou muito legal do chão, né? Ele colocou até um pouco mais de reflexão, então o que ele fez? Ah, vou colocar um pouco mais disso aqui, porque eu acho legal.
+[04:03]  Isso é muito bom de você fazer, tá, pessoal? Já vou colocar um detalhe que eu curto e tudo mais, então você já vai ajustando do jeito que você curte, entendeu?
+[04:13]  Então tá muito bom mesmo, olha só. Agora, vamos falar de outros detalhes aqui. Beleza, aqui no início, colocou a tela, beleza.
+[04:24]  Aí o texto acabou saindo aqui, né? Antes da hora, aí depois começa a transição, né? Tem que arrumar esse trecho aqui.
+[04:35]  Então já nota aí. Pega aí a atenção, anota a primeira tela. E ok, ele colocou os detalhes aqui, né? Na grade, colocou dois aqui, acho que eu coloquei só um, deixa eu ver.
+[04:48]  É, coloquei só um. Aí colocou dois aqui. Então pra você ver, já tá bem encherido já. Então isso é bem legal, pessoal.
+[05:00]  Você já começava a se expor e ver como é que fica suas ideias, tá? Isso é muito importante de fazer, bem legal, tá?
+[05:08]  Aqui ele colocou as peças dele aqui, né? São um pouco maiores e um pouco mais destacadas que eu fiz, mas tá muito bom, tá?
+[05:15]  Quando você fizer peças assim, por exemplo, que não são tão relevantes, que não expressam a mensagem do vídeo, tá?
+[05:24]  Uma cuidado pra não fazer tão grande. Esse tamanho aqui tá bem bom, né? Só não fazer tão grande pra não destacar, por exemplo, mais que o texto.
+[05:32]  E aqui, também, o atenção, né? Ficou aqui em cima, meio que não tava muito encaixando aqui na peça. Ficou um pouquinho deslincado aqui, né, com a peça.
+[05:42]  Então teria que ajustar também, né, ó? Tá passando aqui esse detalhe. E o restante de resto tá muito bom.
+[05:51]  Talvez esteja um pouco forte. Eu sinto que tá um pouco forte, tá? O contraste, tá com muito contraste, mas tá legal essa tela aqui.
+[06:01]  Aí o que aconteceu é que quando começou a transição, acho que por conta de algum efeito, ele já começou aqui, ó.
+[06:10]  Escureceu, né? Escureceu aqui. Então isso dá uma sensação de que tem um gato no vídeo, né? Tem um bug, então escureceu.
+[06:21]  E também se tu usou o direccional blue, né? Que a gente tá usando aí pra fazer esse motion blue aqui, tipo, tem que deixar a animação começar um pouco mais.
+[06:34]  Tipo, tá mal começando, ó. Já tá com blue, já. Então deixa a animação acontecer um pouco, quando ela pegar realmente velocidade, aí começa a desfocar, tá?
+[06:45]  Então na aula que eu fiz essa parte, tem certinho como é que a gente faz. E ok. É que bem legal do jeitinho que tá lá a outra.
+[06:55]  E a mesma coisa, né? O vem aí parece que ele tá um pouco mais para esse lado aqui e ele tá aqui não encaixando, né? Parece que tá um pouco em cima.
+[07:07]  Então teria que trazer ele um pouco mais para esse lado um pouquinho, centralizar melhor e colocar um shadow aqui, eu acho.
+[07:14]  Não sei se eu coloquei lá no meu, mas tem que colocar uma forma de encaixar mais aqui, de envolver mais o texto com a peça.
+[07:21]  Ok, vamos descer aqui.
+[07:26]  Ok. Aqui, novamente, aqui a cor, né? A cor do vídeo, deixa eu ver aqui que tem denotação, simetria, né? Simetria.
+[07:36]  Deu para ver que você colocou, acho, deve ter colocado simetria, né? Colocou a peça. Deixa eu ver aqui para o outro lado aqui.
+[07:44]  Tu colocou a peça para um lado, né? Quando tu trouxe para esse lado aqui, ó, tu deve ter colocado uma simetria.
+[07:53]  Só quando coloca simetria nesse jeito, acaba que o prototype ficou contrário ali, né? Então teria que ajustar esse detalhe aí também.
+[08:02]  O que acontece? Você pode fazer a simetria só com a peça de trás, deixar logo fora da simetria, né? E traz ela para cá normalmente, tá?
+[08:10]  Traz ela com uma instância, alguma coisa do tipo.
+[08:14]  Então, vamos lá.
+[08:18]  Agora, a cor, né? Falta melhorar um pouco essa cor, tá um pouco escuro.
+[08:24]  Tá parecendo que deu, assim, um problema, né? E ficou muito escuro, olha só.
+[08:30]  Então, fica... Isso acaba trazendo um pouco de poluição, né? Por exemplo, tem um amarelo aqui.
+[08:36]  Aí para cá já está laranja e aqui tem um vermelho mais claro e aqui já está um vermelho mais escuro, um vermelho um pouco vinho, né?
+[08:46]  Então, acaba trazendo muita mistura de cores.
+[08:49]  Por outro lado, tá bem legal a reflexão, né? Essa falta de ajustar realmente a intensidade de luz aqui para deixar isso aqui um pouco mais vivo, né?
+[08:58]  Para deixar uma cor um pouco mais viva.
+[09:01]  Algo mais nítido, sabe?
+[09:05]  Então, se colocar isso aí vai ficar demais esse vídeo.
+[09:08]  Agora, simetria, né? Tela que fica faltando.
+[09:13]  Que foi isso.
+[09:15]  Faltando, né? Ok.
+[09:20]  Então, olha, quando começou aqui...
+[09:23]  Tem um outro bug aqui.
+[09:26]  Talvez tenha sido no AdjustMeleia e quando seu uso é feito para fazer a tela tremer.
+[09:33]  Eu mostrei lá como é que faz, né?
+[09:36]  A gente coloca ali por completo para não acontecer isso aqui, ó.
+[09:39]  Tá vendo? Tem um salto aqui, ó. Começa aqui...
+[09:43]  De repente, salto, olha só.
+[09:46]  Você consegue receber melhor aqui.
+[09:49]  Tem um salto aqui, um zoom, não sei.
+[09:53]  Então, parece zoar, dá uma sensação de que foi um bug no vídeo.
+[09:58]  Então, eu vou desligar aqui esse aulo só para a gente rodar aqui.
+[10:04]  É, a fumaça aqui, né?
+[10:06]  A tua fumaça, ela...
+[10:09]  Não tá começando aqui, é...
+[10:12]  Produçando ela mais ao centro.
+[10:13]  E ela tá aparecendo aqui, ela caminhando e se formando aqui ao longo do texto, olha só.
+[10:18]  Entendeu?
+[10:20]  Então, você tenta fazer com que esse caminho aqui, ó, seja mais curto.
+[10:24]  Olha só.
+[10:26]  Quando eu bati aqui, vamos ver...
+[10:32]  Ó.
+[10:34]  O massa iniciou aqui, né?
+[10:37]  E aqui, ela já tá toda aberta.
+[10:39]  Então, foi em quatro frames, tá? Quatro frames aí, ó.
+[10:44]  A fumaça se formou e começa a subir.
+[10:48]  Então, não dá essa impressão de que tá se formando...
+[10:52]  Tá caminhando para as laterais.
+[10:54]  Ó.
+[10:56]  Tá vendo?
+[10:58]  Então, é só como é que tá o seu aqui.
+[11:01]  A fumaça meio que caminha para se formar.
+[11:03]  Então, tem que acelerar ela, né? Cortar um pouquinho.
+[11:07]  Porque ela começa mais ou menos aqui, ó, tá?
+[11:10]  Aí daqui você pula quatro frames acelerados com o time remap, tá?
+[11:15]  Se você tá nesse nível é porque você assistiu a aula de time remap da After Effects, né?
+[11:21]  Então, já te falo isso.
+[11:23]  Se não assistiu, tem que assistir a aula lá de time remap, pra entender.
+[11:26]  Ok?
+[11:27]  Porque, olha só, se tu olhar um vídeo, por exemplo, olha só o que acontece.
+[11:32]  E falta acelerar, né? Essa fumaça aí.
+[11:35]  Quando a baixa, ela tem que acelerar um pouco mais e depois ficar lenta.
+[11:39]  Nesse caso aqui, o que tá acontecendo, ela tá óbvio.
+[11:42]  Se formando...
+[11:45]  E tá um pouco estranho.
+[11:47]  Então, olha só como é que acontece, como é bastante rápido.
+[11:50]  Quando você pega uma cena de impacto,
+[11:51]  ó, entendeu? A fumaça acelera bastante, só em poucos frames, ó.
+[11:55]  Olha aqui, eu vou notar pra você.
+[11:57]  Deixa eu ver aqui, eu acho que aí.
+[11:59]  Tá vendo a marcação aqui, ó.
+[12:01]  Uma, duas, três, ó.
+[12:03]  Mais ou menos quatro frames aí, ó.
+[12:05]  A fumaça se liberta.
+[12:07]  Daqui ela já começa...
+[12:09]  Se liberta, né? Rapidamente.
+[12:11]  E daqui ela começa aí um pouco mais lenta.
+[12:13]  Então, olha só como é que acontece.
+[12:15]  Como é bastante rápido.
+[12:17]  Quando você pega uma cena de impacto, ó.
+[12:19]  Se liberta.
+[12:22]  Nesse caso aqui, como o impacto tá muito grande,
+[12:25]  então ela fica um pouco mais rápida, né?
+[12:27]  Então, só pra você ter noção,
+[12:29]  é bastante importante quando você vê, tipo, esses vídeos,
+[12:33]  você analisar essas coisas,
+[12:35]  essas coisas que você traz pro seu vídeo.
+[12:37]  Pra que o seu vídeo não tenha essa divergência, tá?
+[12:41]  Ó, aqui é a mesma coisa.
+[12:44]  O texto bateu, já tava,
+[12:46]  já bateu e depois a fumaça começa a vir, entendeu?
+[12:50]  Então, ficou um pouco estranho.
+[12:52]  O ideal é bater, entendeu?
+[12:54]  A fumaça já se formar com um pouco de velocidade
+[12:57]  e depois ela ficar lenta, usando o time remap.
+[13:00]  Deixa eu ver se eu usei essa tela aqui.
+[13:02]  Eu usei, né?
+[13:04]  Ó, vamos ver aqui.
+[13:06]  Ó, entendeu?
+[13:08]  A fumaça já entra, já.
+[13:10]  Rápido.
+[13:14]  Saca, então é bem rápido.
+[13:16]  Você percebe que você colocou esse efeito aqui, ó.
+[13:21]  Nessas coisinhas vindo aqui, ó.
+[13:24]  Aí, quando o texto bateu,
+[13:26]  deu esse efeito de luz aqui nessa faísca
+[13:30]  e veio essas partículas pra frente aqui, ó.
+[13:33]  Essas aqui, olha aqui, tá vendo?
+[13:35]  Olha só.
+[13:37]  Ela já vem rápido.
+[13:39]  Então, a fumaça não tá acompanhando esse esquema.
+[13:41]  A fumaça tá fora do time aqui, tá?
+[13:43]  Então, precisa ajustar isso aí.
+[13:46]  Porque é legal.
+[13:49]  Agora, essa transição aqui, ela ficou muito longa de glitch, né?
+[13:54]  26 segundos, ficou muito longa.
+[13:56]  Então, ela pode ser algo mais rápido, tá?
+[13:59]  Mais emocionante.
+[14:01]  Aqui, né, você colocou esse efeito de transição de luz aqui.
+[14:05]  Não sei qual foi o intuito,
+[14:07]  mas acabou ficando, acho que ficou um pouco estranho, né?
+[14:11]  Tipo, aconteceu aqui e continuou aqui na tela
+[14:14]  e depois trocou pra essa, né?
+[14:17]  Então, ficou um pouquinho estranho.
+[14:19]  Aí, você tem que analisar, né?
+[14:22]  Quando você tá fazendo vídeo, tipo, o vídeo tá rolando, né?
+[14:26]  Ok, eu tô assistindo, eu tô entendendo que tá rolando, né?
+[14:29]  Um cenário, texto batendo, informação chegando.
+[14:32]  E, de repente, rola esse efeito de flea assim,
+[14:37]  pode ser um pouco estranho, entendeu?
+[14:39]  Pode ser estranho pra quem tá assistindo.
+[14:40]  E, por isso, quando a gente coloca uma transição,
+[14:45]  por exemplo, esse efeito de glitch,
+[14:47]  a gente coloca ele um pouco mais rápido, entendeu?
+[14:49]  Pra ele não dar a sensação de que a pessoa teria que entender o que tá acontecendo.
+[14:53]  Ou então, de repente, se você colocar um glitch tão comprido desse,
+[14:57]  trazer pra um outro ambiente, também seria faria sentido.
+[15:00]  Mas aí, ficou muito longa aqui, né?
+[15:02]  Seria interessante um pouco mais rápido.
+[15:04]  É, ó, entendeu?
+[15:07]  Então, são alguns ajustes que tem que fazer pra ficar,
+[15:13]  pra manter o time, tá? Pra manter a consistência do vídeo,
+[15:16]  pra manter ele impactante e emocionante.
+[15:19]  Aí, você percebe que, tipo, você começa o vídeo, né?
+[15:23]  Com impacto e tal, fazendo as peças batendo no chão rapidamente.
+[15:27]  Aí, de repente, você coloca uma transição,
+[15:30]  que ela dá um ar de suavidade, olha só.
+[15:34]  Deu um ar um pouco de ar de suavidade.
+[15:37]  Caso que ele usasse transição, aceleram um pouquinho ela
+[15:40]  pra manter o ritmo do vídeo, tá?
+[15:43]  A mesma coisa aqui no final, né? Que você colocou.
+[15:46]  Cadê? Aqui, ó.
+[15:49]  Entendeu? Então, lá teria que acontecer um pouco mais rápido
+[15:54]  pra manter esse efeito do vídeo aí.
+[15:56]  E essa fumaça, ela tá, né?
+[15:59]  Tá muito...
+[16:01]  Tá se formando aqui do mesmo jeito que eu te falei.
+[16:04]  Beleza.
+[16:05]  E aqui nesse final, ó, dá um pouquinho de mais de espaço aqui, né?
+[16:10]  Pra dar uma folga, pra não ficar tão apertadinho assim,
+[16:14]  pra ficar mais confortável visualmente.
+[16:17]  E tá bem legal, né?
+[16:19]  Aí, quando você colocou a transição, acabou colocando por baixo
+[16:22]  dessas informações, né?
+[16:24]  Elas apareceram aqui em cima, pode ter ficado um pouco estranho também.
+[16:28]  Então, ó, passou a transição, faz isso aqui chegar, beleza?
+[16:32]  Vai isso aí animar. Pessoal, nós estamos trabalhando com o vídeo, tá?
+[16:36]  Anima essa parada aí.
+[16:38]  Nem que seja só uma animação simples, tá? Não precisa exagerar.
+[16:42]  Olha só, quando entrou aqui.
+[16:46]  Entendeu?
+[16:49]  Então, a animação, ela tem que acompanhar essa velocidade, entendeu?
+[16:54]  Olha só, bateu, chegou rápido aqui.
+[16:57]  O bagulho é rápido, sabe? Tipo isso.
+[17:00]  Nesse caso aqui, tá, pessoal? Vou fazer um vídeo lento, vai ser lento.
+[17:06]  Ok? Então, ó, dá pra você finalizar também e colocar essa transição, tá?
+[17:14]  E esse tipo de transição, falando em transição, né?
+[17:17]  Você colocou pra cá e depois o texto ia bater, né?
+[17:21]  Faltam esse texto que parecia bater aqui, ó.
+[17:24]  Você colocou isso pra cá e já tá aqui.
+[17:29]  Verificar também esse lance aqui.
+[17:32]  E tipo, se a transição vai pro lado e o texto baixa de frente,
+[17:36]  isso pode ser uma transição que não tem link, entendeu?
+[17:40]  Então, por isso que eu faço, a gente faz essa transição assim, ó.
+[17:44]  É pra ela ter um link, deixa eu te mostrar aqui.
+[17:48]  Aqui, né? Quando vai pro lado e pro outro.
+[17:50]  Entendeu? Então, meio que o cenário seria assim, né?
+[17:54]  E faz um L e volta aqui. Então, por isso, né?
+[17:57]  A gente consegue fazer essa transição aqui, ok?
+[18:00]  Aí, volta pra cá e volta pra lá, certo?
+[18:04]  E depois, ó, eu coloquei um pra baixo aqui.
+[18:08]  Digamos assim que seja um outro andar, né?
+[18:10]  Então, você vê que tem um link, a transição, ela faz o link, ó.
+[18:13]  O vídeo, quando eu faço isso pra baixo, o texto cai junto, entendeu?
+[18:17]  Tá linkado essa transição com a composição e a ação que acontece depois da transição.
+[18:23]  Agora aqui, eu já saí da tela, né? Dê um zoom para trás.
+[18:27]  E com isso, acaba puxando o texto e batendo na parede.
+[18:31]  Novamente, tem um link com a transição.
+[18:34]  Ó, sacou?
+[18:37]  Então, presta atenção também nessas questões aí.
+[18:40]  E é por isso que é muito bom praticar, pessoal, tá?
+[18:43]  Então, ó, o cara acertou muita coisa aqui, né?
+[18:45]  Tá muito bom já o vídeo dele.
+[18:48]  Aí, o que ele vai fazer agora?
+[18:50]  Vai se atentar essas coisas que eu tô passando pra ele.
+[18:52]  No próximo vídeo que ele fizer, já vai estar bem mais top do que isso, né, véi?
+[18:56]  Então, bem legal aí.
+[18:58]  Parabéns mais uma vez, sidi, né?
+[19:00]  E é isso aí, galera.
+[19:02]  Grande abraço pra todos.

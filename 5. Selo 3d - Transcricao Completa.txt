@@ -1,0 +1,1810 @@
+
+
+=========================================
+📖 INÍCIO DA VIDEO_75
+=========================================
+
+[00:00]  olha só pessoal dentro da parte do curso você tem essa partinha aqui expressões tá abre a
+[00:07]  pasta e nós temos aqui ó text expression tá então localiza isso pressiona enter aqui
+[00:13]  e ó vamos pegar então frequência nós temos essas duas expressões aqui é só a mesma
+[00:20]  expressão tá pessoal essas duas aqui ó essa que é uma tá que é uma aqui é outra tá mas é a
+[00:26]  coisa é a mesma só está com valores diferentes tá de coisa só vai acontecer em tempo diferente
+[00:31]  como você pode ver aqui ó frequência né tá este valor aqui aqui tá apenas um e oito aqui tá
+[00:38]  15 né ou seja isso aqui ela acontece mais rápido né mais de uma forma mais rígida e essa que já
+[00:44]  acontece de mais uma forma mais suave então vamos no after effects criar aqui uma nova composição
+[00:50]  control n colocar aqui como text e eu vou criar um novo sóio do control y sóio ok e control
+[01:02]  t eu vou escrever agora um texto aqui colocar que text animation ok bem aqui ó pra minha ferreta
+[01:12]  de expressão vou aqui no menu aline ó desligar aqui o caps lock e o aninho então meu texto aqui
+[01:20]  é o meio ok então a gente abre o nosso texto né e nós temos aqui essa opção aqui ó animates né
+[01:28]  então nós podemos animar ele mostra que pra mim vários parâmetros que podemos animar por exemplo
+[01:34]  o oposição ok então vou pegar o oposição vou afastar pra cá eu pode ser para cima também
+[01:41]  ó vou estar aqui para cima e aqui nesse range é select ou posso abrir e eu marco que frame no
+[01:50]  start com a minha agulha no início tá então vou pular aqui alguns frames pra frente né e
+[01:57]  o teste ó eu vou até 100% até meu texto vir todo pra cá se eu der um play olha pessoal
+[02:05]  esse negócio que essa coisa aqui né horrível né muito feio então muito feio impossível de usar
+[02:12]  esse algum vídeo né então a gente adicionar cada expressão lá e vai tornar tudo bonitinho aqui
+[02:17]  eu vou fechar o range ok e animator e animator mesmo eu vou adicionar selector e expression tá aqui
+[02:27]  tá pessoal da animator aqui não é que em cima não tá então antes adicionou aqui uma expressão
+[02:32]  parâmetro de expressão se a gente abrir tem aqui o amaut né e seria onde a gente pode adicionar
+[02:40]  nossa expressão tá muito bem voltamos lá no nosso nossa expressão né pegamos copiamos tudo
+[02:47]  aqui tá pessoal então control c clicamos aqui ó deletamos essa que está aqui e control v
+[02:55]  e aí você basta a gente clicar fora aqui ó já está funcionando funcionando a nossa expressão
+[03:00]  se eu der um play olha só né pessoal que diferença fez eu vou pressionar com o trozê ó
+[03:06]  ainda estava assim né e agora ó está assim ó bem legal né muito simples de fazer muito fácil
+[03:18]  e então a gente já tem um texto bem animado bem bonitinho além disso pessoal depois de você
+[03:25]  fazer isso de comentar aqui depois de você fazer isso aqui mesmo o animator você pode
+[03:31]  vir adicionar a propriedade e você adiciona por exemplo o texto então não vai cair o
+[03:36]  texto aqui dentro ok então podemos rotacionar e vai funcionar também tá pessoal olha
+[03:45]  ok porque esse reje aqui pessoal ele serve pra todo mundo que tá aqui tá mas se você
+[03:52]  vem aqui num texto por exemplo animaite e colocar aqui roteixo você tá criando um animator 2 tá
+[03:59]  que tem outro reje então isso aqui já não vai funcionar se você rotacionar por exemplo olha
+[04:03]  o texto vai ficar dessa forma ok então lembrando que tem que ser ó adicionar as propriedades
+[04:11]  extras aqui tá então aqui você adiciona por exemplo vou colocar esse cala aqui ó eu diminuir
+[04:18]  e é só então tem um texto legal aqui animado legal disso aqui que a gente pode é mudar aqui
+[04:26]  a posição o animação né de forma muito fácil ó
+[04:34]  e muito fácil mesmo então só quero rotacionar aqui
+[04:43]  e bastante simples né então se eu quero por exemplo propriedade eu vim aqui em
+[04:52]  skill que é um cara que né que distorce o texto deixa eu trazer um pouco mais pra cá
+[04:57]  tá vendo como ele distorce o texto então a gente aumenta que a gente é a posição dele né então olha só
+[05:09]  ok essa já não ficou tão bonito né então o controle aqui sempre analise pessoal realmente
+[05:15]  se ficou bonito tá a gente tem que analisar mesmo se não a gente acaba fazendo umas coisas feias
+[05:21]  então olha só pessoal a animação feita aí né de forma muito fácil então uma coisa importante
+[05:29]  você saber que tão aqui nessa animação a gente pode mexer tá pessoal esse decay por exemplo
+[05:34]  a gente colocar dois aqui olha só acontece vai ter muito mais balanços né então ó se você
+[05:40]  quer balançar bem mais o seu texto você usa o decay aqui em frequência é quanto mais você
+[05:47]  vai ver isso mais rápido vai acontecer ó tá vendo então é interessante até ó por algum tipo
+[05:54]  de animação né então eu vou colocar um aqui e aqui em decay se você colocar um olha só acontece
+[06:05]  vai balançar muito muito mais então pois interessante né para o efeito de água por exemplo
+[06:11]  aqui para cima não dá um play ó olha só é pode ser interessante eu só colocar aqui por
+[06:20]  exemplo é 17 então é só que acontecer né ele já vai ser um texto mais sério né não vai ter
+[06:28]  tanto balanço então você consegue controlar o quanto balança por aqui tá pessoal é bem parecido
+[06:35]  e isso né mas só que ele nos tem muito mais facilidade aqui então colocar seis ó né
+[06:42]  vou lançar menos e o texto para então essa expressão a gente vai usar ela dessa forma tá bom
+[06:49]  então até a próxima aula
+
+
+=========================================
+📖 INÍCIO DA VIDEO_76
+=========================================
+
+[00:00]  Genslin aqui, muito bem pessoal, vamos fazer um pequeno selo, 3D aí, vamos fazer um pouco simples para você entender como é que funciona
+[00:10]  depois a gente pode trabalhar em outro um pouco mais complexo, então vamos lá
+[00:15]  olha só, uma coisa que eu costumo fazer, eu vou passar aqui para vocês essa dica também
+[00:20]  para que a gente crie uma coisa diferente, sei lá, inovadoras dentro do cinema 4D
+[00:25]  e de repente diferente do que também já se tem, é normalmente vir aqui no Google
+[00:31]  para pesquisar por essas imagens de 2D, nem sempre que você queira fazer 3D
+[00:36]  você vai estar procurando pelo 3D, porque se você pensar bem as pessoas concorrentes
+[00:42]  eles vão estar pesquisando por 3D, então você tem que pensar o máximo para pesquisar diferente
+[00:50]  para que você tenha o resultado que você faça design diferente
+[00:55]  então vou fazer um selo mais ou menos para essa etiqueta
+[00:59]  eu acho que a gente vai fazer, colocar a big sail assim
+[01:04]  só que essa etiqueta a gente vai colocar virada para baixo e sem o furo
+[01:09]  no 3D, esse é o caminho, não vai ser um selo tão complexo, bastante simples
+[01:17]  porém tem muita coisa para te mostrar para você entender
+[01:20]  a primeira coisa que vamos fazer, vamos colocar o texto, vou colocar aqui o texto
+[01:26]  e vamos escrever aqui o big, prontinho
+[01:30]  vamos em aline, middle, vamos alinear o meio
+[01:35]  e vamos escolher uma fonte, eu sempre falo que é uma fonte boa para o 3D
+[01:40]  são aquelas que têm uma leve curva, não tem essa aqui, então acentuada
+[01:44]  vamos escolher uma fonte chamada barlow, deixa eu carregar aqui minhas fontes
+[01:50]  pronto, levantar aqui para a letra B e colocar essa barlow extra bold
+[01:58]  pronto e vamos tirar de itália que vamos colocar em regular
+[02:02]  se eu observar de perto ela tem uma curva, ela não termina em quina, então isso é muito bom
+[02:08]  agora vamos colocar o extrude, você vê que ele vai cair aqui
+[02:16]  seleciona o texto e pressione a tecla alt, clicam e já vai para dentro
+[02:22]  agora precisamos deixar essa mais uniforme aqui
+[02:28]  mais para a frente podemos deformar esse texto
+[02:33]  caso você não for deformar, caso o texto seja direto mesmo
+[02:37]  aí você pode deixar dessa forma, também mais economia para o computador
+[02:42]  então beleza, o que a gente vai fazer?
+[02:45]  a gente vai deixar isso aqui uniforme, como é que a gente faz?
+[02:48]  vem texto, levantar aqui, você vê que intermediate point, os pontos intermediados
+[02:57]  vou aqui uniforme e prontinho, você vê que está todo mundo agora
+[03:01]  os polígonos estão bastante uniforme, ou seja, aqui eu tenho um polígono
+[03:07]  que é esse quadradinho aqui reto e aqui é outro, ou seja, a gente estão bastante uniformes
+[03:13]  então isso é legal, mas são muitos, então vamos diminuir o número para 3, 2
+[03:21]  você diminui até um ponto em que a fonte não fique tão deformada
+[03:25]  a partir do momento que a fonte fica muito deformada, isso pode suave, visualmente estranho
+[03:31]  então não é legal, uma outra coisa que você vai fazer é se, por exemplo, um lado da fonte diminuir para 1 e 2
+[03:41]  se um lado aqui não vai ficar diferente do outro, para que a curva seja simétrica
+[03:47]  ou seja, o mesmo lado seja igual ao outro, assim como a parte de cima do B
+[03:53]  e aqui também vai ficar parecido, então presta atenção nisso para que não fique
+[03:58]  por exemplo, um lado vai ficar uma curva maior e o outro vai ficar uma curva menor
+[04:02]  então pode ficar estranho, ok? Então vamos lá
+[04:06]  como eu já te mostrei no anterior, se a gente colocar um subdivisão surfaced
+[04:12]  vai acontecer isso aqui, não vai ficar legal
+[04:15]  e você sabe já que nós temos que colocar a resta de suporte aqui
+[04:21]  e também subdividir essa capa aqui da frente
+[04:24]  isso aqui tudo, deixa eu ligar o do do penche
+[04:29]  isso aqui tudo é um polígono só
+[04:33]  isso aqui é outro polígono, isso aqui é outro polígono
+[04:39]  esse aqui é um polígono de um monte de lados
+[04:43]  nesse caso aqui, nós temos um polígono de quatro lados
+[04:47]  e aqui nós temos um polígono de um, dois, três, quatro, cinco, seis, sabe?
+[04:53]  e tem muitos lados, entendeu? Por isso é um polígono
+[04:57]  vamos tirar então aqui, deixa o subdivisão surfaced aí
+[05:01]  a gente vai pegar então esse extrude no texto que a gente já fez
+[05:06]  o que teria que fazer para deixar mais uniforme
+[05:09]  e vamos então no extrude, vamos ver em caps
+[05:15]  e aqui em caps, nós vamos mudar aqui o caps type para regular gris
+[05:22]  então aquele um polígono que nós tínhamos aqui gigante já se dividiu
+[05:27]  você está vendo que aqui nós podemos marcar a opção
+[05:31]  eyes dominant
+[05:33]  e olha só, vai tirar um pouco mais essa bagunça aí, já vai ficar melhor
+[05:39]  aí a gente pode aumentar aqui, tá bom?
+[05:42]  então um ponto em que fique ainda o quadradinho, tá?
+[05:46]  aqui é o mais ideal, ok?
+[05:48]  quando passa muitas linhas, não é muito legal
+[05:50]  então aqui já deve resolver a situação
+[05:53]  a gente vai colocar esse dentro do subdivisão surfaced
+[05:55]  olha só como vai ficar bastante feio, né?
+[05:58]  por que?
+[06:01]  porque nós podemos observar aqui de perto
+[06:03]  olha só que a gente tem uma maia aqui que é bastante próxima, né?
+[06:06]  então isso aí está dando esse problema
+[06:08]  o que a gente vai fazer?
+[06:09]  a gente vai segurar, selecionar o extrude
+[06:11]  a gente vai colocar aqui, ó, ponto um, tá?
+[06:15]  a gente vai fazer só uma resta aí, ó
+[06:17]  que vai servir de suporte
+[06:18]  olha só agora lá próximo
+[06:20]  você vê como ele tirou aquele lance que tinha aqui
+[06:23]  aquela coisa feia, né?
+[06:25]  então ele vai ficar bem melhor
+[06:27]  agora quando eu ligar aqui
+[06:29]  olha só o resultado, né?
+[06:32]  já ficou bastante perfeito
+[06:34]  aqui não ficou tão legal
+[06:36]  deixa eu ver aqui, ó
+[06:37]  não ficou tão legal
+[06:39]  mas olha só o que a gente vai fazer
+[06:41]  a gente vai vir em extrude
+[06:42]  a gente vai tirar aqui os segmentos
+[06:45]  vamos colocar em dois, vamos diminuir
+[06:47]  pra gente resolver essa treta aqui, tá vendo?
+[06:49]  está estranho
+[06:50]  a gente vai vir em objeto
+[06:52]  e vamos colocar uma subdivisão aqui, ó
+[06:54]  colocamos três
+[06:56]  enderezamos e já está suavizando
+[06:58]  o que está acontecendo aqui?
+[07:01]  temos um polígono se cruzando aqui de porra irregular, né?
+[07:06]  então a gente vai voltar em extrude
+[07:08]  vamos em caps, segmentos
+[07:10]  vamos colocar um
+[07:12]  ok, então talvez um resolva aqui
+[07:15]  é, melhorou, beleza
+[07:19]  ok, olha só como está então
+[07:21]  nessa letra aqui, né pessoal?
+[07:23]  bem legal
+[07:24]  renderizar novamente, boa, boa, boa
+[07:27]  vamos falar, o canto do BR parte de cima
+[07:30]  está redondado
+[07:31]  da mesma forma que está aqui de baixo
+[07:33]  não está tão diferente, está levemente diferente
+[07:35]  mas nada tão agressivo, tá?
+[07:37]  então você tem que prestar atenção
+[07:39]  nessas coisas aí também
+[07:41]  então vou pressionar contra o S e vou salvar
+[07:43]  o meu projeto aqui, né?
+[07:47]  muito bem, já salvei o meu projeto
+[07:49]  você salva aí, está no seu computador e tal
+[07:51]  e vamos lá
+[07:53]  então na próxima aula vamos fazer um pouco mais
+[07:55]  detalhes aqui, então até a próxima aula
+
+
+=========================================
+📖 INÍCIO DA VIDEO_77
+=========================================
+
+[00:00]  Muito bem pessoal, vamos continuar aqui ao nosso texto. Vou fazer o seguinte agora.
+[00:07]  A gente vai pegar esse texto, a gente vai criar uma capinha, uma pequena borra do texto que normalmente você faria.
+[00:14]  Você pegaria esse texto aqui, pegaria esse texto, contra o C, contra o V, você arrastava e faria uma outra capa.
+[00:22]  Não faz assim, tá pessoal? O que é mais ideal de se fazer é selecionar esse texto. Você vê o que a NIEC em sobrevivido fez.
+[00:30]  Você coloca aqui, ó, estensa, tá? Então você coloca uma estância, seleciona o texto, tá pessoal?
+[00:37]  Tem que estar com o texto selecionado para você criar uma estância dele. Olha só, você vê aqui e cria uma estância, tá?
+[00:43]  Esse cara aqui, você criou uma estância, o que aconteceu? Essa estância é uma replicação, tá?
+[00:50]  Da forma que eu só colocar um aqui, a estância também vai mudar lá atrás, tá vendo?
+[00:57]  Então qualquer valor que eu altera aqui vai mudar lá. Então vamos pegar a estância aqui, ó.
+[01:03]  Vamos clicar nesse botão aqui, PSR, né, para ele voltar para cá. Beleza?
+[01:08]  Então vamos selecionar a estância, vamos pressionar a tecla ALT, segura a tecla ALT, clica aqui, segura.
+[01:16]  E você seleciona o SWIP, prontinho. Agora, quando a gente usa o SWIP, a gente precisa colocar um tipo de preenchimento nele, né?
+[01:26]  Ou seja, uma forma que vai desenhar a borda do texto. Então vamos colocar aqui, ó, um retângulo.
+[01:33]  Para isso, a gente segura a SHIFT, tá? Segura a tecla SHIFT agora.
+[01:38]  A gente vem aqui em retângulo, ó. Coloca e já vai aqui para dentro, ok?
+[01:43]  Então a gente vem em objeto e a gente muda aqui, ó. 5, 5, 4, 4.
+[01:51]  A gente vai fazer uma bordinha aqui bem sutil, só para receber um brilho, uma sombra, sabe?
+[01:56]  Só para dar uma diferenciada, ok?
+[02:01]  Então, ó, se a gente colocar aqui, ó, um subvisão surfeiço, olha só o que acontece, né?
+[02:08]  Ele vai ficar redondado, né? Eu não quero que ele fique tão arredondado.
+[02:12]  Então a gente vai fazer o seguinte, vamos selecionar o retângulo, vamos em hold, vamos marcar.
+[02:19]  Aqui colocamos 0.6, tá? Então vai ficar assim, ó. Deixa a gente ligar aqui o display e vamos mudar para shape.
+[02:26]  E olha como é que fica, né? Então fica bem legal, bastante definido.
+[02:32]  Bem, se a gente desligar o subvisão surfeiço, ó, você vê que tem muitas arestas aqui, ó, né?
+[02:39]  Vamos diminuir um pouquinho, desclica nela, tá?
+[02:42]  Um retângulo dessa vez a gente não vai precisar colocar uniforme, tá?
+[02:45]  Porque a gente colocar uniforme, ó, vai dar um monte aqui, né? A gente não precisa de tudo isso.
+[02:50]  A gente vai deixar um adaptivo meio e esse ângulo aqui, a gente aumenta, ó.
+[02:55]  A gente vai colocar 45, ó, tem só 2 agora, 35 e tem menos, ó, tá?
+[03:01]  Então é só disso que a gente precisa. Se a gente ligar o subvisão surfeiço, ó, a gente vai ter praticamente o mesmo resultado, tá?
+[03:09]  Só que agora a gente tem bem menos aresta, né? Ou seja, bem menos polígustos.
+[03:16]  Eu vou estar aqui de 35 a colocar 5, ó. Olha só o que acontece, pessoal.
+[03:21]  Eu vou pressionar aqui, Ctrl-I, ele vai me dar aqui, ó, a memória, né?
+[03:29]  O que tá sendo, o que tá sendo o consumo de memória. Eu vou tirar um print aqui, só para você ver.
+[03:36]  Prontinho, tirei o print ou minimizar aqui, vou fechar.
+[03:40]  Então vou colocar 35, né? Você vê que vamos ter um resultado bastante parecido, né?
+[03:46]  Então vou pressionar Ctrl-I agora e a gente compara.
+[03:51]  Então olha só, pessoal. A quantidade de memória aqui no caso que tinha consumido 23 mil, tá vendo?
+[04:00]  759. Agora olha só, em 6.889, né?
+[04:06]  Então a gente conseguir economizar bastante aí, tirando aquele escara lá.
+[04:11]  Então se você tá falando, ah, porque isso aí vai explodir o computador ou tal projeto,
+[04:17]  não é bem assim que funciona, tá, pessoal?
+[04:19]  Às vezes é a forma que você faz o projeto que tá ficando pesado.
+[04:25]  Então você tem que prestar atenção nos polígonos que você tem e seu projeto, tá?
+[04:30]  Verificar se os polígonos realmente são o que você precisa.
+[04:35]  Então verificar se não tem polígonos desnecessários.
+[04:39]  Porque polígonos desnecessários vai causar um grande consumo de memória, tá?
+[04:43]  Então prestar atenção aí, muito bem.
+[04:46]  Eu quero que esse sabor daqui, tá?
+[04:50]  Então eu não quero que ela seja assim, ó, passando aqui o meu texto.
+[04:53]  Eu quero que ela seja mais adentro, tá?
+[04:55]  Então olha só, a gente vai pegar o retângulo, a gente vai pressionar C nele, tá?
+[04:59]  Tornamos ele editado.
+[05:01]  Com isso a gente perde aquelas propriedades dele.
+[05:03]  Agora se a gente vir aqui, ó, e mover, nada vai acontecer, tá?
+[05:07]  Vou mover aqui, ó, no modo Model, tá?
+[05:10]  Nesse modo dele aqui.
+[05:12]  Agora sem selecionar o modo de pontos,
+[05:15]  venho aqui, ó, em retângulo Selection, selecionar o retângulo,
+[05:19]  ele está por aqui, vou traçar aqui um retângulo a selecionar todos os pontos.
+[05:24]  Pessoar F4, pressionar S, ó, só pra você ver, tá selecionado aqui.
+[05:29]  Agora se eu arrastar esse cara, olha o que só acontece, né?
+[05:33]  Ele vai pra borda, vai pra fora, se você quiser borda pra fora.
+[05:36]  É desse jeito que você vai fazer.
+[05:38]  Meu canal do YouTube até tem um tutorial sobre isso, né?
+[05:41]  Bordas procedurais que muitas pessoas fazem no Illustrator
+[05:45]  e que dá pra fazer essas bordas aqui dentro mesmo do cinema 4D, ó.
+[05:49]  Como você pode ver aí, ok?
+[05:51]  Esse caso a gente quer que essa borda entre, né?
+[05:53]  Não quer essa borda fora.
+[05:55]  Então a gente vai afastar pra lá, ó.
+[05:57]  Ok, ó, então vai ficar da mesma altura aqui do...
+[06:02]  da mesma direção aqui do texto, né?
+[06:05]  Então, ó, desse jeito.
+[06:06]  Vou voltar aqui pra ferramenta de Live Selection.
+[06:09]  Vou clicar aqui pra voltar pra modelo.
+[06:12]  Clico num sweep.
+[06:14]  Ou posso clicar no subdivisão surfaces meio.
+[06:18]  Ó, rotaciona aqui um pouco.
+[06:20]  Clico aqui na seta, ó.
+[06:22]  Eu trago isso aqui pra frente, né?
+[06:24]  Deixa eu a frente ao texto.
+[06:26]  Eu posso pressionar F3 para posicionar melhor.
+[06:29]  Visão de right.
+[06:31]  E, ó, coloca aqui.
+[06:33]  Beleza?
+[06:35]  Então é prontinho.
+[06:36]  Vou ter a borda à frente ao texto e na sua mesma direção aqui, ó.
+[06:40]  Como você pode ver, né?
+[06:42]  Então isso é muito legal.
+[06:44]  Beleza?
+[06:45]  Então vamos colocar essa mesma borda também ali atrás.
+[06:48]  Como é que a gente faz?
+[06:50]  A gente vai criar uma estância, tá?
+[06:52]  Ó, uma estância.
+[06:54]  A estância, normalmente, lá...
+[06:56]  A estância no âmbito aqui da tecnologia, né?
+[07:00]  Computacional.
+[07:01]  Seria pra economizar memória.
+[07:03]  Aqui, o Cinema 4D não economiza tanta memória assim,
+[07:07]  mas eu não sei o que ele faz aqui realmente com a estância.
+[07:11]  Porém, com a estância, a gente tem realmente um projeto um pouco mais leve.
+[07:15]  Não sei qual é a vantagem aqui no Cinema 4D, tá?
+[07:19]  Mas que eu recomendo bastante o uso da estância?
+[07:21]  Sim, recomendo, tá?
+[07:23]  É bem melhor usar ela.
+[07:24]  Então olha só, o nosso texto está muito bem feito, ó.
+[07:28]  Tudo bem posicionado, muito bonitinho, né?
+[07:31]  Lembre-se sempre, pessoal, de deixar quando você fizer curvas,
+[07:36]  deixe sempre posicionado aqui pra mostrar as curvas, tá?
+[07:40]  Olha só, igual é no mundo real, né?
+[07:43]  Quando você une duas peças, você tem uma separação,
+[07:46]  você não tem uma junção, como, por exemplo,
+[07:48]  não deixe acontecer isso aqui, ó.
+[07:51]  Sabe?
+[07:52]  De entrar aqui essa parte da borda e ficar desse jeito.
+[07:55]  Porque isso aqui, ó, vai ser um detalhe que você pode perder na renderização
+[07:58]  e não vai ficar tão visível.
+[08:00]  Vamos trazer aqui, e olha só.
+[08:02]  Então isso aqui é bem melhor, vai ficar bem mais nítido e perceptível.
+[08:07]  Então, bem legal.
+[08:09]  Muito bem, pessoal, olha só o que a gente fez, né?
+[08:12]  Então tá prontinho o nosso texto.
+[08:14]  A gente vai fazer o quê com ele?
+[08:15]  A gente vai agrupar, pressionar Alt G, selecionar todos.
+[08:20]  Deixa eu baixar isso aqui.
+[08:22]  E a gente agrupa, ó, Alt G.
+[08:26]  Então eu vou renomear aqui.
+[08:29]  Depois de renomear aqui, a gente vai fazer o seguinte.
+[08:32]  Como aqui a gente vai escrever só linhas retas, né?
+[08:34]  Vamos escrever, por exemplo, uma palavra embaixo da outra.
+[08:37]  A gente pode fazer o seguinte aqui, ó.
+[08:39]  Quando a gente escrever aqui, por exemplo, Promo,
+[08:43]  esse Promo vai virar esse texto aqui, tá?
+[08:45]  Como é que a gente faz isso?
+[08:47]  Você percebeu que quando eu seleciono aqui, ó,
+[08:50]  tem umas propriedades desses no objeto, né?
+[08:52]  Aqui em Basic.
+[08:53]  Quando eu mudar aqui, ó, presta atenção aqui em Nene.
+[08:56]  Quando eu mudar aqui, ó.
+[08:58]  Muda aqui também Nene, ou seja,
+[09:00]  essa propriedade Nene é o nome aqui, tá?
+[09:03]  Então olha só o que a gente pode fazer, ó.
+[09:06]  Vou colocar aqui, trocar.
+[09:09]  Então a gente vem aqui em Nene, clica o botão direito,
+[09:12]  você vem em Expression e coloca Set Drive, ok?
+[09:17]  Agora a gente entra aqui, ó.
+[09:19]  Seleciona o texto, vem o objeto.
+[09:22]  E em texto, botão direito,
+[09:24]  Expression, clica, ó.
+[09:27]  Set Drive Absolute, tá?
+[09:29]  A segunda opção, pessoal, presta atenção aí.
+[09:32]  Muito bem, ó. Feito isso, ó.
+[09:34]  Já virou aqui, trocar, né?
+[09:36]  Automaticamente.
+[09:38]  Então toda vez que a gente digitar aqui, ó.
+[09:41]  Por exemplo, agora eu vou colocar Big.
+[09:44]  Como você pode ver, trocou automaticamente, né?
+[09:48]  Qualquer palavra que eu colocar agora aqui,
+[09:51]  vai ser o meu texto, ó.
+[09:53]  Bom, vai ser o meu texto aqui.
+[09:55]  Isso seria uma tática procedural, tá?
+[09:58]  Ou seja, a gente tem uma composição em texto aqui,
+[10:01]  que quando a gente muda a sua base principal,
+[10:04]  toda a composição se ajusta, ok?
+[10:08]  Então eu vou voltar aqui para Big e é isso, né?
+[10:12]  Bem legal.
+[10:14]  Eu posso pegar a palavra Big, agora posso duplicar,
+[10:17]  eu trouxe, control V, e o Sinema 4D é muito inteligente em relação a isso.
+[10:20]  Eu vou selecionar o Big aqui, o primeiro eu vou colocar para cima.
+[10:25]  Esse Big 1.1, você vê que colocou um ponto aqui, ó.
+[10:29]  Se a gente renomear, olha só que massa, véi.
+[10:32]  Se a gente renomear aqui, ó,
+[10:34]  ele vai renomear apenas esse, desse grupo, tá?
+[10:36]  Vou colocar para baixo.
+[10:38]  Então o Sinema 4D é separado de uma forma muito inteligente,
+[10:41]  então isso é muito legal de fazer, tá?
+[10:43]  Eu uso bastante essa técnica quando eu estou fazendo,
+[10:46]  principalmente quando eu vou usar letters.
+[10:48]  Aí eu já coloco tudo aqui, tá?
+[10:50]  Por exemplo, se fossem várias palavras, várias, né?
+[10:53]  Aí depois eu viria e trocava palavras, tá?
+[10:58]  Então eu vou trocando.
+[11:00]  Então vamos mudar isso aqui para CI, tá?
+[11:04]  Então eu vou pressionar F4, e nós vamos então alinhar esses caras aqui, né?
+[11:09]  Porque não podem ficar desalineados.
+[11:11]  Então a gente vai pressionar, vou pressionar, ó.
+[11:13]  Shift C, vai abrir esse comando aqui,
+[11:16]  e você digita do do, tá?
+[11:19]  E a gente pode trocar a cor dele aqui, ó, para vermelho.
+[11:23]  A gente clica aqui a borda do B,
+[11:26]  clica recebendo Shift e arrasta,
+[11:28]  e ele vai criar, então, uma linha, tá?
+[11:31]  A gente faz a mesma coisa aqui desse lado, ó.
+[11:34]  E cria uma linha também.
+[11:36]  A gente pega a palavra Seio,
+[11:38]  e a gente começa a diminuir, ó.
+[11:40]  Tá vendo até essa linha aí, tá?
+[11:44]  A gente pega a palavra Big novamente,
+[11:46]  a gente arrasta aqui para baixo, né?
+[11:48]  Deixa eu posicionar daqui, bonitinho.
+[11:50]  Aí mantém um espaço legal aqui, né?
+[11:52]  Para ter uma proporção.
+[11:54]  Esse espaço, se você estiver em dúvida,
+[11:56]  será que está bom ou não está bom,
+[11:58]  você olha esse, você pode considerar
+[12:00]  dois espaços aqui, ó.
+[12:02]  Esse espaço aqui, e coloca o mesmo aqui.
+[12:04]  Ou então você pode considerar esse,
+[12:06]  e colocar aqui também, tá?
+[12:08]  Então nós vamos ter uma proporção mais uniforme
+[12:12]  em toda a peça, beleza?
+[12:14]  Então eu vou colocar um pouco mais aqui,
+[12:16]  e é isso, tá bom?
+[12:18]  Olha só, Big Seio, né?
+[12:20]  Agora ele vai ficar um pouco mais fininho,
+[12:22]  mas a gente pode deixar assim.
+[12:24]  Se você quiser, você pode ajustar aí, tá?
+[12:26]  Então vamos colocar ele
+[12:28]  um pouco mais aqui para trás, né?
+[12:30]  Vamos alinhar ele junto ao outro.
+[12:32]  Porque nós vamos fazer uma base,
+[12:34]  então a gente coloca aqui
+[12:36]  encostado na base, tá?
+[12:38]  Depois a gente pode ajustar mais.
+[12:40]  Então ó, prontinho, pessoal,
+[12:42]  o nosso texto aqui está ficando bem legal.
+[12:44]  Beleza?
+[12:46]  Então até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_78
+=========================================
+
+[00:00]  Muito bem pessoal, vamos fazer como se fossem da etiqueta, mas não que apareça ser tão pequeno assim, talvez algo parecido com isso, que pode ficar bem legal.
+[00:16]  Gostei dessa forma aqui, aqui no cinema 4D então, nos pressionar F4, essas linhas vermelhas a gente pode desligar aqui, ou mesmo a gente pode deletar.
+[00:28]  Muito bem, como é que a gente vai fazer com aquela etiqueta? A gente coloca um retângulo, e esse retângulo a gente vai posicionar aqui mais ao meio do texto, poder pegar o termo de escala e diminuir.
+[00:45]  Então a gente vai colocar um valor de 300, colocar 320, e de altura a gente vai deixar por enquanto em 320.
+[00:57]  Quando você colocar essas coisas aqui, sempre presta atenção na margem, na borda, por exemplo, sempre ideal você deixar um espaço aqui, e esse mesmo espaço que você deixa aqui, você pode deixar um espaço em cima.
+[01:21]  No caso aqui a gente vai deixar um pouco mais de espaço nesse texto aqui, porque podemos colocar uma outra informação aqui.
+[01:28]  A gente vai colocar aí, porque normalmente você tem bastante informação, que endera com assim, tão simples assim.
+[01:36]  Muito bem, então sempre pense nesse espaço assim, porque isso aí causa conforto visual.
+[01:43]  Então eu vou pressionar C nesse retângulo e vamos tornar ele editável, pressionei C, tornei então ele editável.
+[01:52]  E agora eu vou colocar mais alguns pontos, a gente pode fazer essa curva aqui, a gente pode até fazer um pouco de design aqui com essa curva, se você quiser, aquela borda que você faz em Illustrator.
+[02:06]  Então olha só, eu vou clicar aqui no modo de pontos, a gente pode pegar a ferramenta.
+[02:12]  High Knife, Line Cut, e a gente pode fazer alguns cortes para fazer então essa forma aqui do texto, como se fosse a borda do texto.
+[02:22]  Então pode ser que fique bem legal.
+[02:24]  A gente vem aqui, a borda do Y, você pressiona as chips e corta aqui para cima, a gente vai ter uma linha certa aqui a borda do Y e aqui também.
+[02:35]  Vamos descortar, clica depois, pressionei chips e arraste para cima, você vai fazer, então se corte aí.
+[02:43]  Agora aqui ao B, você percebe pessoal que aqui eu vou ter uma curva, vou ter uma curva aqui, então isso aqui é praticamente um circo.
+[02:57]  Então o meio desse circo pode ser que seja mais ou menos aqui, então eu vou fazer o meu corte aqui, vou colocar o outro ponto aqui.
+[03:07]  E quando eu fizer a curva, isso já vai ficar bastante perfeito, então olha só, vou clicar aqui e vou fazer o corte.
+[03:14]  Então a mesma coisa a gente vai fazer aqui do lado do G, se você perceber novamente nós temos aqui, não vou fazer completo aqui, mas temos um círculo, olha só.
+[03:25]  Então nós temos aqui o meio desse círculo, essa esfera e olha só, então esse ponto que a gente vai colocar esse outro vai ser mais ou menos aqui.
+[03:35]  Então quando eu estou fazendo, eu não faço esse desenho, porque eu já tenho essa noção, eu já faço só os cortes, mas eu estou fazendo aqui para você entender a ideia de como eu estou fazendo o corte, porque eu escolhi fazer o corte naquele ponto.
+[03:50]  Então isso não é, eu não escolho o corte, porque acho que vai ficar legal aqui, não é isso.
+[03:57]  Eu estou usando aqui uns conceitos de grid design, lembrando que grid design pessoal para você que está ligado, não se trata de grid enquadradinho.
+[04:08]  Grid pode ser tanto um ponto quadrado, pode ser um triângulo, pode ser esfera, pode ser mistura de dois elementos, pode ser, sabe?
+[04:17]  Uma forma, pode ser qualquer outra forma, às vezes tem grid que são assim, já vi também gente que faz um grid dessa forma, então vai existir grid de várias formas.
+[04:31]  Grid é basicamente para você manter escala e proporção, então grid vai ajudar muito você a criar a peça em relação à proporção, escala e tudo mais.
+[04:44]  Então eu vou deletar aqui esse do do pente, eu creio que você já entendeu porque, onde eu vou fazer o ponto, nesse caso vai ser aqui.
+[04:51]  Para eu pegar aquela ferramenta line cut, pressão no car duas vezes, prontinho.
+[04:57]  Então vou fazer o meu corte aqui, que é aqui que nós vamos precisar.
+[05:02]  Ok, vou deletar o do do pente aqui, para a gente ficar aqui só para o nosso design.
+[05:10]  Aí eu preciso baixar para cá um pouquinho e esse outro aqui.
+[05:14]  Para isso eu preciso criar um novo corte aqui, então vamos criar aqui e outro aqui.
+[05:20]  Então esse ponto aqui vai ter que ser na mesma direção desse outro, como a gente vai fazer?
+[05:25]  Vou pegar ele, vou baixar assim, selecionar os dois, aqui em size, você vê que está 0.142, a gente vai colocar 0 aqui e aplica.
+[05:39]  Esse lado que a gente vai fazer a mesma coisa, seleciona o ponto, um primeiro, baixa e depois seleciona os dois.
+[05:46]  Aí você vê que uma forma bem rápida de colocar 0 aqui é da seguinte forma, você seleciona aqui todo mundo, pressiona esse espaço e você aplica.
+[05:57]  Aí vai ficar um zero, beleza? Então vamos pegar esse cara e baixar para cá.
+[06:05]  Mais ou menos aqui, acima, na verdade, do I.
+[06:13]  Agora vamos deixar esses dois aqui na mesma altura, como a gente faz isso.
+[06:18]  Aí vai de a gente mexer no x agora, que seria esse aqui, a gente vai mexer em y.
+[06:24]  Na verdade já está em zero, o que significa? Significa que eles estão alinhados aqui por coincidência, né?
+[06:30]  Mas se o seu dom estiver alinhado, você vê que seleciona os dois, aqui em y você coloca 0 e você aplica.
+[06:38]  Muito bem? Agora olha só, vamos deixar isso aí curvado, né?
+[06:43]  Vamos selecionar então esse aqui e esse, clicar com o botão direito, vamos colocar em soft interpolation, né?
+[06:51]  Ficou ruim para caramba, ficou feio. Então a gente vai selecionar um, pega ferramentas de rotação,
+[06:57]  a gente começa a rotacionar aqui, segurando shift, e olha só, a gente vai deixar um pouco mais reto aqui, né?
+[07:03]  A gente pode até fazer na mão livre mesmo sem segurar shift, fazer aqui, ó, estalar retinho, né?
+[07:11]  Prontinho. Então fica desse jeito, vem reto e depois desce.
+[07:17]  Esse aqui também, porque aqui ficou um arco aqui essa parte, né?
+[07:21]  A gente vem, deixa aqui reto, ok? Então, legal.
+[07:29]  Agora a gente vai pegar esses caras aqui, os quatro, tá?
+[07:33]  Botão direito, vamos em shuffer, e vamos ó, clicar umas minutos para cá e arrastar e deixar curvado aqui, né?
+[07:42]  Bastante, desse jeito, ok? A gente vai fazer essa pequena forma aí, então vai ficar bem legal.
+[07:50]  Agora vamos voltar para o live select, modo de pontos, seleciona o retângulo, ó.
+[07:55]  Clica nesse pontinho aqui, pressando a shift e clica aqui para selecionar os dois pontos.
+[08:02]  Botão direito, shuffer, tá? E agora, vamos deixar isso aí arredondado também.
+[08:08]  Prontinho, desse jeito, ok?
+[08:12]  Agora, nessa parte de baixo, nós vamos fazer um corte, pressando a cá duas vezes para pegar a ferramenta line cut,
+[08:19]  e a gente vai fazer um corte aqui, ó, tá bom, é o meio.
+[08:23]  Para a gente certificar que isso aqui realmente está o meio, ó, você vem aqui, seleciona ele, tá?
+[08:29]  Ponto, e coloca zero aqui, tá? Como eu falei, ó, você seleciona a impressão no espaço e aplica, né?
+[08:37]  E então, já vai ficar com o valor zero, ou seja, vai ficar exatamente no eixo x, em posição zero.
+[08:46]  Beleza, a gente pode baixar ele um pouquinho, pegar esse cara aqui e esse, e a gente levanta aqui, ok?
+[08:55]  Agora, ó, a gente clica o botão direito, vamos ligar, vamos colocar, sort interpolation para deixar curvado,
+[09:02]  olha só como ficou feio para caramba, né? Vamos selecionar ele, ó, pressiona R para pegar a ferramenta de rotação,
+[09:11]  clica aqui, ó, no azul, tá? Pressionando shift, ó, vamos fazer então isso aqui ficar reto, ok?
+[09:18]  Selecionando no outro lado, ó, começa a rotacionar e depois pressiona shift, tá?
+[09:24]  Ó, prontinho, então olha só como está ficando aqui, ó, né?
+[09:30]  Bem legal, né, pessoal?
+[09:34]  Parece demorar, como eu sempre falo aqui, mas é porque eu estou explicando para vocês,
+[09:39]  porque é super rápido que a gente faz aqui no cinema 4D, tá? Então para isso não ficar apontado, aqui está esse ponto, pessoal,
+[09:44]  esse ponto aqui, ó, a gente vai selecionar ele, botão direito e vamos colocar sort interpolation também,
+[09:51]  aí ele vai ficar totalmente arredondado, não é bem o que a gente quer, né?
+[09:54]  A gente vai pegar a ferramenta de escala, foi selecionado e nós vamos clicar e arrastar e vamos diminuir aqui, ok?
+[10:03]  Nós podemos diminuir também esses caras aqui, ó, podemos selecionar os dois, tá?
+[10:09]  Se você diminuir assim, ó, olha só o que vai acontecer, tá?
+[10:13]  Mas é legal, a gente quer diminuir apenas a altura dele, né?
+[10:16]  Então a gente clica aqui, ó, nesse verdinho, tá? Que é o eixo x, y, diminuir aqui, então.
+[10:23]  Beleza? Até o ponto que a gente quer.
+[10:25]  Tá prontinho, ó, tá legal?
+[10:29]  Muito bem. Agora, basta a gente colocar, então, ó, uma extrusão, né?
+[10:34]  E colocar esse retango dentro.
+[10:37]  E a gente pressiona f3 para a visão de right e vamos posicionar, então, ele, né?
+[10:43]  Voltamos aqui, ó, a ferramenta live selection, clica aqui para voltar para o modo objeto, seleciona o macstrude
+[10:51]  e você vê aqui, ó, esse eixo azul aqui, que é o z, a gente arrasta, então, isso para trás.
+[10:58]  Ó, dá um pouco mais de zoom e coloca aqui, ok?
+[11:04]  Então, está bem posicionado agora, né?
+[11:07]  Sempre colocar bastante atrás, tá?
+[11:09]  Se você quiser, ó, nem precisa encostar e isso vai ficar...
+[11:14]  Aparecer o detalhe da curva aqui na renderização, ok?
+[11:18]  Então, ó, muito bem.
+[11:20]  O que a gente precisa fazer é deixar isso mais uniforme, deixar isso com mais malha, né?
+[11:25]  Como você pode ver, ó, não está uniforme aqui.
+[11:28]  Como eu já mostrei para vocês na aula de malha, né?
+[11:31]  Nós temos que deixar uma malha mais uniforme para que então a gente possa manipular o nosso objeto, como se fosse uma borracha, né?
+[11:37]  Então, ou seja, a gente pode deixar um pouco mais curvado para receber, né?
+[11:41]  Mais brilho e tal, receber um ganho extra visualmente, né?
+[11:46]  Então, como é que a gente vai fazer?
+[11:49]  Você vê que todos eles têm esses pontos intermediários para a gente ajustar, né?
+[11:55]  Então, a gente pode vir em Adaptive e mudar aqui, ó, para uniforme, tá?
+[12:00]  Então, vamos ter isso aqui, ok?
+[12:03]  Se a gente vir, então, é...
+[12:06]  Então, a gente pode deixar o número aqui em 8 mesmo nesse caso,
+[12:12]  porque a gente não vai usar a subdivision surface nesse cara aqui, tá?
+[12:16]  A gente vai fazer uma bordinha e essa bordinha vai desfaçar, né?
+[12:21]  Essa pasta aqui mais rígida.
+[12:23]  Caso a gente precisa, a gente coloca mais aqui, ok?
+[12:26]  Então, vamos criar...
+[12:28]  Então, olha só o que a gente vai fazer.
+[12:30]  A gente vai fazer essa mesma bordinha que a gente colocou aqui, ó, no texto.
+[12:34]  A gente vai colocar aqui também.
+[12:36]  Como é que a gente faz?
+[12:37]  A gente vai abrir aqui o Big, por exemplo, né?
+[12:40]  A gente vai pegar, ó, a subdivision surface, né?
+[12:43]  Aqui é esse cara aqui, ó, tá vendo?
+[12:45]  Selecionei, ó.
+[12:47]  A gente vai pressionar CTRL C e CTRL V.
+[12:50]  A gente criamos uma cópia.
+[12:51]  Podemos fechar o Big, tá?
+[12:53]  Deixa os dois aqui quietos.
+[12:55]  Então, olha só, pessoal.
+[12:56]  Vou selecionar o retângulo.
+[12:58]  Ganho aqui, eu crio estância, tá?
+[13:02]  E eu pego essa estância, eu coloco aqui, ó.
+[13:05]  No lugar dessa outra.
+[13:07]  É o deleto, essa.
+[13:08]  E, prontinho, ó, quando você pode ver a borda, já está aqui, né?
+[13:12]  Então, eu posso ver em sweep, né?
+[13:17]  Pressiono F3.
+[13:19]  E eu vou, ó, próximo, próximo do eixo aqui.
+[13:23]  E olha aqui, no bom, então, ó, posicionar.
+[13:27]  Tá vendo essa linha aqui?
+[13:29]  Essa linha preta.
+[13:30]  É aí que a gente vai ter que encostar.
+[13:35]  Ó, prontinho.
+[13:36]  Então, olha só, né?
+[13:39]  Bem legal.
+[13:41]  A gente vai, então, dar um pouco de zoom aqui.
+[13:44]  E a gente pode vir em extrude,
+[13:48]  retando, talvez a gente possa deixar isso aí
+[13:51]  com um pouco mais aqui.
+[13:53]  Então, vou colocar 12.
+[13:55]  Hoje deixei 8,5, tá, pessoal?
+[13:57]  Porque se a gente diminuir isso aqui, ó,
+[13:59]  por exemplo, 2, a gente vai perder forma, ó.
+[14:01]  Opa.
+[14:02]  2, tá vendo?
+[14:03]  Perde forma.
+[14:04]  Então, isso não é interessante.
+[14:06]  Então, vamos colocar 8 aqui.
+[14:08]  Agora, vamos selecionar o extrude, ó.
+[14:11]  Novamente, pessoal.
+[14:12]  Se eu ligar aqui, ó, botão de follow view,
+[14:15]  isso aqui, essa parte aqui da frente,
+[14:17]  é apenas um polígono com um monte de lados, tá?
+[14:21]  Como eu falei pra vocês.
+[14:22]  Então, a gente precisa subir e diminuir isso aqui.
+[14:24]  Seleciona o extrude.
+[14:26]  Você vem em caps.
+[14:28]  E vamos aqui, ó, caps type,
+[14:30]  mudar para regular grid, tá?
+[14:33]  E olha só, porque ele criou grid ali, né?
+[14:36]  A gente pode marcar essa opção, ó.
+[14:38]  Fade aqui.
+[14:40]  Prontinho.
+[14:42]  E a gente pode aumentar aqui esse número de quadrados, ó.
+[14:46]  Tá?
+[14:47]  20.
+[14:48]  Então, vamos fazer isso tanto na frente quanto atrás, tá?
+[14:53]  É aqui na versão do Cinema 4D R21.
+[14:57]  Beleza?
+[14:58]  Agora, a gente vai fazer o seguinte.
+[15:02]  Vamos ligar aqui novamente, todo mundo, né?
+[15:05]  Desliga aqui o follow view.
+[15:08]  Ó, você vê que vai aparecer a ponta ali.
+[15:10]  Então, vamos tentar subdividir isso, né?
+[15:13]  Só que você lembra que a gente tenta subdividir
+[15:15]  dessa forma que não dá muito certo?
+[15:17]  A gente tem que colocar aqui, ó, incise.
+[15:19]  0.1
+[15:21]  pra segurar aqui a borda, né?
+[15:24]  Então, lembra que tinha muitos segmentos aqui, né?
+[15:27]  Tem três.
+[15:28]  Então, a gente vai colocar apenas um artigo que é o suficiente, tá vendo?
+[15:32]  Muito bem.
+[15:33]  Agora, então, a gente pressiona out, clica aqui, ó.
+[15:36]  Pra colocar um extrude, um substruzão surpresa.
+[15:39]  Ok?
+[15:40]  Então, ó, prontinho.
+[15:42]  Fefeito aqui o meu objeto, né?
+[15:45]  Então, vamos colocar essa bordinha também ali pra trás?
+[15:48]  Como é que a gente vai fazer?
+[15:50]  Seleciona, então, ela aqui, ó, né?
+[15:52]  Venha aqui em instância, tá?
+[15:55]  Pressionamos F3 pra gente vir pra cá.
+[15:59]  E a gente coloca então ela aqui para trás, né?
+[16:02]  Então, ó, legal, prontinho.
+[16:06]  Então, ó, todo mundo bem posicionado, né?
+[16:09]  Lembre-se sempre de posicionar, pessoal.
+[16:12]  Nos objetos, só deixando a borda aparente, tá?
+[16:16]  Pra que a gente receba, então, esses detalhes na renderização.
+[16:19]  Se você fizer assim, ó, a borda não vai aparecer, né?
+[16:22]  Então, posiciona legal aí, ó, pra aparecer realmente as bordas, tá?
+[16:26]  Pra não termos esses detalhes aí.
+[16:29]  Então, vai ficar bem legal.
+[16:31]  Ok? Agora, ó, vamos pegar aqui, por exemplo, o seio.
+[16:36]  Abre o seio pra que esse extrude tá bom pro subdivisão.
+[16:41]  Subdivisão, na verdade, contra o C, contra o V.
+[16:44]  Vamos descobrir aqui para baixo, tá?
+[16:47]  E vamos abrir.
+[16:49]  Vamos pegar aqui em texto, ó.
+[16:50]  Vamos tirar essa...
+[16:52]  O cheio de text press que temos aqui.
+[16:55]  Seleciona ele.
+[16:58]  Delepa, tá?
+[17:00]  Então, a gente pode colocar aqui, por exemplo, 50% de desconto.
+[17:07]  Tá?
+[17:09]  E nesse aqui, a gente já não vai fazer em 3D, tá, pessoal?
+[17:13]  Na verdade, é em 3D aqui, mas a aparência dele vai ser 2D.
+[17:16]  Então, o que a gente vai fazer?
+[17:18]  A gente vem em extrude, vem em objeto.
+[17:20]  E aqui, a gente pode colocar dois, tá?
+[17:23]  A gente vai fazer...
+[17:25]  Então, seleciona o subdivisão surfez.
+[17:28]  Vou colocar esse cala, vou diminuir bastante, tá?
+[17:31]  Pessoal, né? F4, pra você ver aqui de frente.
+[17:35]  Ó, diminui bastante aqui.
+[17:38]  A gente teria que manter a mesma proporção aqui, né?
+[17:41]  Só que quando a gente baixar, ó, isso vai ficar muito próximo da borda, tá?
+[17:45]  Isso não é muito legal, pessoal.
+[17:46]  Vai dar a impressão de que, nossa, não ficou confortado, né?
+[17:50]  Então, é...
+[17:52]  A gente vai fazer o quê?
+[17:53]  A gente vai realmente diminuir um pouco mais.
+[17:55]  Olha só.
+[17:57]  Quando a gente diminui aqui, a gente vai tentar manter essa proporção, tá?
+[18:01]  Então, vai ser até esse ponto que a gente vai diminuir, ó.
+[18:05]  Mantenha, então, essa distância.
+[18:07]  Se você não entendeu, vou desenhar pra você.
+[18:11]  Ó, tá vendo essa distância aqui?
+[18:15]  Tá vendo essa distância?
+[18:17]  Então, essa distância aqui, ó, eu tentei manter aqui, ó.
+[18:20]  Tá vendo? A mesma distância.
+[18:22]  Não tô dizendo que seja exatamente a mesma, mas...
+[18:25]  Eu olho aqui, tento fazer com que seja, tá?
+[18:29]  Então, mais uma dica de grids design.
+[18:33]  E aqui, ó...
+[18:35]  Lembrando que aqui, ó...
+[18:37]  Tenho essa distância.
+[18:39]  E aqui, eu tenho que manter, né?
+[18:41]  Uma distância parecida.
+[18:42]  Então, é um pouco mais, eu acho.
+[18:44]  Então, eu vou pegar o desconto, ó.
+[18:47]  Clico aqui, vou baixar um pouquinho.
+[18:50]  Pega o fermento de escala, vou diminuir um pouco, tá?
+[18:54]  Pra que ele tenha, pessoal?
+[18:56]  Essa mesma proporção aqui, né?
+[18:58]  Como eu falei pra você.
+[19:00]  E essa é uma aqui, ó.
+[19:02]  Então, você percebe que tudo aqui mantém uma proporção?
+[19:05]  O fato de eu estar fazendo aqui, né?
+[19:07]  Automaticamente, eu tô pensando nessas coisas, tá, pessoal?
+[19:11]  Às vezes, não tô mostrando pra vocês claramente.
+[19:14]  Então, quando eu tô fazendo, eu tô prestando atenção nisso, tá, pessoal?
+[19:17]  A minha dessa forma, é que a gente decide o tamanho que vai ficar, tá?
+[19:20]  E tudo mais.
+[19:22]  Às vezes, não é só a forma que a gente quer.
+[19:25]  Então, isso vai causar um...
+[19:28]  Isso vai resultar em uma peça visualmente muito confortável, tá?
+[19:32]  Então, você percebeu que tá aqui, ó, afastado, né?
+[19:35]  Então, vamos pressionar as três F3, tá?
+[19:38]  E vamos colocar pra cá, né?
+[19:40]  Você lembra que essa parte aqui, ó, é a borda, né?
+[19:43]  A gente vai colocar a dentro da borda aqui.
+[19:47]  Mais ou menos aqui, ó.
+[19:49]  Tá?
+[19:50]  A gente vai deixar de branco e ficar legal.
+[19:53]  Beleza?
+[19:55]  Então, pessoal, nosso texto aqui, ó, que tá prontinho, né?
+[20:00]  Até a próxima aula!
+
+
+=========================================
+📖 INÍCIO DA VIDEO_79
+=========================================
+
+[00:00]  Muito bem pessoal, aqui com o Celinho, pressionei NB pra eu ver as linhas, pressionei NA, você não vê, pressionei NB, aí você vê.
+[00:09]  Olha só, como nós temos aqui um texto com uma malha bem legal, bem subdividido.
+[00:16]  Não é uma malha 100% perfeita, mas é uma malha útil, tá?
+[00:20]  Como eu falei pra vocês, vou agrupar aqui todo mundo, tá?
+[00:24]  Vou escrever aqui, ó, selo.
+[00:30]  E eu vou agrupar novamente, tá? Só pra manter organizado.
+[00:34]  Alt G, prontinho.
+[00:37]  Vou colocar selo, né? 3GD.
+[00:42]  Muito bem, lembre-se de salvar seu projeto, tá?
+[00:46]  Eu vou pressionar NA, deixar dessa forma aqui.
+[00:50]  E olha só, se eu colocar aqui qualquer deformador,
+[00:54]  eu vou ter um resultado muito bom aqui, porque, ó,
+[00:57]  eu vou colocar aqui um twist, por exemplo, não precisa acompanhar, tá?
+[01:01]  Eu já vou fazer jogo, só pra te mostrar. Coloquei o twist, olha só.
+[01:06]  Opa!
+[01:08]  Twist é encherido, né? Já que é deformado, deu a terminar aqui.
+[01:12]  Olha só, eu vou aumentar aqui em Y, vou diminuir em Z, e aumentar um pouco mais em X.
+[01:20]  Então, eu vou só restar isso um pouco mais pra trás.
+[01:25]  Muito bem.
+[01:27]  Olha só, eu vou pegar o twist e eu vou distorcer aqui.
+[01:31]  Olha só isso aqui, pessoal. Olha só como tá distorcendo de forma muito perfeita.
+[01:37]  E dá aquela aparência de que está, né? Parece uma borracha.
+[01:41]  Então, olha só isso aqui, ó.
+[01:44]  Pronto perfeito, fica, né?
+[01:46]  Então, fica muito bom pra gente fazer a animação, né?
+[01:50]  Então, se a gente pegar isso aqui, ó, tirar rapidamente,
+[01:54]  a gente pode fazer uma animação do seu, né?
+[01:57]  Ó, com distorção, se eu baixar aqui, olha só.
+[02:03]  Agora, vamos fazer uma deformação juntos aqui, tá? Vamos lá.
+[02:08]  Você pega aqui, ó, esse cara chamado FFDI, tá?
+[02:12]  Vamos colocar ele aqui, seleciona ele, então você pressiona F4,
+[02:19]  ó, você vê aqui.
+[02:21]  Vamos posicionar ele, ó, mais aqui para cima.
+[02:26]  Mais ou menos aqui.
+[02:28]  E a gente vê aqui, ó, em grade size, em objeto, tá?
+[02:32]  E aí, você vê aqui, ó, no Y, que é o oixo do meio, a gente vai aumentar.
+[02:39]  Muito bem.
+[02:41]  A gente aumenta sempre um pouco mais, tá, do texto.
+[02:45]  E a gente vê aqui, ó, em...
+[02:48]  Agora, a gente vê em gray, em Z, em X, tá?
+[02:51]  Que é esse oixo aqui.
+[02:53]  A gente aumenta um pouco mais, ó.
+[02:55]  Passando um pouquinho só do nosso objeto.
+[02:58]  Agora, vamos pressionar F2 para a gente ver o eixo Z, tá?
+[03:01]  Que é esse oixo azul aqui.
+[03:03]  Clica no FFDI e aqui, ó, Z, né?
+[03:07]  Então, vamos diminuir.
+[03:09]  Diminuir um pouco mais, porque falta a gente colocar ele,
+[03:12]  mais aqui adentro, né?
+[03:14]  Então, como eu falei, sempre deixa um pouquinho afastado, assim, ó.
+[03:17]  Vai bem melhor, tá?
+[03:19]  A gente tá por muitos problemas.
+[03:21]  Então, é o prontinho, está aqui, ó, bem posicionado, né?
+[03:24]  Centralizado.
+[03:26]  A gente vai fazer aqui, ó.
+[03:28]  Vamos pegar esse FFDI, vamos colocar aqui dentro, tá?
+[03:31]  Daquilo e já consegue afetar o meu objeto.
+[03:34]  Se eu começar, se eu quiser, ó, posso deformar aqui,
+[03:37]  ele já vai começar a afetar.
+[03:39]  Olha só, né?
+[03:41]  Então, se você quisesse fazer aquela animação balançando bem bolenga,
+[03:45]  seria mais ou menos assim, né?
+[03:47]  Então, o que a gente vai fazer?
+[03:49]  Pressionar F2.
+[03:50]  Pegar a ferramenta aqui, ó.
+[03:52]  Retangue Selection.
+[03:54]  Deixar, deixa eu marcar essa opção, ó.
+[03:56]  Ponte Select, Visible, Elementos.
+[03:58]  Tá, deixa eu marcado.
+[04:00]  E vamos selecionar esses pontos aqui do meio.
+[04:03]  Ok?
+[04:05]  Então, vou pressionar F1 para você ver aqui, ó.
+[04:08]  A gente clica no eixo Z,
+[04:10]  e a gente arrasta para frente, ó.
+[04:12]  Olha só, eu vou começar a deformar meu teto, meu...
+[04:14]  o selo, né?
+[04:16]  Então, vai ficar curvado.
+[04:18]  Olha só, que legal, pessoal.
+[04:20]  A gente pode tirar agora aqui o...
+[04:22]  Tá bom o nosso...
+[04:24]  A gente não vê esse cara aqui,
+[04:26]  que atrapalha um pouco, a gente vê como ficou o selo, né?
+[04:28]  A gente vê em filtro.
+[04:30]  E a gente vê que ainda é fórmula.
+[04:32]  A gente tira, tá?
+[04:34]  E olha só, a gente pode mexer aqui ainda.
+[04:36]  Olha só, que legal, pessoal.
+[04:38]  Né?
+[04:40]  Então, você percebe que tem uma forma bastante consistente, né?
+[04:42]  Então, fica muito legal.
+[04:44]  O problema, uma coisa que eu não gosto muito desse cara,
+[04:48]  é que ele acaba deformando o texto, né?
+[04:50]  Acaba ficando um pouquinho estranho.
+[04:52]  Então, eu não passo uma curva tão acentuada assim.
+[04:56]  Aí, eu coloco um pouco menos, né?
+[04:58]  Para ficar sutil, ó.
+[05:00]  Tem uma curva, tá curvado.
+[05:02]  E meu texto não está deformado.
+[05:04]  Ou seja, o texto está bonitinho, não está feio, né?
+[05:06]  Graças a eu ter feito todas as divisões e tal, deixada mais de forma,
+[05:10]  eu consigo fazer essa deformação aqui, ó.
+[05:12]  Né?
+[05:14]  Então, com muita facilidade.
+[05:16]  E você vê que fica, né?
+[05:18]  Aquela aparência de borracha.
+[05:20]  Muito boa.
+[05:22]  Então, ó, a gente tem nas textas agora aí,
+[05:24]  nosso selo, né?
+[05:26]  Levemente curvado.
+[05:28]  E você vê que fica muito perfeito, né?
+[05:30]  Bem bonitinho e meio.
+[05:32]  Então, se você quer fazer outra deformação,
+[05:34]  você sabe como é que faz aí
+[05:36]  em outros deformadores aqui, né?
+[05:38]  Beleza, pessoal.
+[05:40]  Então, na próxima aula, a gente vai preparar a realização
+[05:42]  e vamos renderizar.
+[05:44]  Até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_80
+=========================================
+
+[00:00]  Então, como eu já falei para você na aula de renderização, quando a gente for renderizar, pessoal,
+[00:07]  a gente deixa logo a iluminação uniforme. Você vê que a palavra uniforme, proporção, são duas palavras extremamente ligadas ao nosso trabalho
+[00:18]  e muito forte. Você sabe a importância dessas palavras e usar ela no seu dia a dia para fazer toda a diferença, uniforme e proporção.
+[00:27]  Então, o que a gente precisa fazer é deixar essa iluminação uniforme, como a gente faz isso.
+[00:32]  A primeira coisa que a gente faz é vir render settings, vamos em effect, vamos colocar um global iluminação.
+[00:39]  Então, a gente já coloca aqui o interior height diffuse depth, que é o preset que mais dá a difusão de luz entre os objetos,
+[00:50]  como eu expliquei na aula de renderização. Vamos fechar então.
+[00:57]  E vamos vir aqui e criar um sky, ok? Agora vamos em create new material, dois cliques, podemos renomear isso aqui para sky e em color,
+[01:17]  podemos desligar, desligo o reflectance e vamos ligar apenas o luminance. E aqui, o volto de 83, 80, menos de 85, é uma boa luz.
+[01:30]  Eu falo isso por experiência minha. Se você quiser colocar menos, se você quiser colocar mais, aí você vai vendo e acorda com o que você quer e decide aí o que você quer.
+[01:41]  Vamos colocar 83 aqui e depois a gente verifica. Se precisar mais, a gente aumenta. Não tem esse lance de 83 aqui, porque 83 fica bom.
+[01:52]  Se colocar mais ou menos, vai ficar ruim. Não é isso, né pessoal? Se você quiser colocar mais, você coloca dependendo da edição do projeto.
+[02:00]  Beleza? Então eu vou renderizar aqui. Ctrl-R para renderizar. Bem legal, então já está a minha iluminação bem uniforme.
+[02:14]  Agora aqui a gente vai fazer. Eu vou selecionar o sky, foi em object, nós vamos em tags, render tags, compile.
+[02:27]  Eu só quero desligar, está aqui sem bikecam para não ver aqui no resultado final. Lembrando pessoal que aqui, você está vendo o material cinza, né?
+[02:37]  Então o que é ideal? É você dar dois cliques aqui e criar esse material padrão mesmo e você arrastar aqui para o grupo, tá?
+[02:44]  Então você renderiza para ver realmente a iluminação. Então olha só, muito boa a iluminação, para mim está muito legal.
+[02:53]  Por que eu falo que está legal? Porque a iluminação não tem aquelas partes escuras pretas aqui, né? Ela tem aqui as cinzentadas, então para mim está o resultado muito legal.
+[03:04]  É isso que eu acho legal. Eu não acho bom quando o celo tem uma boa iluminação na frente e aqui está escuro entre as letras.
+[03:12]  Então isso dá para notar que a pessoa não tem um bom controle ainda de iluminação, né? Então olha só o que a gente vai fazer.
+[03:20]  Como a gente tem iluminação toda pronta já, então isso vai facilitar muito, né? Basta a gente colocar os nossos materiais e pegar o resultado que a gente quer.
+[03:28]  Agora então vamos começar a criar os materiais do nosso objeto. Vamos dar dois cliques aqui, vamos em color e vamos colocar um vermelho aqui, né?
+[03:40]  Esse vermelho, deixa eu clicar aqui, né? Esse vermelho, pessoal, você não coloca aqui em 100%. Não sei se a aula de cores vai ficar antes ou vai ficar depois dessa aula aqui, mas olha só, né?
+[03:52]  A gente vai ter que colocar uma cor um pouco para cá, como você vai ver na aula de cores, né? Você vai ter mais noção do que eu estou fazendo aqui.
+[04:01]  Então olha, deixa eu colocar um vermelho um pouco mais para cá, não coloco nem 100% aqui, coloco um pouco rosado e não coloco nem tão claro, também nem tão vermelho, então coloco mais ou menos aqui.
+[04:13]  Porque essas são, na verdade, as cores da vida real, que é a mistura de iluminação que sofre um objeto, então acaba tendo as cores, elas são mais ou menos aqui, nesse meio, né?
+[04:25]  Essas cores aqui, ó, já seria uma escolha de vetoriais, tá? Então a cor mesmo que você usa aqui, por exemplo, a 3D para fazer composição, normalmente ela vai seguir nesse campo aqui, tá?
+[04:38]  Que é aonde sofre interferência de outros objetos e luzes na vida real.
+[04:45]  Então a gente renderiza, deixa eu ver se esse vermelho realmente está legal, é, ó, bem legal, né? Para mim está.
+[04:53]  Beleza então, pessoal, a gente vai só definir as cores, né? E depois a gente vai colocar, então, flexões.
+[05:03]  Você percebe, pessoal, como eu faço um passo a passo, então você faz esse passo a passo e você consegue trabalhar muito melhor e de forma muito mais confortável e você não vai ficar frustrado em não conseguir uma coisa.
+[05:17]  Por exemplo, você vai começar a criar aqui, né? O material, aí você escolheu as cores, aí você vai colocando reflexão, já que é reflexão, já que é iluminação, você quer muita coisa junto de uma vez só, pessoal.
+[05:30]  Faz isso de forma separada que você vai conseguir trabalhar melhor, tá? Então vamos lá que você vai entender.
+[05:36]  Vou pegar então esse material vermelho, pressionar contra, clicar e arrastar para cá e eu duplico ele. Vou dar dois cliques e agora eu vou escolher um amarelo aqui, ó, tá?
+[05:48]  Então esse amarelo vai ser um pouco mais claro, né? Para... por quê? A gente colocou um vermelho um pouco mais escuro e a gente coloca um amarelo mais claro para...
+[06:00]  A gente tem um contraste legal. Então vamos abrir aqui o selo e vamos colocar isso no bilho e no ceio, tá?
+[06:10]  Então a gente renderiza. Olha só que legal, né? Bem bonito mesmo.
+[06:19]  Talvez a gente possa colocar o ceio prateado, né? Deixa eu ver aqui, ó, branco, amarelo para baixo, como esses outros selos.
+[06:30]  Ó, a gente pode pegar esse tipo de referência aqui, colocar prateado para cima, amarelo para o outro, né?
+[06:38]  Eu quero que big, né? Seja o destaque, então eu quero que ele fique amarelo.
+[06:44]  Então o ceio, depois, a gente vai fazer um prateado para ele. Então vamos duplicar novamente esse material.
+[06:50]  Vamos colocar nesse subsonso face, tá? Que é os 50% do desconto.
+[06:55]  Para ensinar que eu não quero mais ver essas linhas. Hmm, já não está mostrando mais, né? Tá certo.
+[07:01]  Então a gente vai trocar a codelha, ó, para branco, tá? Não branco 100%, tá?
+[07:07]  Então pessoal, a gente vai colocar aqui um pouquinho de cinza, tá? Beleza. Então a gente renderiza.
+[07:17]  Olha só que legal, né? Então já está ficando bem bonitinho aqui, ó.
+[07:21]  Eu vou colocar nessa visualização aqui. Talvez seja essa que a gente vai renderizar e fazer esse selo,
+[07:28]  então fazer uma pequena composição no After Effects.
+[07:32]  Olha só, né? Bem legal.
+[07:35]  Depois a gente pode fazer até uma textura para colocar nessa parte vermelha.
+[07:39]  Ok, pessoal? Então nossos materiais estão aplicados, o nosso eliminação já está legal, está uniforme.
+[07:46]  Depois a gente vai trabalhar, então na próxima aula a gente vai trabalhar em reflexo, tá bom?
+[07:50]  A gente vai colocar aqui as reflexões, a gente tem nosso texto brilhando aí, bem bonitinho. Beleza?
+[07:55]  Então, até a próxima aula.
+[08:01]  E aí, pessoal?
+
+
+=========================================
+📖 INÍCIO DA VIDEO_81
+=========================================
+
+[00:00]  Muito bem pessoal, já aqui com o nosso celular prontinho, a iluminação e as cores definidas.
+[00:08]  Lembrando que o seio talvez a gente troquei para um prateado, a gente vai ver como é que fica.
+[00:13]  Agora vamos colocar reflexões aqui.
+[00:16]  Olha só, esse Sky está emitido a reflexão aqui.
+[00:23]  A gente pode se ver aqui na tag, com o país do tag.
+[00:29]  E a gente tem aqui o symbioreflexion, a gente pode desmarcar os dois.
+[00:35]  É para receber reflexão, ou seja, o objeto é receber reflexão e o outro é para emitir.
+[00:41]  Então a gente desmarca os dois aqui e a gente não precisa de nenhum deles.
+[00:45]  A gente renderiza, a gente não vai ter tanta mudança porque a gente não tinha aqui reflexão.
+[00:54]  A gente vai ter pouca mudança porque a gente não tinha aqui reflexão.
+[00:57]  Agora a gente precisa criar, deixa eu ligar aqui, o nosso ambiente pessoal, ele é totalmente branco.
+[01:07]  A gente não tem nada aqui que vai ajudar em reflexão.
+[01:10]  Então a gente precisa colocar um cara, alguma coisa para refletir.
+[01:15]  Então vamos desligar aqui.
+[01:18]  Olha só, vou mostrar para você o que está acontecendo.
+[01:21]  Se eu, por exemplo, vim nesse vermelho, colocar aqui reflexão e eu ligar, olha só o que vai acontecer.
+[01:29]  Vai ficar preto, porque não tem nada para refletir.
+[01:33]  Lembrando que aqui, desliguei o symbioreflexion, deixasse isso ligado, olha só o que eu teria.
+[01:42]  Reflexão branca, porque é branco que a gente tem aqui.
+[01:46]  Agora a gente vai colocar um objeto para refletir aqui.
+[01:50]  Deixa eu ligar aqui o symbioreflexion nessa tag.
+[01:54]  A gente vai colocar agora um novo que se cai.
+[01:57]  Prontinho, vamos em create, new material, dois clicks nele.
+[02:04]  Vamos desligar o reflectance, o color, vamos em luminense, ligamos aqui.
+[02:11]  Então em textura, nós vamos carregar uma textura.
+[02:14]  Dentro da parte do curso, você tem essa parte aqui, mídias, e você tem HDI.
+[02:20]  Podemos pegar essa e abrir.
+[02:23]  Então a gente não quer copiar para esse projeto, nesse caso.
+[02:27]  Então a gente clica em não.
+[02:29]  E a gente pega esse cara, a gente coloca aqui nesse novo Sky.
+[02:33]  Se a gente renderizar, olha só.
+[02:38]  Agora sim, eu estou tendo recebendo reflexão aqui.
+[02:42]  A gente pode vir aqui em option.
+[02:47]  Você liga aqui Reflexion para você ver a reflexão aqui.
+[02:52]  A gente pode pegar a ferramenta de rotação, selecionar o Sky.
+[02:56]  A gente pode rotacionar para encontrar um ângulo aqui que mais reflete.
+[03:00]  No caso a gente vai ter que fazer duas coisas.
+[03:02]  Decidir o ângulo onde vai ser o nosso selo.
+[03:06]  No caso talvez esse seja mais ou menos assim.
+[03:09]  Então você rotaciona para pegar um ponto que você quer que reflita.
+[03:14]  Esse aqui parece que está refletindo bem legal.
+[03:17]  Vou rotacionar um pouco assim para ficar tão de forma e um pouco para cima.
+[03:24]  Está vendo? Então aqui vai refletir melhor.
+[03:28]  O que acontece agora?
+[03:30]  Esse cara vai interromper a nossa iluminação.
+[03:34]  Porque ele agora está emitindo iluminação também.
+[03:37]  Então você vê que o amarelo ficou escuro.
+[03:40]  O que a gente tem que fazer?
+[03:42]  Você tem que selecionar ele.
+[03:44]  Você vê tags, render tags, composite.
+[03:48]  E aqui o Sim by Reflexion a gente deixa ligado.
+[03:54]  A gente vai desligar esse cara aqui, Sim by GI.
+[03:57]  Ou seja, isso aqui é Global Illumination.
+[04:00]  Lembra que a gente ativou aqui Global Illumination?
+[04:03]  A gente vai tirar, então, do Global Illumination.
+[04:06]  Ou seja, esse objeto aqui não vai emitir nenhuma iluminação.
+[04:11]  Além disso, a gente pode desligar o Shadows.
+[04:14]  Todos os Shadows aqui a gente pode desligar.
+[04:17]  Tanto quanto Transparencia, Ambiente Occlusion.
+[04:22]  A gente deixa apenas Reflexion.
+[04:25]  A gente pode tirar o Sim by Camera também para ele não aparecer na renderização.
+[04:30]  Então a gente vai deixar apenas esse cara, que é esses caras ali.
+[04:34]  E a gente vai deixar o Sim by Reflexion.
+[04:37]  Podemos deixar os dois.
+[04:39]  Então a gente vai desligar esse de cima.
+[04:42]  Esse cara aqui é para receber Reflexão.
+[04:44]  A gente vai deixar apenas esse que é para emitir Reflexão, o de baixo.
+[04:49]  E, então, a gente renderiza, pessoal, e olha só.
+[04:54]  A nossa iluminação está bem legal e agora nós temos Reflexões.
+[04:58]  Beleza?
+[04:59]  Agora vamos ajustar nosso material vermelho para essa Reflexão.
+[05:03]  Vamos dar dois cliques nele.
+[05:05]  E vamos em Reflectance.
+[05:07]  Já colocamos aqui o Reflectance.
+[05:10]  Vamos diminuir ele.
+[05:12]  Vamos colocar isso aqui levemente vermelho.
+[05:15]  A gente renderiza para ver como é que está.
+[05:23]  Olha só, já temos um brilho aqui.
+[05:25]  Vamos ver as configurações de realização Global Illumination em Radiance Cast.
+[05:31]  Vamos colocar aqui para Preview e Lightmap.
+[05:35]  Vamos colocar em 5000.
+[05:37]  Tá?
+[05:38]  Prontinho.
+[05:40]  Vamos renderizar aqui.
+[05:44]  Bem bonito.
+[05:45]  A gente pode tirar esse ralgunis aqui, que é esse 2 que tem aqui.
+[05:51]  A gente pode colocar em 2.
+[05:53]  Renderiza.
+[05:55]  Bem mais brilho agora.
+[05:58]  Para a gente desfocar um pouquinho essa Reflexão, a gente pode ver no HDR aqui.
+[06:03]  Illumination.
+[06:05]  Aqui, Blue Offset.
+[06:07]  A gente pode colocar, por exemplo, 7.
+[06:11]  Vai ter essa Reflexão aí.
+[06:13]  Então, vou deixar o meu assim.
+[06:17]  Então, vou selecionar esse cara aqui.
+[06:20]  E essa Reflexão, eu vou só aumentar mais um pouco.
+[06:23]  45%.
+[06:26]  Bem bonito.
+[06:28]  Então, eu vou fechar.
+[06:30]  Vamos em Material Amarelo.
+[06:32]  E aqui, nós vamos em Adicionar, Reflect, Reflection Ligência.
+[06:39]  Então, vamos em Leia 1.
+[06:41]  E aqui, vamos tornar isso, deixar isso um pouco amarelado.
+[06:46]  Então, a gente vai diminuir aqui.
+[06:48]  Novamente, para uns 44, para uns 5, um pouco menos de 50.
+[06:52]  Então, olha só, pessoal, como já está dando, uma tonalidade bastante diferente aqui.
+[06:58]  Beleza.
+[07:00]  Agora, a gente vai fechar.
+[07:02]  E eu vou até fazer um render mais próximo aqui para você ver.
+[07:09]  Ctrl-R para renderizar aqui.
+[07:14]  Olha só, que bonito, pessoal.
+[07:16]  E olha só a iluminação.
+[07:18]  O Comperfeito fica a iluminação.
+[07:20]  Então, beleza.
+[07:22]  No Material Branco, não vai ter Reflexão.
+[07:25]  Olha, é um Branco Stint.
+[07:27]  A gente pode até desligar esse Reflectense dele.
+[07:29]  Não precisa.
+[07:31]  E ok.
+[07:33]  Agora, a gente vai adicionar um pouco.
+[07:35]  Deixa eu renderizar aqui.
+[07:37]  Opa!
+[07:39]  Vou posicionar aqui.
+[07:41]  E eu vou renderizar aqui.
+[07:43]  Para vir aqui para o Pink Tree View.
+[07:45]  Só para a gente ver o antes e o depois.
+[07:47]  Então, eu vou fechar aqui.
+[07:49]  E a gente vem em Plane.
+[07:53]  A gente pressiona F2.
+[07:56]  A gente amassa aqui esse Plane um pouquinho.
+[07:58]  Deixe de assim, tá?
+[08:00]  Comprido.
+[08:02]  Pressiona F4 agora.
+[08:04]  E a gente levanta ele, coloca em cima.
+[08:06]  Tá?
+[08:08]  Prontinho.
+[08:09]  Aí, a gente pressiona Ctrl.
+[08:11]  Segura até clicar Ctrl.
+[08:13]  Tá?
+[08:15]  E a gente vai clicar e arrastar.
+[08:17]  Ele vai duplicar, tá?
+[08:19]  Prontinho.
+[08:21]  Contra novamente.
+[08:23]  E arrasta para cá.
+[08:25]  Eu não criei três lá em cima.
+[08:27]  Olha só.
+[08:29]  A gente não precisa render esses Polígonos, tá?
+[08:31]  Subdivisões.
+[08:33]  Seleciona então os três.
+[08:35]  Vem o objeto.
+[08:37]  E aqui, ao invés de dez, coloca um.
+[08:39]  Beleza.
+[08:42]  Pode colocar em L, tá?
+[08:44]  De iluminação.
+[08:46]  A gente pode pegar até mesmo a meio...
+[08:48]  A gente vai criar um novo, na verdade.
+[08:51]  Para a gente ter melhor controle.
+[08:53]  Vai ligar a iluminação, desliga o restante.
+[08:56]  Pega e coloca lá.
+[08:58]  Tá?
+[09:00]  Então, a gente fecha, renderiza.
+[09:05]  Legal, já recebemos uns brilhos aí em cima.
+[09:07]  Para ele não aparecer na nossa cena,
+[09:09]  a gente faz o seguinte.
+[09:11]  Seleciona.
+[09:13]  Vou colocar isso para cá para organizar, tá?
+[09:15]  Seleciona o IL.
+[09:17]  Vamos em tags.
+[09:19]  Render tags.
+[09:21]  Com pais.
+[09:23]  Se eu colocar lá para cá.
+[09:25]  E vamos em Simbike Camera e tiramos.
+[09:27]  Tiramos também o Shadow.
+[09:29]  E também o Ambiente e o Clujo.
+[09:31]  E vamos renderizar.
+[09:35]  Prontinho.
+[09:37]  Colocamos uma reflexão ali em cima.
+[09:41]  Vamos baixar um pouco.
+[09:43]  Esses caras aqui, desliguei aqui.
+[09:45]  Vamos baixar mais um pouco.
+[09:47]  Parecer mais.
+[09:49]  Para afetar mais.
+[09:51]  Renderizando.
+[09:53]  Beleza, foi muito.
+[09:55]  Quero menos.
+[09:59]  Pareceu muito.
+[10:01]  Talvez aqui.
+[10:03]  Para colocar uma textura,
+[10:05]  vai desfaçar um pouco.
+[10:07]  Muito bem pessoal.
+[10:09]  Se você quer mais reflexão,
+[10:11]  você vem em Reflections.
+[10:13]  Na medida que você aumenta aqui,
+[10:15]  é legal que você aumente um pouco mais.
+[10:17]  Mais escuro a sua reflexão.
+[10:19]  Mais vermelho.
+[10:21]  Olha só o resultado que a gente tem.
+[10:23]  Bem legal.
+[10:25]  Ali em cima ficou muito nítido.
+[10:27]  Vamos colocar uma textura.
+[10:29]  Para ver se desfaça.
+[10:31]  Vai ficar bem legal.
+[10:33]  Então,
+[10:35]  ver o amarelo,
+[10:37]  podemos dar um pouco mais de reflexão nele.
+[10:39]  A gente aumenta aqui.
+[10:41]  E a gente também,
+[10:43]  deixa o amarelo mais intenso.
+[10:45]  E a gente renderiza.
+[10:49]  Está com um brilho bem legal.
+[10:51]  Lembrando que aqui a gente deixa
+[10:53]  bastante uniforme,
+[10:55]  tudo como falei para vocês.
+[10:57]  E depois no After Effects,
+[10:59]  se a gente consegue ainda fazer um ajuste de coisa,
+[11:01]  vai ficar muito top.
+[11:03]  Até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_82
+=========================================
+
+[00:00]  Canslin aqui, olha só pessoal, vamos abrir então material vermelho, tá, nós vamos duplicar ele na verdade,
+[00:07]  vamos abrir então esse novo, vou colocar aqui ó, textura, beleza, esse aqui vai ter uma textura,
+[00:16]  deixa eu pegar esse material, esse textura, a gente vai colocar ele ó, dentro desse vídeo que eu já
+[00:21]  vou colocar o surfaces que tem esse extrude, tá, que é essa, esse escudo, né, vamos colocar nele aqui,
+[00:29]  beleza, então a gente vai ver em bump, vamos marcar, vamos em textura, e nós vamos então aqui ó, em
+[00:39]  surfaces, tiles, tá, então a gente vai entrar aqui, a gente vai mudar isso aqui ó, pode ser para
+[00:48]  e a gente vai colocar aonde está azul, a gente vai colocar preto e aonde está vermelho, a gente vai
+[00:57]  colocar essa mesma coisa aqui ó, para isso a gente pega a canetinha e clica aqui, e prontinho, tá, em
+[01:04]  grow width, vamos colocar esse aqui em 45 para ficar um pouco mais afastado, e em bad width a gente vai
+[01:12]  colocar em 1, tá, porque se colocar em zero não vai ficar legal, a gente coloca em 1, beleza,
+[01:20]  para ficar bem mais nítido, então é um global scale, a gente pode colocar aqui em 25%, quando a gente
+[01:27]  renderizar, olha só, né, na tagrange, a gente clica aqui, vem projection, muda aqui ó, para cubo,
+[01:40]  ok, e aqui a gente pode diminuir mais 50%, diminuir aqui e aqui,
+[01:49]  então deixa bem menor só para receber o brilho e ficar com essa textura em bump top, né, bem legal,
+[01:57]  aí a gente pode fazer esse também no texto, se você quiser, né, mas eu vou fazer só aqui,
+[02:02]  vou dar um pouco de zoom aqui, olha só, olha só que tal pessoal,
+[02:09]  que render bonito, né pessoal, então você pode ver totalmente dentro do cinema 4d, agora a gente
+[02:17]  pode tentar colocar esse seio prateado, como eu falei no início, né, vamos ver como é que fica, dupliquei
+[02:22]  aqui o material amarelo pressionando contra, vamos em color, vamos colocar aqui ó, cinza,
+[02:28]  em reflexão, vamos colocar branco, ok, então pegamos esse material, colocamos em seio
+[02:38]  e vamos ver como é que isso fica, acho que vai ter que aumentar mais reflexão aqui, renderizando
+[02:47]  ó, big seio, talvez a gente pegar a mesma textura aqui ó, do vermelho, você vê em bump, textura, clica
+[02:57]  aqui nessa seta, copy shader, tá, então vamos copiar, a gente volta aqui no amarelo, aí seleciona
+[03:05]  o bump, clica, ativa ele, tá, você vê em textura, clica aqui paste shader, opa, desculpa pessoal,
+[03:14]  na verdade isso vai ser ó, no material prateado, então em bump, textura, né, paste shader,
+[03:23]  vamos renderizar, tá meio grandinho, acho ó, é, ficou meio grandinho, como é que a gente faz agora,
+[03:30]  seleciona aqui o material, tá, vê em projection, muda aqui para cubo, tá, e coloca aqui nesse caso
+[03:38]  você 25% tá, você menor ainda, porque tá bem maior, acho que vai ser menor, isso, então ele vai
+[03:47]  ter esse brilho aí, você percebe que não tá tão nítido, né, não tá ficando tão legal
+[03:59]  ó, o que a gente vai fazer? A gente vai duplicar esse material prateado, pressionando contra,
+[04:04]  então vamos dar dois cliques, desligamos o bump, tá, vamos abrir aqui o seio, esse que tá aqui,
+[04:12]  a gente coloca no primeiro, o que é essa capa aqui, nas bordas a gente vai colocar esse um liso, tá,
+[04:20]  sem a textura, faz você colocar um que já vai para o outro, no caso, o aqui ó, a estância né,
+[04:31]  então vou renderizar, aí a gente vai ter a borda mais lisinha e a textura fica apenas né no
+[04:41]  material metálico, aí ele recebe um brilho, bem legal, beleza, então eu vou
+[04:52]  criativar a câmera, né, eu nem tenho câmera aqui ainda, vamos colocar uma câmera, porque fica bem
+[04:56]  melhor para a gente não ficar posicionando isso aqui toda hora, então deixa mais menos aqui,
+[05:02]  colocamos então a câmera, tá, deixar esse ângulo aqui um pouco para cima, a gente tem uma impressão de
+[05:08]  big seio né, então vamos ativar a câmera, e nós vamos colocar na câmera agora um focal length
+[05:15]  tá bem menor, talvez 26, testei ó, sabe essa percepção aqui de visualização de coisas grandes né,
+[05:25]  uma lixo mais aberta, um campo de visão maior, renderizando, olha aí, né, bem legal,
+[05:35]  a gente renderizar esse tipo de textura, a gente vai ter que fazer uma renderização com maior
+[05:39]  qualidade tá, para que essa textura fique bonitinha, beleza pessoal, então vamos configurar aqui para
+[05:45]  a gente renderizar e enviar isso para o After Effects, vamos desligar isso aqui tá, clica aqui ó,
+[05:51]  se botar só na bolinha de cima deixa ela vermelho, dois cliques, para sumida aí né,
+[05:57]  então a gente vem aqui ó, em render, configuração de render né, e vamos mudar aqui de output,
+[06:05]  vamos colocar aqui em filme e vídeo, HDTV 1080 tá, deixa eu colocar isso aqui ó, por 24,
+[06:14]  1920 por 1080 tá, em, antes a gente precisa alterar esse cara aqui tá, só antes de eu configurar aqui
+[06:23]  para você ver como é que está, e você faz o mesmo para você ver a diferença tá,
+[06:30]  então olha só, nessa renderização ainda não está tão nítido a textura que a gente colocou,
+[06:35]  então o que a gente tem que fazer, a gente vai ter que vir aqui e vamos anti-lizing e nós vamos
+[06:43]  colocar aqui para best, tá, então a gente renderiza de novo e verifica né, se é o suficiente,
+[06:51]  com só feito isso aí já vai demorar um pouco mais para renderizar,
+[06:58]  então olha só, né, já dá para anotar aqui, a gente mesmo determinar que está ficando bem melhor né,
+[07:04]  a textura, bem melhor mesmo, bom, legal, então vamos é,
+[07:16]  então eu creio que isso já seria suficiente, você quiser fazer com a impressão né,
+[07:22]  para imprimir você vem anti-lizing, threshold, você coloca dois aqui por exemplo e aqui você
+[07:28]  coloca quatro, e você renderiza isso, vai ficar bem mais nítido, vai ficar bem mais nítido,
+[07:36]  vai ficar com maior qualidade e vai ficar muito top, eu vou deixar esse mais, vai renderizar bem
+[07:45]  no caso do vídeo essa renderização aqui seria bem legal né, mas porém quando você fazer
+[07:55]  uma imagem né, se renderizar frame pode valer a pena, mas quando você fizer renderização com
+[08:02]  animação aí o negócio vai ser pesado né, você esquece de renderizar, beleza pessoal,
+[08:08]  então tá prontinho né, tá demorando 43 segundos para renderizar,
+[08:14]  quando a renderização está pronta tá, beleza
+
+
+=========================================
+📖 INÍCIO DA VIDEO_83
+=========================================
+
+[00:00]  Genslin aqui, muito bem pessoal vamos então exportar né, vamos renderizar isso aí para fora do Cinema 4D
+[00:06]  Vamos colocar isso lá no Xplore, para que a gente possa então colocar no After Effects, beleza
+[00:14]  Vou clicar aqui, re-save tá, vamos re-save, lembrando que a Output já colocou aqui em 1920x1080
+[00:22]  E vamos re-save agora, vamos mudar aqui o formato, colocamos PNG tá
+[00:29]  E vamos mudar o Def para 16 tá pessoal, tá em 8 aí, coloca em 16, e Alpha Tino marcar tá
+[00:36]  Importante isso aqui para poder ir com transparência, muito bem, lembrando que anti-Isleize né, eu tô aqui
+[00:43]  Com 2 vezes 2, 4 vezes 4, e aqui em Threshold World tá em 6, vamos en-save
+[00:52]  6 eu acho que tá até bom demais né, vou colocar 9 aqui, para renderizar mais rápido
+[00:59]  Então vou en-save, nós vamos aqui em File, que vamos clicar e escolhemos um tom local para salvar tá
+[01:07]  Dentro da parte eu criei uma parte da Big Sail, eu salvei o projeto, tá aqui isso aqui
+[01:11]  E eu criei uma parte aqui chamada Pre-Render, vamos abrir ela, aqui então podemos colocar ó, selo
+[01:19]  Big, Sail, 3D, beleza, a gente coloca aquele famoso 01 aqui, então a gente salva tá, e é isso
+[01:33]  Controeste para salvar o projeto, Shift R você renderiza, e olha só, já vai começar a renderizar
+[01:43]  Aqui né, a gente tem que diminuir o Threshold mesmo para, talvez a gente, talvez a gente tenha que reduzir
+[01:51]  Mesmo Threshold World né, para 6, para ter maior definição da textura, então vou colocar 6 aqui
+[01:59]  Vou pressionar Shift R, ele vai perguntar se eu quero parar renderização e renderizar novamente né, aí eu digo que sim
+[02:05]  Aquela humana não tá legal, então vai ficar lá naquele valor tá pessoal
+[02:11]  É pessoal, manda aí no grupo tá, o quanto demorou para você renderizar isso aí tá, você manda a foto do selo
+[02:19]  Ou renderizei esse selo, você fala assim renderizei esse selo, meu processador etal demorou tanto de tempo né
+[02:27]  Nesse ângulo, então manda aí para a gente ter uma noção do que tá rolando das máquinas que vocês têm
+[02:33]  Então olha só, bem legal, aqui no meu tem no i7-8700K, renderizou em 44 segundos com a configuração que eu te mostrei
+[02:45]  Beleza, o selo prontinho bem iluminado e é isso, vou fechar aqui e nós vamos então, vim aqui em selo, vamos fazer uma outra renderização
+[02:58]  Colocamos dois aqui tá, em vez de uns troca para dois, te fecha em câmera, a gente pressiona Ctrl C e Ctrl V na câmera
+[03:07]  Seleciona aqui ó, liga ela aqui e rotacionamos aqui ó, vamos fazer um outro ângulo aqui
+[03:17]  Só para a gente fazer aí uma diferença, lembrando pessoal de enquadrar, ó, deixa um espaço legal aqui e outro espaço aqui
+[03:28]  Além dos outros aqui, então enquadrado aqui ao centro, Ctrl S está sempre salvando o projeto, Shift R manda renderizar
+[03:37]  Você percebe que a renderização aqui no Cinema 4D é muito boa também para esse tipo de conteúdo, varejo, é muito boa mesmo para renderizar
+[03:47]  Mas o problema é que demora pra caramba né, esse que é o problema
+[03:52]  Principalmente quando a gente quer mostrar como a gente colocou aqui a uma textura, quando a gente quer colocar esse tipo de coisa
+[03:58]  A gente tem que aumentar a qualidade para poder a textura sair legal, aí demora pra caramba renderizar
+[04:05]  Então olha só esse texto né, lembra bastante eu acho que na SBT, aquele conteúdo da SBT, sei lá da promoção da SBT lá, você sechou do milhão, não lembra?
+[04:15]  Sei que isso aqui me lembra alguma coisa da SBT esse dourado
+[04:19]  Então olha só que legal né, bem bonito, bastante reflexão
+[04:23]  Então vou fechar aqui e é o seguinte, a gente vai lá na After Effects e a gente vai colocar
+[04:31]  Vamos fazer do outro ângulo aqui, contra o C, contra o B na câmera, ligo a câmera nova aqui
+[04:37]  Vem de coordenados aqui, o Dita Menos, vou tirar esse negativo e aqui também vou tirar esse negativo
+[04:45]  Então vou ter desse lado aqui, aí eu venho aqui na configurações de render, em Save
+[04:50]  Eu mudo aqui para 3, ou para 3 não 4
+[04:54]  Prontinho, fecha isso aqui, e Shift R manda renderizar
+[05:05]  Então tá renderizando aí o nosso selo né pessoal, lembra que eu falei pra vocês
+[05:11]  Preste atenção nos conceitos e nas dicas que eu estou dando aqui pra vocês
+[05:15]  Porque é isso que vai fazer você possibilitar ou ser de fazer depois qualquer outro selo
+[05:21]  Nas dicas de design, referências, esse tipo de coisa
+[05:27]  Se você ficar tentando seguir umas passapassas, você depois não vai conseguir fazer sozinho
+[05:32]  Então preste atenção como é que eu faço as coisas, o porquê de o que eu uso, o porquê que a gente move
+[05:40]  Preste atenção nas ferramentas para que serve as ferramentas e tudo mais
+[05:44]  Então olha só que coisa linda né pessoal, bem bonito mesmo
+[05:48]  Não quero me gabar não né gente, muito bonito
+[05:53]  Agora eu vou fechar aqui, é isso tá
+[05:56]  Então na próxima aula vamos fazer uma pequena animação, depois a gente vai lá no After Effects
+[06:00]  A gente faz uma composiçãozinha lá, só para você entender o fluxo de trabalho
+[06:05]  Beleza? Então até a próxima aula
+
+
+=========================================
+📖 INÍCIO DA VIDEO_84
+=========================================
+
+[00:00]  Como muitos já sabem, o Cinema 4D é o mel no mundo do Motion, ou seja, se o cara quer
+[00:08]  trabalhar com o Motion, o Cinema 4D é o software mais indicado no Motion 3D, porque ele possui
+[00:15]  muitos recursos aqui para facilitar o Motion, movimentos então bastante complexos, ele
+[00:24]  tem aqui de uma forma bastante simples, facilita bastante. Agora a gente vai usar isso e isso
+[00:32]  se dá por conta do MoGraph, que é esse cara aqui, que é esse menu que tem essas propriedades,
+[00:37]  esses caras aqui são bichos da goiaba, então olha só o que a gente vai fazer, para a gente
+[00:42]  usar algum efeito desse aqui, a gente precisa ter um desses caras aqui em nosso objeto,
+[00:49]  então o que a gente vai fazer, a gente vai pegar o selo 3D, colocar aqui um cloner,
+[00:55]  vamos pegar esse cloner, vou colocar ele aqui e vamos colocar o selo 3D dentro, você pode pegar
+[01:03]  um outro aqui, como por exemplo, a instância, esse cara vai usar um cloner, e no cloner ele
+[01:09]  obviamente vai fazer cloners, a gente vem em objeto e a gente coloca em caute, e a gente coloca
+[01:15]  aqui em caute, e beleza, é só isso que a gente vai fazer aqui, movi minha câmera, não queria isso,
+[01:25]  vim aqui então em um dovio, posso até trancar ela aqui, por enquanto vim em tags, tag tags, eu coloco
+[01:33]  com paisa, na verdade já tem movido até onde eu não devia né, com então esse cloner eles vão
+[01:42]  aqui em cloner, vamos marcar sua opção fix cloner, para ele voltar para a posição original,
+[01:48]  então como é que a gente faz para adicionar o homografe aqui, a gente colocou muitas câmeras
+[01:54]  aqui, elas estão aparecendo aqui, muito de linha, está muito louca a nossa cena, e a gente vai fazer o
+[02:00]  cloner, vamos em filtro, vamos tirar aqui a câmera, e em cloner, o cloner acaba para mostrar
+[02:12]  a forma que a gente colocou, ele acaba mostrando, então a gente pode vir aqui no fd, clicar aqui
+[02:22]  nas bolhas de cima duas vezes para tirar, para minimizar aqui não ficar tão difícil de ver,
+[02:28]  além disso podemos ir em filtro e desligar o grid, vamos desligar o horário aqui, desligar esse grid
+[02:34]  aqui, ficar mais limpinho aqui, trabalhar legal, então podemos selecionar o cloner, a coisa selecionada
+[02:42]  vamos vir no graph, vamos colocar esse efeito chamado plane, vamos colocar então aqui em cima do cloner
+[02:51]  em parâmetro, você vê que ele subiu, porque aqui em x eu tenho um valor de 100, o parâmetro aqui vai
+[02:58]  mover, olha só o que acontece, a gente pode desmarcar o posito, se a gente vai em escala, pode mexer
+[03:06]  também com escala, isso tudo pode ser animado, então vou ligar apenas a rotação, e a gente pode
+[03:13]  botar o cenário aqui até a gente quer, então a gente vai fazer o seguinte, vamos colocar isso aqui
+[03:20]  em 360, talvez depois a gente pode alterar, o que acontece, quando esse valor ele for retornar aqui,
+[03:30]  ele vai animar, então vamos deixar em 360 aqui, e para a gente animar esse cara, a gente vem aqui
+[03:37]  em falloff, a gente pode colocar aqui linear field, clicamos e a gente colocou linear field,
+[03:44]  se você selecionar linear field, selecionar family live selection, modo objeto, se você mexer aqui
+[03:51]  a gente pode animar, está vendo? Então é isso que a gente vai fazer, olha só, a gente vai linear
+[03:58]  field, a gente vai arrastar ele para cá, e depois a gente vai animar ele para passar para esse lado,
+[04:03]  aí a gente controla melhor a animação, então beleza, vou pegar o linear field, vou arrastar ele
+[04:10]  para cá, até aqui, e eu vou clicar aqui, e a gente vai então levar isso mais para a frente,
+[04:19]  em caso, podemos levar, tem 20 frames, 30, 40,
+[04:32]  a gente vai colocar em 60 frames aqui, até aqui, antes de a gente definir os frames aqui,
+[04:39]  vamos pressionar control D, e vamos mudar esse FPS aqui para 24, deixa eu deixar isso aí sempre
+[04:48]  em 24, quando a gente for animar, então vamos colocar aqui em 60,
+[04:56]  aí a gente vai pegar esse cara, vai arrastar para cá, para esse outro lado,
+[05:03]  até o ponto em que ele, que ele rotasse um outro totalmente,
+[05:09]  rotasse um outro totalmente até aqui, assim como isso aqui, pode ser até mais ou menos aqui,
+[05:16]  deixa eu clicar aqui em cima, colocar agulho em cima,
+[05:20]  clica, e vamos marcar aqui para a animação nunca ser tão rápido,
+[05:24]  então a gente dá um play, olha só, vai animar já,
+[05:31]  legal, aí a gente pode ir lá no After Effects, colocar uma escala,
+[05:35]  e fazer essa animação bem crescente, então aqui mesmo, a gente pode vir em parâmetro,
+[05:42]  scale, a gente pode vir aqui, e uniforme scale, a gente coloca menos um,
+[05:49]  e a gente coloca em zero, a gente volta aqui, olha só,
+[05:53]  o meu está bugando aqui, está colocando menos um, ele deve crescer assim,
+[06:00]  então a gente dá o play, vou mostrar,
+[06:05]  está dando um bobo aqui no meu programa, então vou pausar aqui, verificar se eu consigo voltar
+[06:10]  normalmente aqui, bem pessoal, olha só, colocar menos um aqui é para acontecer isso aqui,
+[06:17]  lá vai vir de lá, vai crescer, legal, agora estou dando play aqui,
+[06:24]  isso não está acontecendo, está dando esse problema, olha só, aí você me diz que está
+[06:28]  acontecendo o mesmo aí com você, então ando vendo o que está acontecendo, não sei se é porque
+[06:34]  tem muitos polígios, vou desligar o subsonso face aqui, vou voltar, vou dar o play,
+[06:42]  você vê que se eu mexer qualquer coisa ele volta, então está dando esse bug aqui,
+[06:49]  na verdade eu não estou achando que seja provavelmente por causa do cloner,
+[06:53]  se selecionar o texto eu vou colocar aqui um long extens, para ver se vamos tentar resolver de
+[06:58]  outra forma, e vamos tirar aqui, vamos colocar um, vamos tirar aqui o cloner, desligar
+[07:08]  e a gente vai
+[07:12]  pegar o selo, vamos tirar daqui, vamos deixar lá para baixo, pega o extens, pega o extens,
+[07:18]  pega o pen, vamos colocar nele, como a gente faz, seleciona o extens,
+[07:24]  vamos em effecto, e colocamos o pen aqui, se a gente dar o play aqui,
+[07:34]  olha como o extens está funcionando, o extens está funcionando, você vê que o cloner pode dar
+[07:43]  um problema aí, o extens já não, porém que a gente coloca o extens a gente tem que fazer
+[07:48]  uma copia para cá e guardar o outro para ali, separado, então esse movimento ainda não está legal
+[07:54]  pessoal, vamos clicar aqui, vamos em render, vamos mudar aqui para hardware, vamos dar um shift,
+[08:01]  e vamos mudar isso aqui, frame range para outframing, em save a gente vai desde marcar,
+[08:08]  vamos salvar, vamos só prever aqui, então para assinar shift R, ele vai perguntar aqui,
+[08:13]  deseja renderizar mesmo sem salvar, aí você vai dizer sim, na verdade eu sei que a configuração
+[08:21]  não é o suficiente aqui, mas eu quero te mostrar umas coisas, tá bem, aqui já dá, aqui podemos
+[08:28]  parar a renderização, eu quero te mostrar esse trecho, olha só, ter o objeto de para aqui na tela
+[08:39]  não para de uma forma legal, vê que para de uma forma muito bruta, então isso não é legal,
+[08:46]  então é melhor que ele parar de uma forma mais suave, ou então aquele balance, então eu vou te
+[08:51]  mostrar duas formas aqui, eu vou rapidamente criar aqui o meu objeto só para você entender,
+[08:59]  eu vou copiar lá eles, tá, você não precisa fazer só, só ver mesmo, eu vou copiar o pen,
+[09:08]  vou colocar para cá, tá, já está aqui animado, você pode ver, eu vou colocar aqui um clone
+[09:17]  em cubo, diminuir um pouquinho, e eu vou colocar aqui rapidamente uma instância, então prontinho,
+[09:25]  só vou colocar aqui em um, lembra de colocar um aqui, senão vai criar um monte de cópia,
+[09:31]  e eu vou selecionar a instância em effect, vou colocar então o pen aqui, então como a gente faz,
+[09:38]  então vou colocar o pen aqui, e olha só, já está funcionando, só tem que tirar esse cubo
+[09:47]  daqui de visualização, tá vendo, é a mesma animação que nós temos lá no nosso seu,
+[09:58]  então você pode ver lá para e brutamente, a gente vai fazer o quê, a gente vai selecionar o plane,
+[10:05]  o moistence, seleciona o moistence, a gente vai ver em MoGraph effect, a gente vai colocar esse cara
+[10:13]  de delay, se a gente colocar o delay, olha só a diferença que já dá, quando para, já suaviza um
+[10:20]  pouco, isso tem esse modo aqui spring, se a gente aumentar, quando ele parar, ele vai balançar um
+[10:26]  pouco, olha só, tá vendo, balançando, então a gente colocar mais aqui, ó, vai balançar,
+[10:35]  então nós temos esse cara aqui evi, que ele vai suavizar, tá, então quando chegar no final da
+[10:41]  visualização, ele vai suavizar para parar de uma forma melhor, a gente aumenta aqui ele bastante,
+[10:50]  ó, suaviza, entendeu, suaviza no final,
+[10:58]  então são os dois que nós podemos usar, tá, eu vou colocar spring lá, tá, a gente dá um
+[11:04]  balançado, então vou em seio, a gente vai selecionar então o moistence, MoGraph effect delay,
+[11:14]  e então podemos escolher o meu aí, no caso vou colocar spring, vou colocar aqui mais ou
+[11:19]  menos setenta e dois por cento, vou dar um play aqui para a gente prever, demora para a gente prever,
+[11:29]  aqui nós temos muitos polígios, né, então olha só como é que vem balançando
+[11:36]  e chegou aqui, balança um pouquinho, tá vendo, e depois ele para, então vai ficar bem melhor,
+[11:44]  renderizar novamente, né, para a gente ver aqui a visualização, para a gente previsualizar a
+[11:50]  animação, legal, não precisa renderizar tudo, vou dar um stop aqui, então eu só quero ver esse
+[11:57]  final mesmo, o filme pessoal, então vai ficar bem melhor, big sale, ele coloca o efeito de audio,
+[12:05]  toda a composição, coloca um brilho, né, tudo marcha, bem legal, a gente fecha, agora a gente
+[12:14]  configura para renderizar isso, tá, três segundos, lembrando que aqui ó, fps, 24, configurações
+[12:21]  em output, vamos trocar aqui para standard e output, nós vamos colocar em frame ratio 24,
+[12:28]  e em option, como vai ser agora uma animação, a gente tem que, né, comentar isso aqui para
+[12:34]  deixo, vai ter que realmente diminuir um pouco a qualidade, porque senão vai demorar muito para
+[12:39]  renderizar, ok, então a gente vem em global illumination, aqui está tudo certo, tá, a gente
+[12:45]  configurou, então a gente vai fechar, control s para salvar, e lembrando, né, para quem save tem
+[12:54]  que te marcar, então em file, nós vamos abrir aqui e vamos colocar a nova pasta chamada animação,
+[13:01]  ok, então seleciona aqui, ó, big sale, a gente pode copiar o nome, né, alguém para cá e salvar,
+[13:12]  beleza, então a gente fecha aqui, seleciona shift r para renderizar, lembrando, né, que em output,
+[13:20]  eu estou em frame ratio, all frames, já configurei minha renderização, png 16-bit, alpha channel,
+[13:29]  em anti-aliasing, coloquei invest, 2x24, threshold, coloquei em 10, global illumination, aquela
+[13:37]  que a gente fez ao decorrer das aulas, ok, somente isso, então shift r, senão o 4d vai começar
+[13:46]  a renderizar todo dia então para a gente, aí vai demorar um pouco, né, um pouco muito, deu 30
+[13:52]  minutos aí, de repente, 20 minutos, e depois de renderizar, então a gente vai lá no After Effects,
+[13:59]  ver algumas coisinhas lá que a gente precisa fazer, tá, para quando a gente fizer um vídeo
+[14:03]  para você entender mais como é que funciona o fluxo, né, então você não tomar um susto
+[14:08]  e não sentir planta e dificuldade, isso aqui é, tipo, uma pré-aula do fluxo, então até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_85
+=========================================
+
+[00:00]  Genslin aqui, muito bem, olha só pessoal, se eu localizo o tapaxi aí onde você fez a sua renderização.
+[00:06]  Então eu vou importar aqui esse um, podemos importar todos eles na verdade, dois cliques, selecionar aqui os dois, tá?
+[00:16]  E podemos arrastar eles aqui ó, pra criar uma composição.
+[00:20]  Vou te mostrar só algumas coisas em relação à composição e que podemos fazer aqui, tá?
+[00:27]  Tratando mais de como vai funcionar o fluxo de trabalho, poder te fizer um vídeo, tá?
+[00:33]  Bem, então uma das primeiras coisas que a gente costuma fazer é colocar também aqui um Sharpie, ó, Sharpie.
+[00:41]  Tá bom o efeito que ele vai dar um pouco mais de nitidez pra nossas peças, vai ficar um brilho bem legal.
+[00:47]  Então ó, aqui está o Sharpie, a gente vai aumentar ele.
+[00:51]  Olha só como fica, tá vendo? Vou aumentar bastante, acontece isso.
+[00:56]  Mas a gente coloca aqui, por exemplo, 40, a gente já vai dar um resultado bem legal, vai brilhar bastante.
+[01:03]  Então se tirar, tá vaciante, depois fica bem melhor.
+[01:07]  Colocar 50 e fica bem legal, tá?
+[01:11]  Então esse número varia bastante, a gente diz 30 já fica legal, né?
+[01:18]  A gente tem que ter cuidado aí pra não exagerar, tá pessoal?
+[01:21]  Se não vai ficar visualmente pesado.
+[01:24]  Beleza? Então eu vou deixar o meu em 45 aqui.
+[01:27]  Depois disso, costumo colocar um efeito também chamado Evoin Color Correction.
+[01:34]  Vou colocar esse efeito chamado Selective Color.
+[01:37]  Esse efeito é muito...
+[01:40]  Cara, eu não vou falar muito desse efeito nesse curso.
+[01:43]  É o efeito mais top que tem aqui de correção de cores pra mim, tá?
+[01:48]  Serve muito.
+[01:49]  Falando aqui no âmbito de varejo em relação a gráficos, tá?
+[01:53]  Então vamos lá.
+[01:54]  Heads, tá? Se seleciona aqui o Heads.
+[01:57]  Então você tem vários parâmetros aqui pra você mexer no vermelho,
+[02:00]  como por exemplo, ó, você vai ficar escuro, mas claro, tá?
+[02:05]  Ou se ele vai ficar, ó, mais intenso, tá?
+[02:09]  Olha só, né? Pode ficar mais intenso ou não.
+[02:13]  Bem, qual a ideia aqui? É contraste.
+[02:16]  Então o vermelho, a gente vai deixar um vermelho assim,
+[02:19]  um pouco mais escuro, né?
+[02:21]  E o amarelo e esse outro aqui, a gente deixa um pouco mais claro pra ressaltar, né?
+[02:25]  Então olha só, a gente vai deixar esse um pouco mais vermelho,
+[02:28]  caso eu colocar aqui menos 20, tá?
+[02:32]  Esse cara aqui, eu vou sempre ressaltar isso pra vocês também.
+[02:35]  Não faço exagero aqui, tá?
+[02:38]  A gente vai colocar um pouco de magneto, ó.
+[02:40]  Colocar 5 aqui, ficar um pouco roxo, ó.
+[02:43]  Seria assim, ó, tá vendo?
+[02:45]  A gente vai colocar só mais um pouco, colocar valor de 10.
+[02:49]  E elo, quanto mais você coloca, mais vai ficar próximo do dourado.
+[02:53]  A gente não quer isso, porque é dourado aqui, né?
+[02:55]  Então a gente vai tirar o contraste aqui, né?
+[02:58]  Vai dar menos contraste.
+[03:00]  Então a gente coloca isso aqui em zero,
+[03:02]  a gente pode, talvez, deixar mais negativo, né?
+[03:04]  A gente pode colocar isso aqui, ó.
+[03:07]  Beleza?
+[03:08]  Em black, não vai ser mais claro.
+[03:11]  Então vai ser mais escuro aqui pra ter contraste.
+[03:15]  Então olha só, bem melhor.
+[03:17]  Então eu acho que 30 aqui é um valor muito bom.
+[03:20]  Então olha só como era antes.
+[03:22]  Olha como é que está agora, né?
+[03:24]  Então a gente tem muito mais contraste agora, né?
+[03:27]  Então é muito bom, ok?
+[03:29]  Então a gente mexeu o vermelho, consertou o vermelho.
+[03:32]  Isso aí que a gente quer? Beleza.
+[03:34]  A gente vem aqui em reds, a gente muda pra elo, tá?
+[03:37]  Temos amarelo aqui, e a gente começa a mexer.
+[03:40]  Os parâmetros são o mesmo, tá pessoal?
+[03:42]  Então basta você mexer aí.
+[03:45]  Então ó, vou colocar aqui em cinco, tá?
+[03:48]  Magneta, nós não vamos mexer, ó.
+[03:50]  Se você vir pra cá, a gente vai deixar um pouco mais desverdeado.
+[03:53]  Então a gente vai colocar, na verdade, aqui 10, menos 10.
+[03:57]  Em elo, aqui sim, ó.
+[03:59]  Nós podemos aumentar.
+[04:01]  Quando a gente aumenta, o mais amarelo vai ficar.
+[04:03]  Se a gente trazer pra cá, menos amarelo fica.
+[04:06]  Então ó, a gente pode deixar até em 100% isso aqui, né?
+[04:10]  Talvez o magneto, ó.
+[04:12]  Vou colocar aqui menos 25.
+[04:17]  E em black, né?
+[04:19]  Esse aqui a gente quer mais claro.
+[04:21]  Então ó, a gente vai trazer, né?
+[04:23]  A gente vai deixar negativo, menos 30.
+[04:25]  Beleza?
+[04:27]  Então olha só, pessoal, a diferença.
+[04:29]  Esse aqui é o renda do cinema.
+[04:31]  E aqui, ó, com a correção de cores, né?
+[04:33]  Então vamos em yellow.
+[04:35]  Agora, ó, gray, não temos, né?
+[04:37]  Siano também não temos.
+[04:39]  Blue também não temos.
+[04:41]  Magneta, whites, temos, né?
+[04:43]  Blancos e neutros.
+[04:45]  Então vamos em whites.
+[04:47]  Vamos ó, trazer isso pra cá.
+[04:49]  Então vai ficar tudo o que é branco, vai ficar mais claro.
+[04:51]  Só trazer isso pra cá.
+[04:53]  Black, né?
+[04:55]  E neutros.
+[04:57]  E a forma geral, tá bom?
+[04:59]  Então a gente traz, tipo, menos 15.
+[05:01]  Bem pouco.
+[05:03]  Aí ele vai deixar todo mundo novamente, né?
+[05:05]  Claro, ó.
+[05:07]  Parecido com o original.
+[05:09]  Só que a gente vai vir em blacks.
+[05:11]  E aqui, então, a gente coloca 20.
+[05:13]  Aí ele vai.
+[05:17]  Então não ficou muito legal.
+[05:19]  A gente vai deixar realmente aqui onde estava, tá?
+[05:21]  Vai deixar um pouco mais...
+[05:23]  Colocar aqui 2, por exemplo.
+[05:25]  E a gente pode deixar, ó,
+[05:27]  mudar a tonalidade por uniforme.
+[05:29]  Tá bem? Tá mudando aqui, ó.
+[05:31]  Então a gente vai colocar negativo aqui,
+[05:33]  quem sabe, é...
+[05:35]  Ficou bem melhor.
+[05:37]  Ficou muito top, ele é só.
+[05:39]  Menino em 5, né?
+[05:41]  Aqui a gente pode colocar 2 e magneta.
+[05:43]  E aqui, ó, a gente pode colocar 6, né?
+[05:45]  Então olha só, a diferença, pessoal.
+[05:47]  E a qualidade que isso tem agora, né?
+[05:49]  Então, sem os efeitos, ó,
+[05:51]  pra você não é fato,
+[05:53]  eu vou clicar aqui e eu desligo os efeitos.
+[05:55]  Sem os efeitos,
+[05:57]  seria dessa forma, tá?
+[05:59]  Que ganhei lá do cinema 4D, ó.
+[06:01]  Desse jeito.
+[06:03]  Depois que eu coloquei os efeitos,
+[06:05]  olha só.
+[06:07]  A diferença, né?
+[06:09]  Talvez o Sharp esteja muito forte aqui.
+[06:11]  Eu vou colocar ali em 30.
+[06:13]  Ó.
+[06:15]  Então olha só a diferença, pessoal.
+[06:17]  A vida que a gente deu fazendo
+[06:19]  essa correção de cores, né?
+[06:21]  Eu vou muito top mesmo, muito bonito.
+[06:23]  Então, o Sharp é legal.
+[06:25]  Se a gente colocar aqui, por exemplo,
+[06:27]  mil sólido,
+[06:29]  a gente pode pegar aqui, ó,
+[06:31]  mesmo amarelo, né?
+[06:33]  O acalíbrio bem mais claro.
+[06:35]  Na verdade, sacou nem importa.
+[06:37]  A gente vai colocar aqui um Gradient.
+[06:39]  Gradient Wamp.
+[06:41]  A gente pega aqui o amarelo, né?
+[06:43]  A gente pode mudar aqui pra
+[06:45]  radial.
+[06:47]  E a gente clica novamente
+[06:49]  no amarelo aqui, mas escuro.
+[06:51]  Então, olha só.
+[06:53]  Como a gente vai ter...
+[06:55]  Deixa eu só melhorar essa cor aqui, né?
+[06:57]  Então, olha só
+[06:59]  como a gente vai ter um selo aqui
+[07:01]  muito bonito, né?
+[07:03]  Com uma vivacidade muito boa.
+[07:05]  Então, a gente pode pegar
+[07:07]  esses outros aqui, ó.
+[07:09]  Pesso na Alt,
+[07:11]  arrastar pra cá.
+[07:13]  A gente coloca, a gente vê os outros ângulos, ó.
+[07:15]  Ele já vai redar todos os efeitos
+[07:17]  e aqui já vai vir bonitinho.
+[07:19]  Então, olha só.
+[07:21]  Como isso fica bonito, pessoal.
+[07:23]  Né?
+[07:25]  Muito bonito,
+[07:27]  muito vivo, né?
+[07:29]  Uma qualidade surreal.
+[07:31]  Então, vou pressionar Control-I.
+[07:33]  Vamos pegar aquela animação, tá?
+[07:35]  Seleciona o primeiro.
+[07:37]  Marca a opção aqui, ó.
+[07:39]  PNG Sequência.
+[07:41]  E importa.
+[07:43]  Então, a gente pega ele aqui.
+[07:45]  Alt, substituir aqui.
+[07:47]  Então, quando a animação parar aqui, né?
+[07:49]  Vai acabar.
+[07:51]  Então, vou pressionar aqui
+[07:53]  Control-Alt-T.
+[07:55]  E a gente vai deixar parado aqui.
+[07:57]  Beleza?
+[07:59]  Então, ó.
+[08:01]  Vou dar um play aqui.
+[08:03]  Chega de começo aqui.
+[08:05]  Vou restar um pouco mais.
+[08:09]  Olha só, pessoal.
+[08:11]  Que lindo, né?
+[08:15]  Então, vou pressionar N aqui.
+[08:17]  Olha só, que legal.
+[08:19]  Né?
+[08:23]  Então, isso fica muito bonito
+[08:25]  em um vídeo, né, pessoal?
+[08:27]  Olha, só pressionar Scala, por exemplo.
+[08:29]  Deixa eu ligar aqui, eu sei.
+[08:31]  Eira.
+[08:33]  Aí, eu pego isso,
+[08:35]  eu coloco num canto, né?
+[08:37]  Por exemplo.
+[08:39]  Olha só, como isso ainda fica
+[08:41]  elegível mesmo estando pequeno.
+[08:43]  Então, fica muito legal realmente.
+[08:45]  Isso, esse questão de ficar elegível, pessoal.
+[08:47]  Graças a...
+[08:49]  Também aquelas...
+[08:51]  Aquelas coisas que a gente faz
+[08:53]  de deixar a proporção e tudo mais, tá?
+[08:55]  E tamanho, a letra.
+[08:57]  Deixar a letra sem deformar muito.
+[08:59]  Então, tudo isso vai contribuir
+[09:01]  para que o ícone pequeno seja elegível.
+[09:03]  Olha só, que legal, né?
+[09:05]  Então, fica muito bonito.
+[09:09]  Vê, pessoal, que a gente não precisa
+[09:11]  exagerar em brilhos,
+[09:13]  exagerar em textura e outras coisas
+[09:15]  para a gente ter um resultado bonito, né?
+[09:17]  Você vê que o fluxo de trabalho
+[09:19]  segue rápido e a gente
+[09:21]  consegue um bom resultado.
+[09:23]  A gente pode, olha,
+[09:25]  ir no After Effects
+[09:27]  duplicar esse cara, control D,
+[09:31]  pegar a ferramenta de máscara,
+[09:33]  apentua ali, né?
+[09:35]  Você clica aqui fora,
+[09:37]  faz aqui um
+[09:39]  corte, né?
+[09:41]  Faz aquela reflexão fake, né?
+[09:43]  Não é...
+[09:45]  muito...
+[09:47]  correta, né?
+[09:49]  Mas funciona.
+[09:51]  A gente vem aqui e coloca Screen.
+[09:53]  A gente pensou na T e Opacidade.
+[09:55]  A gente diminui Opacidade aqui.
+[09:57]  A gente clica aqui para desligar a mágica.
+[10:01]  A gente vai colocar uma leve reflexão, tá?
+[10:03]  Ó, leve reflexão aqui.
+[10:05]  Da Play, olha só, que legal.
+[10:07]  Olha só, que legal.
+[10:09]  Né?
+[10:11]  Aí a gente pode animar ela também.
+[10:13]  Você pressiona M,
+[10:15]  MESC.
+[10:17]  Deixa eu costar um pouquinho aqui.
+[10:19]  Tem mais ou menos daqui.
+[10:21]  Lembrando que essa aula aqui eu só estou te mostrando, tá?
+[10:23]  Pessoal, recurso.
+[10:25]  Recursos daqui.
+[10:27]  Você pode me acompanhar comigo.
+[10:29]  Eu creio que não está sendo tão rápido assim.
+[10:31]  Eu só quero te mostrar aqui alguns recursos, tá?
+[10:33]  Para você entender depois como é que
+[10:35]  eu estou fazendo um vídeo, ó.
+[10:37]  Então eu vou estar para cá, fazer uma animação suave.
+[10:39]  E vai ao Play.
+[10:41]  Ó.
+[10:43]  Que legal, né?
+[10:45]  Então eu poderia estar dando zoom aqui na cena e tudo mais, né?
+[10:49]  Vamos ter várias outras coisas que nós poderíamos fazer.
+[10:51]  Eu posso duplicar esse cara, ó,
+[10:53]  para restar novamente um daqui
+[10:55]  dos outros selos, né?
+[10:57]  Olha, eu posso diminuir o tamanho deles.
+[10:59]  Está diminuindo lá atrás.
+[11:01]  Restar para cá, por exemplo.
+[11:05]  Ó, posso pressionar
+[11:07]  Fastbox Blue aqui.
+[11:09]  Posso pesquisar por Fastbox Blue.
+[11:11]  Eu, ó,
+[11:13]  vou tirar um pouco da gente desse.
+[11:15]  Posso tirar o charco, né?
+[11:17]  Que não vai ser útil ali.
+[11:19]  E deixo agora
+[11:21]  só a correção de cores.
+[11:23]  E aumenta aqui, ó.
+[11:25]  Então daqui eu posso começar a fazer
+[11:27]  a montar uma composição, né?
+[11:29]  Só vou colocar aqui, só para
+[11:31]  a gente, né, fazer uma paradinha aqui.
+[11:33]  A gente pode aumentar um bastante,
+[11:35]  colocar mais na frente aqui.
+[11:37]  É aumentar bastante.
+[11:39]  Ó, mais ou menos aqui.
+[11:41]  Vou tirar um pouco da gente desse aqui.
+[11:43]  Vamos limitar.
+[11:45]  Né?
+[11:47]  Depois de duplicar novamente,
+[11:49]  eu não tenho que colocar aqui.
+[11:51]  Então com isso, ó, a gente teria já
+[11:53]  praticamente uma composição pronta aqui, né?
+[11:55]  Então são basicamente
+[11:57]  esses conceitos, ó.
+[11:59]  Equilíbrio de cena, coloco um
+[12:01]  para cá para esse lado, né?
+[12:03]  Coloco o outro aqui, ó.
+[12:05]  E um menor lá atrás.
+[12:07]  Você pode ver, ó.
+[12:09]  Tá? Aí esse aqui,
+[12:11]  eu, por exemplo, posso colocar para cá.
+[12:13]  E esse aqui, eu coloco o outro.
+[12:15]  Clicar aqui.
+[12:17]  Esse outro, coloco um pouco mais para cima.
+[12:19]  Né?
+[12:21]  Você aqui, tira um pouco de trás.
+[12:23]  Beleza.
+[12:25]  Olha só o equilíbrio de cena que nós temos aqui.
+[12:27]  Olha só como fica confortável
+[12:29]  neste momento, né?
+[12:31]  Olha, eu tenho o selo aqui,
+[12:33]  eu coloco um de um lado menor e outro
+[12:35]  da ali atrás.
+[12:37]  E eu coloco os dois aqui.
+[12:39]  Então isso acaba criando o equilíbrio
+[12:41]  aqui da cena, tá?
+[12:43]  E faz com que eu centralize
+[12:45]  o meu olhar aqui, o objeto principal.
+[12:47]  Então, uma outra coisa que você
+[12:49]  vai ver bastante a gente fazer,
+[12:51]  que é sempre legal de fazer, é você
+[12:53]  ver em nível sólido.
+[12:55]  Pode ser esse amarelo.
+[12:57]  Clicar aqui no meio.
+[12:59]  Você começa a fazer uma esfera.
+[13:01]  Você pressiona a shift,
+[13:03]  vai fazer a esfera perfeita.
+[13:05]  E contra,
+[13:07]  fazer a esfera no centro, tá?
+[13:09]  Você faz uma esfera pequena aqui.
+[13:11]  Você pressiona F agora,
+[13:13]  vai abrir o Fede aqui.
+[13:15]  Então você abre aqui.
+[13:17]  Aumenta bastante.
+[13:19]  Pressiona S para pegar a escala.
+[13:21]  E você abre bastante, né?
+[13:23]  Então isso aqui, ó.
+[13:25]  Você coloca tanto quanto por trás, tá?
+[13:27]  Do selo aqui principal.
+[13:29]  Deixa eu aumentar aqui.
+[13:31]  Você pode colocar tanto por trás aqui, ó.
+[13:33]  Tá? Para criar uma iluminação.
+[13:35]  Ó, que legal.
+[13:37]  Tá vendo?
+[13:39]  Você que a gente pode diminuir
+[13:41]  segundo,
+[13:43]  só para afetar um pouco ali.
+[13:45]  A gente duplica novamente.
+[13:47]  Agora a gente coloca em cima
+[13:49]  do selo aqui principal.
+[13:51]  Você pode colocar no caso aqui, ó.
+[13:53]  A iluminação vem de cima.
+[13:55]  E aqui a gente muda de normal
+[13:57]  para elite.
+[13:59]  E a gente diminui a intensidade.
+[14:01]  Pressionando T, né?
+[14:03]  Olha só.
+[14:05]  Então a gente pode duplicar,
+[14:07]  colocar para cá, ó.
+[14:09]  Ficar acima desses que a gente colocou para cá, né?
+[14:11]  Olha só.
+[14:13]  E daí, pessoal,
+[14:15]  a gente começa então a formar, olha.
+[14:17]  Nessa composição.
+[14:19]  Então vai ficar tudo muito bonito.
+[14:21]  Tá?
+[14:23]  Lembrando o que eu estou fazendo rapidamente,
+[14:25]  que é só para você sentir o exemplo, né?
+[14:27]  Vê como é que é o fluxo.
+[14:29]  Tá?
+[14:31]  Então olha só.
+[14:33]  De forma simples a gente vai tendo
+[14:35]  uma composição muito bonita, né?
+[14:37]  Só dar um play aqui,
+[14:39]  só para a gente prever, né? O restante
+[14:41]  está parado, não seria o ideal,
+[14:43]  mas o que eu estou te falando,
+[14:45]  só para a gente entender como funciona
+[14:47]  e como que a gente faz para a gente ter
+[14:49]  aqui das coisas.
+[14:51]  Então olha só.
+[14:53]  Né?
+[14:55]  Então, ó.
+[14:57]  Daqui a gente colocaria uma partícula,
+[14:59]  para fazer uma animação de um gráfico ali atrás
+[15:01]  e tudo ficaria mais animado.
+[15:03]  Tá?
+[15:05]  Então é isso, pessoal.
+[15:07]  Dessa forma que a gente vai
+[15:09]  trabalhar, tá?
+[15:11]  Trabalhar a composição lá no Cinema 4D.
+[15:13]  E você vê que a gente não precisa
+[15:15]  encher muito lá no Cinema 4D, né?
+[15:17]  Olha só. Simples.
+[15:19]  Tá muito comunicativo.
+[15:21]  Tá muito fácil de ler e entender
+[15:23]  informação. O que é mais importante.
+[15:25]  Lembre-se, você está criando uma
+[15:27]  ponte entre o cliente que quer
+[15:29]  vender, né? E o público dele.
+[15:31]  Então você tem que criar essa ponte
+[15:33]  aí de forma que funcione, né?
+[15:35]  E lembrando, pessoal,
+[15:37]  esse meu curso foca muito
+[15:39]  em arte, né?
+[15:41]  Em design gráfico,
+[15:43]  em robôs conceitos já existentes, né?
+[15:45]  Pessoas demoraram muito para compor.
+[15:47]  Para a gente tirar, né?
+[15:49]  Essa bagunça que é o VT
+[15:51]  de Varejo, né? Porque não quero
+[15:53]  expressar o trabalho de ninguém, mas
+[15:55]  se você ver, você consegue perceber
+[15:57]  com muita facilidade que
+[15:59]  tem muito vídeo que é uma bagunça, né?
+[16:01]  Então vamos
+[16:03]  colocar a arte dentro do Varejo
+[16:05]  e mudar um pouco esse cenário.
+[16:07]  E mostrar que, né? Essa área
+[16:09]  pode sim ter um vídeo de muito qualidade
+[16:11]  com conceitos de arte,
+[16:13]  com realmente conceito de arte, né?
+[16:15]  Beleza?
+[16:17]  Então é uma sensação que é legal. Até a próxima
+[16:19]  hora, pessoal!

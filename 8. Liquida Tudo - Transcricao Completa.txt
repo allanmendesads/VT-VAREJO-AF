@@ -1,0 +1,2430 @@
+
+
+=========================================
+📖 INÍCIO DA VIDEO_150
+=========================================
+
+[00:00]  Então, que a gente fazia uma pressão para o Whatsapp, a gente vai fazer o seguinte.
+[00:04]  Você lembra que a gente criou esse projeto no Premiere Pro?
+[00:07]  Quinto feirão, né?
+[00:09]  Nós editamos o audio dentro? Pois é, a gente pode abrir esse mesmo projeto, tá?
+[00:14]  Vou abrir aqui no Premiere, onde a gente editou o audio.
+[00:19]  Pessoar contra o X aqui para tirar a marcação.
+[00:23]  E olha só.
+[00:25]  Eu vou, então, pegar os vídeos que a gente renderizou.
+[00:28]  Vou estar aqui no projeto, né?
+[00:30]  E render.
+[00:32]  Então, aqui é original, né?
+[00:34]  Eu tenho aqui o render do Octane e o render do Ferão Esportivo, tá?
+[00:37]  Normal com o Cinema 4D.
+[00:39]  Então, a gente pode pegar eles, tá?
+[00:42]  Você pega o que você está fazendo, né?
+[00:45]  Você coloca então dentro do Premiere, ok?
+[00:48]  Então, você pega o vídeo aqui, tá?
+[00:50]  E você clica aqui para criar uma nova sequência.
+[00:53]  E você já criou uma sequência do mesmo tamanho do vídeo,
+[00:56]  tudo no mesmo parâmetro, tá?
+[00:58]  Alguns clientes, pessoal, eles aceitam o vídeo assim, normalmente, né?
+[01:03]  Você pega aqui, ó.
+[01:05]  Você pressiona o X e faz a marcação no vídeo, né?
+[01:09]  Contra o M para renderizar, tá?
+[01:12]  Então, você vê que renderiza normalmente, tá?
+[01:14]  Coloca a configuração de WhatsApp e renderiza normalmente.
+[01:17]  Lembrando, alguns clientes aceitam-se de boa, né?
+[01:20]  Para outros clientes, é bem interessante você pegar aqui, por exemplo,
+[01:24]  uma tela chamativa, sabe?
+[01:27]  Por exemplo, essa tensão é bem legal.
+[01:30]  Eu acho que 70% de desconto é uma tela legal.
+[01:34]  Então, qual é a ideia aqui?
+[01:36]  A gente pega aqui uma fotinho, né?
+[01:40]  A gente tira uma fotinha aqui, você pode escolher em browser,
+[01:42]  onde você quer salvar, tá?
+[01:44]  E você marca sua opção para importar já para o projeto, tá?
+[01:48]  Quando a gente tirar esse print, né?
+[01:50]  O Premiere já importa ele aqui para o projeto.
+[01:53]  Então, eu vou apertar aqui, ó.
+[01:55]  Você vê que já importou a imagem aqui, né?
+[01:57]  E isso está lá, está bom na sua galeria também.
+[02:00]  Às vezes, se manda um WhatsApp, né?
+[02:02]  Ou então no Facebook, você vê que fica um vídeo, por exemplo, com essa tela aqui.
+[02:06]  Que estranho, né? A gente não dá para entender o que é.
+[02:09]  Então, é legal a gente decidir essa tela, tá?
+[02:11]  Antes da pessoa dar o play no WhatsApp e então no Facebook.
+[02:14]  Então, olha só.
+[02:16]  Um frame aqui, tá pessoal?
+[02:18]  De 70%, ó.
+[02:20]  Vai ficar assim mesmo. Vai começar aqui, tá?
+[02:28]  Ok, pessoal. Então, a gente coloca essa primeira talinha aqui.
+[02:31]  Caso o cliente, né?
+[02:33]  Seja necessário para um cliente, né?
+[02:35]  Tem alguns clientes que não querem, tá?
+[02:37]  Mas são poucos.
+[02:39]  De qualquer forma, você coloca sempre.
+[02:41]  Se o cliente não dissesse, ah, não.
+[02:44]  Eu não gosto disso aí não. Tira esse frame daí e tal.
+[02:47]  Aí você vence e tira, tá bom?
+[02:49]  Caso, né? O cliente seja um cliente tranquilo.
+[02:52]  Aí você pode deixar, tá?
+[02:55]  Então, muito bem. Está com um frame aqui, ó.
+[02:58]  Contro M para renderizar, tá?
+[03:00]  Eu só coloco aqui mesmo HD 720, tá?
+[03:03]  High quality. E eu tome um clico aqui para decidir onde eu vou salvar.
+[03:07]  Aí eu posso vir, ó, redes sociais.
+[03:09]  Aí eu coloco, por exemplo, aqui, ó.
+[03:11]  Coloco em frente mesmo o Facebook.
+[03:15]  Aí eu coloco para salvar.
+[03:19]  Ok? Aí eu exporto, tá?
+[03:21]  Aí sai um vídeo para o Facebook.
+[03:23]  Eu vou exportar aqui num caso somente para o WhatsApp, tá?
+[03:26]  Como é que eu faço para o WhatsApp? É a mesma coisa, tá?
+[03:29]  High quality de 620 aqui.
+[03:31]  Às vezes, né? A gente baixa...
+[03:35]  A gente sempre muda aqui, tá, pessoal?
+[03:37]  Com a constante também.
+[03:38]  Às vezes, eu baixo um pouquinho mais, tá?
+[03:40]  Para mandar mais WhatsApp.
+[03:42]  Por exemplo, se está 10, eu coloco a 8.
+[03:44]  Tá bom?
+[03:46]  Então, às vezes, dependendo do cliente, eu aumento bastante, tá?
+[03:48]  Porque eu tenho os clientes que veem em alta qualidade mesmo.
+[03:51]  Veem o celular grande.
+[03:53]  Às vezes, em tablet, né?
+[03:56]  Então, uma boa resolução aí, dependendo do cliente.
+[03:59]  Você vê que tem muita questão de dependência, né, pessoal?
+[04:02]  Então, muito bem, ó.
+[04:04]  Eu venho aqui, eu vou fazer uma versão apenas para o WhatsApp, tá?
+[04:07]  Você já sabe como é do Facebook? É bastante simples.
+[04:10]  O WhatsApp.
+[04:11]  Eu renomei aqui.
+[04:13]  Salvo, tá?
+[04:15]  Já está, ó. 1.280 por 720.
+[04:19]  Então, a gente clica em exportar.
+[04:21]  Bastante simples, tá?
+[04:23]  Então, é bastante rápido também esse render, né?
+[04:26]  E você renderiza e manda para o cliente, tá?
+[04:29]  Aí, quando você mandar no WhatsApp, vai ficar essa tela que apareceu no vídeo, sabe?
+[04:32]  Antes de dar o play, vai ficar aparecendo essa telinha aqui.
+[04:35]  Isso eu tento por cima desse ponto, então é bem legal.
+[04:37]  Como você pode ver, não é complexo.
+[04:39]  É bastante simples, né? Só alguns detalhes.
+[04:42]  E como você pode notar o programa, já facilita muita coisa para a gente, tá?
+[04:46]  Então, eu aguardo o seu vídeo aí no grupo, tá?
+[04:50]  Quero ver aí como é que está, ok?
+[04:52]  Grande abraço.
+[04:53]  Parabéns para você que chegou até aqui.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_151
+=========================================
+
+[00:00]  Jans vem aqui, muito bem pessoal, nesse modo a gente vai fazer esse pequeno vídeo aqui ó,
+[00:04]  ajudar um play pra você ver, é um vídeo relativamente simples, mas tem muitos
+[00:08]  conceitos que nós precisamos aplicar aqui e entender melhor e também praticar né,
+[00:13]  então algumas coisas interessantes aqui né, é o fluxo de trabalho pra você
+[00:17]  adicionar os produtos aqui né e uma outra coisa legal é você fazer uma tela
+[00:22]  que os produtos entram de um lado e o preço também e depois uma outra tela
+[00:26]  que o produto entra de outro lado tá, então você vai aprender e faz isso aí e é de uma forma
+[00:31]  bastante rápida tá e dá uma dinâmica bem legal pro vídeo né, pra não ficar aquela
+[00:36]  mesma tela entrando de um lado e entra outro produto a mesma tela sabe, fica
+[00:40]  meio chata, então a gente faz uma pra entrar de outro lado, além disso esse
+[00:44]  design todo, todo esse design que você tá vendo aqui vai ser 100% feito aqui
+[00:49]  dentro mesmo do After Effects tá, então vamos aprender a criar esse design todo
+[00:53]  bem bonitinho aí, esse selo olha só a cordinha balançando aqui ó, a gente vai aprender a fazer
+[01:00]  tudo aqui dentro do After Effects, o foco ali atrás olha, o desfoque de câmera
+[01:06]  então também fica bem bonitinho e legal então vamos lá né, mana massa!
+
+
+=========================================
+📖 INÍCIO DA VIDEO_152
+=========================================
+
+[00:00]  Então, aqui no After Effects, vamos mudar aqui, tá, pessoal?
+[00:03]  Caso o seu esteja de 8, coloquei aqui para 16, tá bom?
+[00:07]  E vamos criar, então, uma nova composição.
+[00:09]  Então, vou colocar aqui como selo.
+[00:13]  E a Resoluc... e a Upriset aqui, a gente escolhe o último aqui, antes do 4K.
+[00:17]  1080, 29.97.
+[00:20]  E deixamos com o tempo aqui de 10 segundos, ok?
+[00:24]  E com isso, pressionamos OK.
+[00:27]  Vamos vir em File, em Save.
+[00:29]  Então, a parte onde você está colocando os projetos do vídeo, né?
+[00:33]  A gente vai fazer agora esse vídeo 2, tá?
+[00:37]  Então, vamos colocar aqui, ó...
+[00:42]  liquida tudo 01.
+[00:46]  A gente vai fazer um liquida 2, né, depois.
+[00:49]  Então, vamos, ó, entrar.
+[00:51]  E aqui na parte do curso, tá?
+[00:53]  Você tem essa aqui, ó, parte da padrão, né?
+[00:55]  Dois cliques, você entra, você já tem todas as partes que a gente precisa, prontinha, né?
+[01:00]  Que a gente costuma usar.
+[01:01]  Então, a gente precisa ir para o C.
+[01:03]  Volta para cá, ó, contra o V, dentro do liquida tudo.
+[01:07]  Então, prontinho.
+[01:08]  Então, podemos entrar aqui em Projetos.
+[01:11]  Então, aqui, nós vamos criar 02, né?
+[01:15]  Que é o vídeo 02 agora.
+[01:16]  Liquida tudo.
+[01:21]  O meu espaço aqui.
+[01:23]  E, ok.
+[01:24]  Então, vamos clicar em Salvar.
+[01:26]  E está salvo o nosso projeto, né?
+[01:28]  Então, vamos pressionar o CTRL Y.
+[01:31]  Com a timeline selecionada, vamos pressionar CTRL Y.
+[01:35]  Vamos criar um novo sólido.
+[01:37]  Então, podemos até colocar aqui o nome de BG.
+[01:40]  Background.
+[01:42]  E a cor não importa, tá?
+[01:44]  Pressionamos OK.
+[01:46]  Então, já vou pressionar contra o espaço aqui.
+[01:48]  Abrir um FX console.
+[01:50]  Eu vou digitar aqui, ó.
+[01:52]  Digitar Ramp vai aparecer o Gradient Ramp.
+[01:55]  Pressiona Enter, o efeito está aplicado.
+[01:59]  Então, aqui, a primeira coisa que vamos fazer
+[02:02]  é mudar o Ramp Shape, tá?
+[02:04]  Vamos mudar, então, para a radial.
+[02:06]  Essa forma aqui circular, tá bom?
+[02:08]  Vamos posicionar mais ou menos aqui.
+[02:11]  E vamos mudar, então, as cores.
+[02:13]  Aqui no EndColor, nós vamos pegar uma cor, olha.
+[02:17]  Mais ou menos entre o vermelho e o rosa.
+[02:19]  Uma cor mais ou menos assim.
+[02:22]  Um pouco mais escuro, né?
+[02:24]  Dessa forma.
+[02:26]  Pressionamos OK.
+[02:28]  Pegamos, então, a canetinha, ó.
+[02:30]  Clicamos na cor.
+[02:32]  E pegamos a cor de cima.
+[02:34]  Então, ó, fazemos ela mais clara, né?
+[02:36]  Então, podemos trazer um pouco mais aqui, ó.
+[02:38]  Para o rosa.
+[02:40]  Então, ó.
+[02:42]  Faz uma cor mais clarinha.
+[02:44]  Foi muito, né?
+[02:46]  Vamos fazer um pouco mais aqui para dentro.
+[02:48]  É um Gradient bastante leve.
+[02:50]  A gente pode pegar, olha.
+[02:52]  Vê que tem um pontinho escondido aqui, ó.
+[02:54]  Pega quando você abre, né?
+[02:56]  Não é mais.
+[02:58]  O suave vai ficando esse radial, né?
+[03:02]  Então, vou voltar aqui em Fit e OK.
+[03:04]  A cor ficou aqui, ó.
+[03:06]  A seguinte cor.
+[03:08]  F5, pode digitar lá que a gente fala, tá bom?
+[03:10]  F5,
+[03:12]  4, 9,
+[03:14]  8,
+[03:16]  A. OK.
+[03:18]  A outra ficou o seguinte.
+[03:20]  CC,
+[03:22]  0, 4, 4,
+[03:24]  1.
+[03:26]  Se você digitar esse código aí, isso vai ter a mesma cor que eu tenho aqui.
+[03:30]  Contra o S para salvar o projeto, né?
+[03:32]  Como de costume.
+[03:34]  Então, beleza.
+[03:36]  Vamos criar, então, ó.
+[03:38]  Neo, Shape Layer.
+[03:40]  E aqui nós vamos ser Edit.
+[03:42]  Nós vamos colocar um Polestar, tá bom?
+[03:44]  Vamos abrir.
+[03:46]  E aqui em Type,
+[03:48]  vamos mudar para Polygon.
+[03:50]  E nós vamos mudar aqui, ó.
+[03:52]  Para 6 pontos.
+[03:54]  OK?
+[03:56]  Opa.
+[03:58]  Então, vamos colocar um preenchimento nele, né?
+[04:00]  Adicionar fio.
+[04:02]  Prontinho.
+[04:04]  Então, a gente vem aqui, ó. Para mudar a cor,
+[04:06]  mudamos para branco.
+[04:08]  OK.
+[04:10]  Então, se eu aumentar aqui o...
+[04:12]  A gente aumenta o Alter Radius, né?
+[04:14]  Para a gente deixar essas bordinhas aqui arredondadas, né?
+[04:18]  Nós temos essa opção Alter Houdness aqui, ó.
+[04:20]  Mas ela não é muito legal.
+[04:22]  Olha só o que ela faz, né?
+[04:24]  Não é muito legal.
+[04:26]  Então, a gente vai fazer o arredondamento aqui das bordas de outra forma.
+[04:30]  Muito bem.
+[04:32]  Então, a gente vai pegar o nosso Polestar,
+[04:34]  nós vamos pressionar, ó.
+[04:36]  Converte com o botão direito e vamos converter ele para o PF, tá?
+[04:40]  Então, ó, PF.
+[04:42]  OK. Com o PF selecionado aqui, tá?
+[04:44]  Ferramentas de seleção.
+[04:46]  Seleciona todos os pontos de cima.
+[04:48]  Você pressiona Shift e acerta para cima.
+[04:50]  Uma vez, tá?
+[04:52]  E, ó, seleciona os pontos de baixo agora.
+[04:54]  Shift aqui com a tecla de baixo, tá?
+[04:56]  Então, vou pressionar mais uma vez.
+[04:58]  E selecionar o de cima aqui e mais uma vez.
+[05:02]  Então, a gente vai ter essa forma aqui, né?
+[05:04]  Vamos pegar o PF.
+[05:06]  Vou pegar esse cara aqui de cima.
+[05:08]  Vamos pressionar uma vez para baixo.
+[05:10]  Esse cara aqui de baixo também.
+[05:12]  Uma vez para cima.
+[05:14]  Muito bem, pessoal.
+[05:16]  Então, como é que a gente faz para deixar essas bordinhas arredondadas?
+[05:20]  A gente vai pegar um efeito chamado, ó.
+[05:22]  Vou pressionar contra o barro, pegar aqui o FX console,
+[05:24]  chamado Holdings.
+[05:26]  Hold...
+[05:28]  OK?
+[05:30]  Holdings Adds.
+[05:32]  Então, a gente vai pegar esse efeito aqui.
+[05:34]  Então, o dia está aí e seleciona ele, tá bom?
+[05:36]  Holdings Adds.
+[05:38]  Então, você pode ver aqui no seu FX preset.
+[05:40]  E selecionar Holdings Adds.
+[05:42]  Aqui está.
+[05:44]  Tá bom?
+[05:46]  Então, ele fica dentro de East Lise.
+[05:48]  Aqui está, olha.
+[05:50]  Holdings Adds.
+[05:52]  Aqui está.
+[05:54]  Então, se eu tirar aqui, ó...
+[05:56]  Desmarque essa opção para a gente não ver o nosso shape, né?
+[05:58]  No super.
+[06:00]  Então, olha só o que o Holdings...
+[06:02]  O que que esse efeito está fazendo, né?
+[06:04]  Está criando uma ondulação aqui.
+[06:06]  A gente vai ver melhor o que está acontecendo, né?
+[06:08]  Então, esse Adds...
+[06:10]  Então, aqui, olha. Adds e Sharpen.
+[06:12]  A gente precisa deixar isso no máximo, tá bom?
+[06:14]  Porque quanto mais a gente aumenta, ó...
+[06:16]  Mais com menos feather, né?
+[06:18]  Vai ficando.
+[06:20]  Então, a gente pega isso aqui, ó.
+[06:22]  Você deixa em 10, tá?
+[06:24]  No caso que o máximo é 10.
+[06:26]  Fractal Influencio, né?
+[06:28]  Como vocês já sabem, o Fractal Noiso, né?
+[06:30]  O Fractal Influencio aqui seria...
+[06:32]  Essas condulações, né?
+[06:34]  A gente não precisa dela, a gente teria que zerar.
+[06:36]  Porque quanto mais você coloca, ó...
+[06:38]  Né? Mais um do lado fica.
+[06:40]  Então, quanto mais você tira, menos um do lado fica.
+[06:42]  Então, como você pode ver, ó...
+[06:44]  Já está ficando a forma que a gente deseja aqui.
+[06:46]  Então, a gente tirou o Fractal aqui.
+[06:48]  E, ok.
+[06:50]  Sem tirar a escala, ó...
+[06:52]  E vai ficar dessa forma aqui, meio que um feather, né?
+[06:54]  Então, a gente vai deixar o jeito que está.
+[06:56]  O restante todo.
+[06:58]  E para a gente controlar o tamanho da borda, ó...
+[07:00]  É aqui, simplesmente, em borda, tá?
+[07:02]  Então, olha só.
+[07:04]  Vou deixar mais ou menos assim.
+[07:06]  É, simplesmente, tá legal. Vou diminuir um pouquinho.
+[07:08]  Vou colocar o meio em 65.
+[07:10]  Ok?
+[07:12]  Então, é dessa forma que a gente faz
+[07:14]  para que isso fique arredondado aqui.
+[07:16]  Legal.
+[07:18]  A gente pode pegar o nosso background,
+[07:20]  onde tem esse Gradient Herb.
+[07:22]  A gente copia ele e coloca nesse shape, tá?
+[07:24]  Então, obviamente, ele vai sumir aqui, né?
+[07:26]  Mas, a gente vai...
+[07:28]  É...
+[07:30]  Mudar aqui é o Gradient.
+[07:32]  Muda aqui, ó, tá vendo?
+[07:34]  É só o que acontece.
+[07:36]  Quando você clica no Gradient, aparece, tá?
+[07:38]  Porque ela se botou unsinhos aqui.
+[07:40]  Então, você muda aí de posição.
+[07:42]  Olha o outro aqui.
+[07:44]  Então, agora vai acontecer isso.
+[07:46]  Bem legal, né?
+[07:48]  Então, eu vou colocar ele um pouco mais dessa forma aqui.
+[07:50]  Ok.
+[07:52]  Eu vou pegar esse shape.
+[07:54]  Eu vou duplicar ele, ó.
+[07:56]  Contro D.
+[07:58]  Base
+[08:00]  Principal.
+[08:04]  Então, aqui, a gente vai chamar
+[08:06]  de Borda.
+[08:08]  Ok.
+[08:10]  Então, na Borda, a gente vai abrir, ó.
+[08:12]  Em Content, a gente vai
+[08:14]  remover o fio, tá bom?
+[08:16]  Tiramos o fio
+[08:18]  e tiramos também o Gradient.
+[08:20]  Ok.
+[08:22]  Então, ficou apenas com Holders.
+[08:24]  Então, a gente vem Edit.
+[08:26]  A gente vai adicionar um Stroke.
+[08:28]  Ok.
+[08:30]  Muito bem. Stroke adicionado.
+[08:32]  A gente vem Stroke, ó. A gente aumenta aqui.
+[08:34]  Ok.
+[08:36]  Então, se a gente colocar um Stroke,
+[08:38]  ele vai ficar dessa forma aqui, ó, tá bom?
+[08:40]  Olha só como ele fica.
+[08:42]  Então, ele vai ficar dessa forma.
+[08:44]  Então, quanto mais ele aumenta, né?
+[08:46]  Mais nítido ele pode ficar.
+[08:48]  Por exemplo, 40. Ok.
+[08:50]  Então, mas fica muito grosseiro, né?
+[08:52]  Fica um pouco feio.
+[08:54]  Se você quiser.
+[08:56]  Então, o que a gente vai fazer?
+[08:58]  A gente vai tirar o Efeito aqui, né?
+[09:00]  O Hold Adds.
+[09:02]  Porque o Stroke, dentro do Stroke,
+[09:04]  a gente consegue mudar
+[09:06]  esses cantinhos aqui, ó.
+[09:08]  Aqui, Line Join.
+[09:10]  Se a gente mudar aqui, ó, para Hold Join,
+[09:12]  ó, fica arredondado.
+[09:14]  E aqui, Line Cap,
+[09:16]  a gente também pode mudar para Hold.
+[09:18]  Porém, a parte de dentro,
+[09:20]  ela não fica arredondada, pessoal.
+[09:22]  Então, ela não vai ficar arredondada.
+[09:24]  Então, o que eu faço aqui, ó?
+[09:26]  Eu venho aqui, pressione Scala, tá?
+[09:28]  Eu vou diminuir um pouco.
+[09:30]  Eu vou duplicar, então, isso.
+[09:32]  Ok?
+[09:34]  Eu vou diminuir novamente.
+[09:36]  Dessa forma.
+[09:38]  Então, eu pego essa borda aqui, tá?
+[09:40]  Que não é a 2.
+[09:42]  Pessoal aqui é F4 para mudar.
+[09:44]  Eu venho aqui, ó, coloco Alpha,
+[09:46]  Inverse, Math.
+[09:48]  Então, dessa forma, a gente tem, ó.
+[09:50]  Tá, ok?
+[09:52]  A arredondada também é a parte de dentro.
+[09:54]  Se a gente venha Scala,
+[09:56]  a gente pode aumentar aqui para 92
+[09:58]  e deixar um pouco mais fina.
+[10:00]  Olha só.
+[10:02]  Ok?
+[10:04]  Bem legal.
+[10:06]  Então, nós vamos fazer agora o seguinte.
+[10:08]  Então, vamos criar um novo,
+[10:10]  né?
+[10:12]  New, Shape Layer.
+[10:14]  E vamos aqui em Edit.
+[10:16]  Nós podemos colocar aqui outro Polestar, né?
+[10:18]  E também vamos colocar um Figo.
+[10:20]  E já podemos mudar a cor aqui, ó.
+[10:22]  Para Branco.
+[10:24]  E vamos abrir o Polestar
+[10:26]  em Type.
+[10:28]  Vamos mudar aqui para Polygon.
+[10:30]  Ok?
+[10:32]  E aqui, vamos colocar 3 apenas, tá?
+[10:34]  E nós podemos pegar o
+[10:36]  Roudness aqui, ó.
+[10:38]  Aumentar um pouquinho, né?
+[10:40]  A gente vem aqui
+[10:42]  em Path, botão direito
+[10:44]  e converter para o Path, tá?
+[10:46]  Prontinho. Convertido aqui.
+[10:48]  A gente pressiona V.
+[10:50]  Clica aqui, ó.
+[10:52]  Para aparecer de novo o meu Path, né?
+[10:54]  A gente vai pegar esse pontinho aqui, ó.
+[10:56]  A gente vai baixar ele, ok?
+[10:58]  Até aqui.
+[11:00]  Então, a gente vai pegar o ferramento aqui, ó.
+[11:02]  De conversão, né?
+[11:04]  A gente vai clicar aqui, ó.
+[11:06]  A gente vai ficar reto.
+[11:08]  Clicou aqui e ficou reto.
+[11:10]  Então, a gente tem essa forma aqui bastante simples.
+[11:12]  A gente vai pegar ela, ó.
+[11:14]  Aqui, ó, em 90, ok?
+[11:16]  Então, a gente pega ela
+[11:18]  e arrasta para cá, ó.
+[11:20]  Falamos aqui.
+[11:22]  Então, a gente vai criar esse design aqui, ó.
+[11:24]  Ok? Bastante simples,
+[11:26]  mas bem legal.
+[11:28]  A gente pode pegar aqui, ó.
+[11:30]  Tá vendo esse pontinho? A gente
+[11:32]  falar com um pouco mais para dentro aqui, ó.
+[11:34]  Para ficar dessa forma, né?
+[11:36]  Bastante sutil.
+[11:38]  Um pouco mais para cá e prontinho, ó.
+[11:40]  A gente pode
+[11:42]  ir entalhe, né?
+[11:44]  Entalhe da
+[11:46]  borda. A gente pode duplicar.
+[11:48]  Pensando aqui, ó.
+[11:50]  Transform, flip, horizon.
+[11:52]  Opa! Ah, ok.
+[11:54]  Gente, como a gente girou em 90°, né?
+[11:56]  Aqui é vertical.
+[11:58]  Então, prontinho, ó.
+[12:00]  Então, a gente arrasta para cá
+[12:02]  e, ok, ó.
+[12:04]  Então, como você pode ver, está tomando
+[12:06]  forma aí o nosso design.
+[12:08]  A gente vai pegar essa borda aqui, ó.
+[12:10]  A gente vai duplicar ela.
+[12:12]  Vamos ligar ela novamente.
+[12:14]  Vou colocar mais para cima.
+[12:16]  E não vamos renomear, ó, para
+[12:18]  dresses, ok?
+[12:20]  Então, eu vou pegar isso.
+[12:22]  Eu vou pressionar a escala.
+[12:24]  Vamos diminuir mais.
+[12:26]  Vou colocar aqui
+[12:28]  em 88°.
+[12:30]  Pode ser um pouco mais,
+[12:32]  na verdade, 90°.
+[12:34]  E, em stroke,
+[12:36]  vamos colocar, por exemplo, aqui 2°.
+[12:38]  Deixa eu ver isso.
+[12:40]  Então, vamos aumentar um pouquinho
+[12:42]  mais, no 98°.
+[12:44]  95°.
+[12:46]  Ok.
+[12:48]  Então, a gente queria essa pequena
+[12:50]  bordinha aí, né?
+[12:52]  Vou colocar no 96°.
+[12:54]  Opa! 92°.
+[12:56]  E, ok.
+[12:58]  Então, eu vou duplicar o dresses
+[13:00]  mais uma vez.
+[13:02]  Então, eu vou pressionar a escala.
+[13:04]  E eu vou colocar, então,
+[13:06]  9°.
+[13:08]  Opa! 89°.
+[13:10]  Então, nós vamos abrir.
+[13:12]  Nós vamos em content.
+[13:14]  Stroke. E aqui, ó,
+[13:16]  temos dress, né?
+[13:18]  Se você abrir, não tem nada, né?
+[13:20]  Basta você clicar aqui nesse botão de mais, ó.
+[13:22]  Deixa eu tirar aqui,
+[13:24]  né? Então, a gente já tem ali, ó.
+[13:26]  O que a gente precisa.
+[13:28]  Se a gente ver aqui em Offset, ó,
+[13:30]  você vê que nós podemos mover isso, né?
+[13:32]  Ok.
+[13:34]  Então, eu vou deixar o Offset em zero.
+[13:36]  E, em Offset,
+[13:38]  vou pressionar a tecla Out, vou clicar aqui, ó.
+[13:40]  Com isso, eu posso, então,
+[13:42]  adicionar uma expressão aqui, tá bom?
+[13:44]  Então, eu vou adicionar
+[13:46]  a seguinte expressão, ó.
+[13:48]  Time,
+[13:50]  vezes, por exemplo,
+[13:52]  67°.
+[13:54]  Então, eu vou dar Enter e eu vou ver
+[13:56]  a velocidade que isso está.
+[13:58]  Legal.
+[14:00]  Então, como você pode ver,
+[14:02]  para isso, formigos.
+[14:04]  Bem legal.
+[14:06]  Então, vou votar aqui para Fit.
+[14:08]  Se você quer que isso
+[14:10]  esse movimento aconteça ao contrário,
+[14:12]  basta você colocar aqui,
+[14:14]  um valor negativo
+[14:16]  antes do número.
+[14:18]  Então, ó,
+[14:20]  as coisas vão acontecer ao contrário, tá bom?
+[14:22]  A animação vai acontecer ao contrário.
+[14:24]  Quanto maior o número que você colocar aqui,
+[14:26]  por exemplo, 300 mais rápido,
+[14:28]  vai ser a animação, ok?
+[14:30]  Quanto menor, obviamente, né?
+[14:32]  Mais lento vai acontecer
+[14:34]  essa animação.
+[14:36]  Muito bem.
+[14:38]  Vamos fechar.
+[14:40]  Então, a gente pode aumentar, né?
+[14:42]  Aqui, o Dress para prester mais.
+[14:44]  Podemos colocar aqui, por exemplo,
+[14:46]  quatro,
+[14:48]  três, né?
+[14:50]  Três aqui, eu acho que vai ficar legal.
+[14:52]  Bem legal.
+[14:54]  E agora, a gente vai fazer aqui,
+[14:56]  adicionar um círculo, tá bom?
+[14:58]  Aqui, para a gente adicionar uma cordinha aqui
+[15:00]  e fazer aqui de movimento legal.
+[15:02]  Então, vou adicionar um novo shape,
+[15:04]  eu vou colocar aqui, ó,
+[15:06]  sai.
+[15:08]  Então, vou renomear isso aqui para círculo.
+[15:10]  Opa,
+[15:12]  círculo.
+[15:14]  Ok, você adicionou o círculo,
+[15:16]  você vem aqui adicionar
+[15:18]  e você coloca, então,
+[15:20]  uma ellipse e depois disso,
+[15:22]  você vem e coloca um fio, ok?
+[15:24]  Podemos colocar esse fio
+[15:26]  em preto aqui, só para você entender melhor, né?
+[15:28]  Então, vou pegar esse círculo,
+[15:30]  vou posicionar ele um pouco mais
+[15:32]  aqui acima, tá bom?
+[15:34]  A gente pode colocar bem acima aqui,
+[15:36]  meio que cortando tudo, né?
+[15:38]  A gente pressiona a escala,
+[15:40]  a gente diminuir um pouquinho,
+[15:42]  para dar um pouco de zoom aqui, ó.
+[15:44]  A gente diminui e coloca aqui.
+[15:46]  Escala novamente,
+[15:48]  eu vou colocar aqui em 60.
+[15:50]  Ok.
+[15:52]  Na verdade, tem que ser menos, porque a gente
+[15:54]  tem que ser menos, né?
+[15:56]  Então, como é que a gente faz?
+[15:58]  Então, lembra da aula de blend mode,
+[16:00]  né?
+[16:02]  Vou ligar aqui a transparência, ó.
+[16:04]  Ainda não está com a transparência.
+[16:06]  Se a gente vem aqui, ó,
+[16:08]  a gente coloca aqui em silêncio,
+[16:10]  alfa, né?
+[16:12]  Tudo vai para dentro do círculo, ok?
+[16:14]  Mas se a gente mudar aqui, ó,
+[16:16]  essa outra opção aqui, a terceira,
+[16:18]  a gente consegue, então, cortar todo mundo
+[16:20]  que está para baixo, então, como você pode ver,
+[16:22]  nesse círculo, a gente vai duplicar ele, né?
+[16:24]  A gente vai tirar aqui
+[16:26]  o silêncio, deixar em normal,
+[16:28]  e nós vamos tirar dele
+[16:30]  o preenchimento, tá?
+[16:32]  Mas vamos colocar antes
+[16:34]  um stroke, prontinho,
+[16:36]  o stroke adicionado,
+[16:38]  aumentando um pouquinho aqui.
+[16:40]  Ok.
+[16:42]  E o fio, ó, basta a gente clicar
+[16:44]  em cima do nome, e clicarmos aqui, ó,
+[16:46]  em nome, pressionamos ok.
+[16:48]  Então, a gente vai pegar esse círculo,
+[16:50]  a gente vai duplicar ele mais uma vez,
+[16:52]  a gente vai pressionar a escala,
+[16:54]  a gente vai colocar aqui, ó, 52,
+[16:56]  não, tem que ser bastante, né? 55.
+[16:58]  Ok.
+[17:00]  Então, a gente pega aqui o stroke,
+[17:02]  e coloca aqui mais ou menos em 4,
+[17:04]  vamos aumentar mais aqui,
+[17:06]  colocar 65,
+[17:08]  ah, legal.
+[17:10]  Então, a gente vai ter esse design aqui,
+[17:12]  a gente colocar um pouquinho menos,
+[17:14]  63.
+[17:16]  Ok.
+[17:18]  Um detalhe bonito aí, né?
+[17:20]  Estamos com a nossa etiqueta quase pronta aqui, né?
+[17:22]  Muito bem.
+[17:24]  Então, eu vou pegar aqui, ó,
+[17:26]  nós vamos criar um novo, pegar a pentu,
+[17:28]  vamos fazer então um novo perf aqui,
+[17:30]  aquele da cordinha, né?
+[17:32]  Então, como é que a gente faz?
+[17:34]  A gente vai clicar aqui,
+[17:38]  lembrando, pessoal,
+[17:40]  lembrando que não deve estar
+[17:42]  com nenhum objeto aqui
+[17:44]  selecionado, tá?
+[17:46]  Então, você clica aqui,
+[17:48]  primeira curva que a gente faz aqui, ó, ela é reta, tá?
+[17:50]  A gente mantém, então, aquilo ali reto.
+[17:52]  Depois disso, ó,
+[17:54]  você vem aqui mais próximo, já faz
+[17:56]  uma curva, tá?
+[17:58]  Só que aqui, ó, a gente vai ter que fazer um pouco maior
+[18:00]  pra aparecer, né?
+[18:02]  A gente vai fazer dessa forma, ó.
+[18:04]  A gente pode fazer aqui.
+[18:10]  Aí, aqui, tá, pessoal,
+[18:12]  se você não precisa se preocupar
+[18:14]  ou se faça um levemente parecido, né?
+[18:16]  Pra que dê a impressão
+[18:18]  de que isso seja um nó, tá bom?
+[18:20]  Ó, uma cordinha aqui.
+[18:22]  O que você fez?
+[18:24]  Você ainda pode arrumar aqui um pouquinho, né?
+[18:26]  Mudar, ok?
+[18:28]  Para ter a impressão
+[18:30]  que realmente é um nó, né?
+[18:32]  Então, a gente deixa sempre uma pontinha aqui,
+[18:34]  que essa pontinha é bastante interessante ficar.
+[18:36]  Pode diminuir aqui, ó.
+[18:38]  Se for muito, né?
+[18:40]  E aumentar o stroke, né?
+[18:42]  Muito bem.
+[18:44]  Então, a gente vai pegar aqui, ó.
+[18:46]  Vamos abrir o content,
+[18:48]  shape, vamos selecionar o path.
+[18:50]  Esse pontinho aqui de cima,
+[18:52]  basta a gente colocar um pouquinho aqui pra cima, tá?
+[18:54]  Então, o que a gente vai fazer?
+[18:56]  A gente vai vir em path, né?
+[18:58]  A gente vai pegar aquele menu lá, o window.
+[19:00]  Trading on from path.
+[19:04]  Ok, ele abriu aqui no canto, né?
+[19:06]  Eu vou tirar ele aqui,
+[19:08]  deixar ele aqui mesmo como janelinho.
+[19:10]  Então, ó.
+[19:12]  Nós vamos com o path selecionado, tá?
+[19:14]  Do nó, lá, da cordinha.
+[19:16]  A gente vai criar os pontos follow news.
+[19:18]  Ok, criamos.
+[19:20]  Então, pessoal,
+[19:22]  eu tenho uma coisa aqui, tá?
+[19:24]  Nós temos aqui esse nó aqui, tá?
+[19:26]  Esse nó seria o nó principal aqui, né?
+[19:28]  Do...
+[19:30]  Do nó aqui, né?
+[19:32]  Esse ponto aqui seria o principal do nó.
+[19:34]  Então, a gente vai selecionar esse no objeto dele, ó.
+[19:36]  Vamos localizar ele aqui.
+[19:38]  É esse aqui, tá?
+[19:40]  Como você pode ver, aqui está a pontinha, né?
+[19:42]  Vai só, ó, selecionar ele um pouquinho pra cima
+[19:44]  pra dar a impressão que realmente está aqui, né?
+[19:46]  No shape.
+[19:48]  Então, olha só o que acontece.
+[19:50]  A gente vai pegar todos os outros...
+[19:52]  A gente vai até renomecer aqui, ó.
+[19:54]  Para nó, tá?
+[19:56]  Renomei para nó.
+[19:58]  A gente pega todos os outros aqui, ó.
+[20:00]  A gente linka ele no nó, tá bom?
+[20:02]  Prontinho, está linkado.
+[20:04]  Se eu mexer aqui, ó.
+[20:06]  Todo mundo vai mexer junto.
+[20:08]  Como eu mostrei pra vocês.
+[20:10]  Ok, então vou votar aqui em fit.
+[20:14]  Nós podemos...
+[20:16]  Pegar também todos os que nós temos aqui, ó.
+[20:18]  Toda a tag inteira, tá?
+[20:20]  E nós podemos...
+[20:22]  Colocar nesse nó aqui, hein?
+[20:24]  Ok?
+[20:26]  Mas eu prefiro criar aqui o novo nu, né?
+[20:28]  Para ficar mais organizado.
+[20:30]  A gente vai chamar aqui a de controle.
+[20:32]  Né?
+[20:34]  E eu vou pegar ele e vou colocar lá,
+[20:36]  no cima do nó, tá bem?
+[20:38]  Então, esse controle...
+[20:40]  A gente vai pegar todo mundo,
+[20:42]  menos o background, tá?
+[20:44]  Pega todo mundo.
+[20:46]  E a gente pega o nó, tá bom?
+[20:48]  E...
+[20:50]  Pega aqui, ó. A gente linka no controle, tá bom?
+[20:52]  Esse aqui seria o...
+[20:54]  O nó de cima, né?
+[20:56]  Colocar nó de cima.
+[20:58]  Que é fixo, né?
+[21:00]  Vamos pegar aqui o controle, ó.
+[21:02]  E pegar o controle e mexer.
+[21:04]  Olha só o que acontece, né?
+[21:06]  Bem legal.
+[21:08]  Ok, pessoal?
+[21:10]  Então, aqui a gente já pode fazer aquele movimento.
+[21:12]  Então, a nossa estrutura aqui,
+[21:14]  a nossa tagzinha aqui,
+[21:16]  está pronta, né?
+[21:18]  Então, na próxima aula, vamos adicionar um texto aqui
+[21:20]  e a logo do cliente, ok?
+[21:22]  Até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_153
+=========================================
+
+[00:00]  Muito bem pessoal, então vamos agora escrever aqui algumas coisas né, vamos pegar ferramento de texto
+[00:06]  Então vamos escrever aqui ó, liquida, ok
+[00:10]  Estou aqui com a fonte Gotham, tá? Bold, estou no modo regular aqui, ok?
+[00:18]  Gotham Bold, se você pegou todas as fontes aí, instalou, você tem essa fonte aí também
+[00:24]  Vamos em Aline, vamos alinhar então aqui no centro, eu desliguei Caps Lock
+[00:29]  Vamos alinhar aqui, então vamos aumentar o tamanho do texto né, até aqui ó
+[00:35]  Colocamos ele um pouco acima, como eu falei pessoal né, a gente deixa uma proporção, tá bom? Isso é muito importante
+[00:42]  Esse que vai fazer o seu design ficar bonitinho, tá bom? Então eu deixo uma proporção aqui, tá? Nunca faça
+[00:48]  Tá assim ó dessa forma aqui, estou orando o espaço, tá? Isso fica grosseiro, fica feio
+[00:54]  Então vamos pegar o mesmo texto, vamos duplicar Ctrl D
+[01:00]  Vamos estar ali para baixo, tá? Pressiona Ctrl T ó, ferramenta de texto
+[01:05]  Então digita aqui agora tudo, ok?
+[01:09]  Sente de estar minusco, tá? Pessoal, a gente precisa controlar
+[01:12]  Aqui na ferramenta de caracteres né, a gente pode ó, clicar aqui ao Caps né, para todo mundo sempre ficar maiúsculo
+[01:21]  Então ó, aqui está
+[01:23]  Então eu posso aumentar isso aqui né, até aqui né
+[01:28]  Então ó, prontinho
+[01:31]  Niquida, tudo, a gente pode colocar mais informações aqui embaixo, caso tenha né, por exemplo ó
+[01:37]  até
+[01:39]  50%
+[01:41]  de desconto
+[01:44]  Esse até tá, pessoal, ele vai perseguir a gente para sempre, pra sempre a gente vai usar eles, tá bom?
+[01:49]  Para te diminuir no escala, ó
+[01:52]  E novamente a gente posiciona aqui
+[01:54]  Então eu vou pressionar Ctrl mais aqui ó
+[01:57]  Para você entender uma coisa
+[02:00]  Vou pressionar Ctrl R, para a gente puxar nossa régua, tá?
+[02:03]  E ó, a gente vai colocar aqui no L e no T
+[02:06]  A gente vem aqui no A, no O né
+[02:09]  E então a gente pega esse, até 50% de desconto
+[02:14]  A gente pega aqui, a gente pode colocar um tracinho né, fazer um design legal
+[02:19]  E aqui também, desse lado aqui ó
+[02:21]  Dá um espaço uns
+[02:23]  A gente pega ele todo, Ctrl R, ó
+[02:26]  Diminuir ele aqui, tá bom? Que ele não vai ser
+[02:28]  Tão importante, não vai ser o destaque aqui
+[02:31]  Então uma outra coisa aqui ó, pessoal, que eu tô fazendo já
+[02:35]  É mantendo, ó, essa distância aqui, tá bem?
+[02:39]  De uma letra para a outra, olha só
+[02:41]  Então tá mantendo, opa
+[02:43]  Tô mantendo aqui a mesma, tentando manter a mesma distância, ó
+[02:47]  Ok?
+[02:48]  Então aqui é um pouquinho mais, né?
+[02:50]  Pouquinho mais, então colocar um pouquinho para cima
+[02:53]  Então eu faço esse grijo, tá bom?
+[02:56]  Então deixa o meu texto alineado
+[02:58]  Me mantém a mesma proporção, a distância de uma letra para a outra, né?
+[03:01]  De uma palavra para a outra
+[03:03]  Então fica tudo bem bonitinho, bem alineado, né?
+[03:06]  Então deixa eu tirar todo mundo aqui, ó
+[03:10]  Ok?
+[03:11]  Tira assim, joga para o lado e tira, tá?
+[03:14]  Opa
+[03:16]  Então, prontinho, ó
+[03:18]  Você vê que fica numa harmonia muito bonita, né?
+[03:20]  Então a gente vai pegar a logo, ó
+[03:22]  Controir
+[03:23]  Aqui está a logo ProType, né?
+[03:25]  Vou pressionar Ctrl C nela
+[03:27]  Vou clicar aqui neste projeto do curso
+[03:29]  Vou iniquidar tudo
+[03:31]  Logo, tá?
+[03:32]  Como eu falei para você
+[03:33]  Coloque todos os arquivos dentro, né?
+[03:36]  Do projeto, tá?
+[03:37]  Pessoal, isso é interessante
+[03:39]  Então vamos importar
+[03:42]  Ok?
+[03:43]  Essa logo, pessoal
+[03:45]  A gente sempre queria estar numa composição
+[03:47]  Prontinho
+[03:48]  Que está dentro de uma composição agora
+[03:50]  Caso a gente venha animar essa logo
+[03:54]  Ela já vai ficar animada aqui também, né?
+[03:56]  Vamos colocar ela aqui
+[03:58]  Então a gente idê logo
+[04:00]  A gente coloca aqui, né?
+[04:02]  Diminui
+[04:06]  E eu vou colocar mais embaixo aqui, ó
+[04:10]  Prontinho
+[04:12]  Como essa logo não está destacando aqui, né?
+[04:14]  Não está ficando legal
+[04:16]  A gente vai adicionar um fio, tá?
+[04:18]  Contra o espaço
+[04:20]  E a gente digita aqui, ó
+[04:22]  Fio, ok?
+[04:24]  Pressiona Enter
+[04:26]  E a gente vai colocar ali branco também
+[04:28]  Ó, logo branco
+[04:30]  Ok?
+[04:32]  Então, novamente, olha só
+[04:34]  Aqui tem menos espaço, aqui tem mais
+[04:36]  Então a gente precisa centralizar isso aqui, né?
+[04:38]  Centralizamos
+[04:40]  Ok?
+[04:42]  A gente não vai aumentar tanto a logo
+[04:44]  Dessa forma aqui, ó
+[04:46]  Porque aí a gente vai criar uma briga
+[04:48]  Briga de atenção
+[04:50]  Então a gente deixa logo um pouquinho menor
+[04:52]  Porque, ó
+[04:54]  A gente vai deixar o destaque aqui
+[04:56]  Aqui dá tudo, né? Tem 50% de desconto
+[04:58]  E aqui é logo da loja, né?
+[05:00]  Aqui vai estar bastante simples
+[05:02]  Alguns clientes, né?
+[05:04]  Eles gostam, né? Não tem problema
+[05:06]  Você colocar logo totalmente branco
+[05:08]  Então tá bom? E o que a gente pode fazer
+[05:10]  Além disso aqui, ó
+[05:12]  É simplesmente entrar aqui na logo, né?
+[05:14]  E colocar um marco
+[05:16]  Por ali por trás, né?
+[05:18]  Por exemplo, criar aqui um novo shape
+[05:20]  Vou em
+[05:22]  Edit, retângulo
+[05:24]  E vou em Edit, fio
+[05:26]  Ok?
+[05:28]  Vou pegar o meu retângulo, ó
+[05:30]  Vou aumentar ele bastante
+[05:32]  Aqui, dessa forma
+[05:34]  Vou colocar um pouco mais para cima
+[05:36]  Deixe marco aqui, ó
+[05:38]  Pra não ficar proporcional
+[05:40]  E aumento pra cara agora
+[05:42]  Mais ou menos aqui
+[05:44]  E agora é só pegar o holding
+[05:46]  Aqui, ó
+[05:48]  Deixar mais arredondado
+[05:50]  E ok
+[05:52]  Eu pego isso e coloco para baixo, né?
+[05:54]  Venho aqui em fio, ó
+[05:56]  E deixo branco
+[05:58]  E aumento um pouquinho a escala, né?
+[06:00]  Então vou aumentar um pouquinho mais a escala
+[06:02]  Conta em scale aqui, ó
+[06:04]  A corda vermelha
+[06:06]  E um pouquinho mais para cima, né?
+[06:10]  Tá bom, caso você tenha um cliente
+[06:12]  Que ele gosta de usar realmente a cor
+[06:14]  Que está na logo, né?
+[06:16]  Então a gente poderia colocar aqui uma outra cor
+[06:18]  Que destacasse, por exemplo
+[06:20]  A logo como um todo, né?
+[06:22]  Por exemplo aqui um escuro, né? E preto
+[06:24]  Então a gente vira aqui e ia ficar feio pra caramba, né?
+[06:28]  Então uma outra solução seria
+[06:30]  Pegar aqui, ó
+[06:32]  E deixar branco realmente
+[06:34]  Totalmente branco
+[06:36]  Nós pegamos a logo, colocamos um fio, né?
+[06:38]  Desde que digamos aqui
+[06:40]  O fio, ó
+[06:42]  A gente pega o contagotas e clica na cor
+[06:44]  E gina o vermelho da logo
+[06:46]  Então, prontinho, se a gente voltar aqui
+[06:48]  A gente vai ter isso, né? Fica grosseiro
+[06:50]  Fica feino, mas é o que o cliente quer, né?
+[06:52]  Então a gente não pode brigar com o cliente, ok?
+[06:54]  Então, caso o seu cliente aceite
+[06:56]  A gente vai dessa forma aqui mesmo, tá?
+[06:58]  Ó
+[07:00]  Então fica bem mais bonito, né?
+[07:02]  Bem mais confortável visualmente
+[07:04]  Então o que a gente precisa ver aqui
+[07:06]  Por último, selecionar todo mundo, né?
+[07:08]  Você vê aqui que podemos aumentar aqui
+[07:10]  Colocar mais pra cima, né? Pra centralizar
+[07:12]  Então, ó, um pouquinho mais
+[07:14]  Aqui a gente tem a curva, né?
+[07:16]  Tem um espaço, ó
+[07:18]  Aqui a gente tem a curva, tem um espaço
+[07:20]  Então está bem centralizado
+[07:22]  A nosso conteúdo está bem arrumado, né?
+[07:24]  Com o espaço entre, né?
+[07:26]  Os objetos muito bom
+[07:28]  A gente deixa separado, tá?
+[07:30]  Um pouco mais separado, porque ela não foi
+[07:32]  Parte do texto aqui
+[07:34]  Então, ó, bem bonitinho, bem legal, né?
+[07:36]  Então, próxima aula vamos animar isso aí, ok?
+[07:38]  Então, até a próxima aula
+
+
+=========================================
+📖 INÍCIO DA VIDEO_154
+=========================================
+
+[00:00]  Muito bem pessoal, vamos então animar, vou pegar aqui o líquido né, o texto, vou abrir aqui em text,
+[00:07]  ok, deixa eu levantar um pouquinho para você ver melhor e animate, nós vamos pegar uma propriedade
+[00:15]  chamada position, tá, e essa posição, opa, nós vamos levar aqui para cima, tá, só um pouquinho tá
+[00:24]  bem de leve aqui e ok, então nós vamos em animator, né, e nós vamos então adicionar aqui ó, select
+[00:35]  expression, ok, prontinho, então nós vamos em rende aqui em start, pressionando contra o shift,
+[00:44]  eu pulo 10 frames mais 10 frames, então coloco isso aqui em 100, tá, 100% tá, então a gente vai ter
+[00:52]  aqui, ok, nada de interessante ainda, né, posso fechar o rende e abrir o expression e abrir aqui o
+[01:01]  amount, né, então vamos poder digitar a expressão aqui, lá na nossa partinha do nosso curso, a gente
+[01:08]  tem então a parte expressão, vamos entrar lá, vamos abrir esse text expression, ok, vamos abrir,
+[01:15]  vamos pegar essa, essa, tem que pegar tudo aqui, tá pessoal, vamos pegar então essa expressão aqui,
+[01:23]  pressionando de Ctrl C, voltamos aqui no After Effects, clicamos aqui ó, Ctrl V, então se a gente
+[01:32]  der um play, ó, bem bonitinha já está nessa animação, então a gente pode pegar aqui o rende,
+[01:39]  o start, né, a gente pode afastar mais aqui, ó, só avisar mais um pouco, né, ok, então a gente vai
+[01:49]  entrar aqui no decay, ó, a gente vai tirar de 8, a gente vai colocar 5, vamos ver como fica,
+[01:55]  ah, legal, está ficando mais suave, né, além de de position, né, aqui nesse animator, tá pessoal,
+[02:03]  aqui nesse animator de cima, aqui nesse animator em Edit, deixa eu fechar aqui, para você ver o que vai acontecer,
+[02:10]  fechar uma malte, não vamos mexer mais nele, aqui em Edit, ó, propriedades aqui, nós vamos em Opacity,
+[02:18]  ok, e bastante zerar aqui, tá pessoal, precisamos fazer mais nada, já vai acontecer tudo automaticamente
+[02:26]  ó
+[02:31]  então bem bonito, né, agora pessoal, o mais interessante de tudo é que se a gente quer esse mesmo efeito
+[02:38]  nos outros textos, parte a gente pegar o animator, pressionar Ctrl C nele, tá, lembrando que a agulha
+[02:44]  ela precisa estar no início, e ó, peguei aqui o tudo, ó, nem preciso abrir, tá, pressione Ctrl V aqui, ó,
+[02:52]  tá vendo pessoal, já está adicionado, então em 50% também vou adicionar, ó, prontinho,
+[03:02]  né, então agora só falta a gente mudar aqui um tempo de cada um que entra, né, já faz um pouquinho aqui
+[03:08]  o tudo, e o até 50%, ó, bem legal, então acontece de uma forma bem bonita, né,
+[03:17]  então a gente vai abrir só o 50%, a gente vai abrir, vamos abrir Text, Animator e o Position,
+[03:26]  nós vamos, né, diminuir aqui esse valor, vamos colocar, por exemplo, 50 aqui, menos 50, ok, agora sim,
+[03:35]  né, tá vendo pessoal, essas coisas que você tem que analisar, ó, ele tá vindo muito de stream,
+[03:42]  tá, né, trabalhando muito, fazendo muito esforço pra ele acontecer, então a gente vem aqui no
+[03:47]  Imposition, a gente coloca menos 50, diminui o número, então ó, já vai acontecer de uma forma mais
+[03:54]  suave ali, então vai ficar bem legal, ok, então nosso texto tá animado, prontinho,
+[04:06]  então a gente vai pegar a logo, né, a gente vai pressionar a escala, a gente vai marcar um,
+[04:13]  a gente vai pular aqui, ó, Contra shift, uma, duas, né, 20 keyframes, então scale, a gente marca aqui,
+[04:21]  traz a agulha pra frente, a gente coloca em zero, pega aqui, ó, pressiona F9 neles,
+[04:28]  is and wish, coloca em elástico, tá, em out e ao aqui, então aplica, muito bem, então ó,
+[04:37]  nossa logo ela vai ter esse salto aqui, muito importante saber também pessoal que
+[04:44]  nossa logo, né, a gente precisa, na verdade, ó, vou tirar aqui, ó, vamos pegar aqui, criar uma nova
+[04:52]  composição de 1080, tá, e vamos chamar de logo, então dentro dessa logo, a gente coloca sem
+[05:00]  Detype, tá, porque esse Detype ele tá com um tamanho muito grande, ó, 3952, ok, a gente vai colocar
+[05:08]  isso aqui e a gente vem, ó, escala aqui, diminui aqui, deixa dentro dessa composição de 1080,
+[05:17]  então a gente volta aqui num selo, a gente pega aqui logo, ó, a gente tá pra cá,
+[05:24]  então vamos pegar o fio, contra o x, tá, selecionamos a logo, contra o v,
+[05:31]  deletamos essa logo antiga, pegamos a logo nova, pegamos escala, ó, e vamos reposicionar
+[05:38]  novamente aqui no nosso projeto, diminui aqui, acho que vai ficar em 40,
+[05:44]  então deve ficar em 37, então muito bem, aqui em 37 ficou legal, novamente vamos trazer a
+[05:52]  agulha pra frente, vamos pressionar contra o shift e as certas para frente, duas vezes 20 frames,
+[05:59]  marcamos escala, tá, vamos voltar com a agulha para frente, então pressionando zero,
+[06:05]  então, ó, podemos selecionar os dois keyframes e aplicar o efeito is e is,
+[06:11]  muito bem, então nossa logo já vai precer balançando aqui, ó, bonitinho, bem legal,
+[06:19]  ó,
+[06:24]  muito bem, pessoal, então vamos fechar e agora basta a gente pegar todo mundo, tá pessoal,
+[06:31]  todo mundo aqui que não está ainda ligado no controle, ó, então vamos pegar, ó,
+[06:36]  ligar no controle, dessa forma quando a gente mexer aqui, ó, o texto vai mexer junto também,
+[06:41]  ok, então a gente vai pegar aqui o position, né, pressionando P, a gente leva aqui mais pra
+[06:48]  frente, né, mais ou menos aqui, a gente marca uma posição aqui, então a gente pega, ó,
+[06:55]  coloca ele até assumir aqui da nossa composição, pressionamos F9, selecionamos todos os personagens
+[07:01]  F9 e vamos em Weas and Weas, né, e vamos aplicar então, ó, então, ó, isso aí vai cair aqui,
+[07:10]  ó, né, balançando e o texto vem aparecendo, então a gente pode pegar o texto aqui, ó,
+[07:16]  está um pouquinho mais para trás, né, dessa forma, lembrando que ainda tem animação, né,
+[07:23]  ainda tem a transição, ó, sempre deixa um pouquinho de espaço, tá, pessoal, para transição,
+[07:28]  assim, ó, mais ou menos cinco frames, tá, então entrou uma transição aqui, entrou aqui, tá,
+[07:35]  não esqueça do tempinho da transição, tá, pessoal, se você for colocar transição, né,
+[07:40]  caso não, pode fazer tranquilamente, porque se você deixar, por exemplo, começando aqui, ó,
+[07:46]  quando você colocar a transição, você vai perder uma parte do seu trabalho aqui, né,
+[07:51]  então lembre-se disso, bem legal, então eu vou pegar o tudo, colocar um pouco mais próximo,
+[07:56]  então, um pouco existente, ó, bem legal agora,
+[08:04]  muito bem, pessoal, vamos pegar aqui o posito, vamos trazer um pouco mais para cá, né,
+[08:10]  vai ser um pouco mais rápido, muito bem, pessoal, então como você pode ver aqui o efeito da cordinha,
+[08:18]  né, a gente não precisa trabalhar nele, então bastante animar aqui, o controle
+[08:24]  e já era, né, já está animado, está feito, muito bem, então a gente vai pegar aqui, ó,
+[08:30]  desde a logo até a base principal, tá, pressionando shift, selecionamos todo mundo,
+[08:36]  e ó, vou usar em pré-compô, então, vou chamar isso aqui de selo principal, né,
+[08:42]  então a gente pode colocar aqui até 0,1 e ok,
+[08:55]  bem, agora, se a gente pressionar a escala aqui, ó, por exemplo, se quer diminuir o nosso
+[09:00]  selo mais ou menos aqui, né, a gente perde o acordinho, né, então a gente teria que ligar
+[09:05]  em grenagem para ela aparecer, então por isso motivo a gente vai entrar lá, vamos pegar o nu aqui,
+[09:12]  ó, que é, deixa eu clicar aqui, né, sou o sininho, aqui que é o node cima, ó,
+[09:19]  então a gente vai posicionar para cima ele, tá, então a gente vai levar lá para cima, ó,
+[09:27]  vamos voltar aqui e ver se, né, ok, então com isso a gente pode estar baixando aí, né,
+[09:35]  e diminuindo o nosso selo, ok, caso a gente queira colocar em outra posição, olha,
+[09:42]  diminuir mais, queira colocar, por exemplo, aqui, a gente pode, ó, ok,
+[09:51]  então pressionando control check, para ele voltar a sua posição aqui inicial,
+[09:54]  então está prontinho aqui o nosso selo, tá pessoal, até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_155
+=========================================
+
+[00:00]  Ok, pessoal, agora vamos fazer uma outra forma usando esses mesmos designers aqui, tá bem?
+[00:06]  Então vou desligar aqui.
+[00:09]  Eu vou criar o new shape layer, ok?
+[00:13]  E nesse novo shape layer eu vou colocar um retângulo.
+[00:16]  E vamos abrir o retângulo.
+[00:19]  Deixa eu colocar aqui também um fio, tá?
+[00:21]  Aqui, ó.
+[00:23]  Então vamos em size, vamos aumentar.
+[00:26]  Mais ou menos desse tamanho aqui.
+[00:29]  E vamos em holdings.
+[00:31]  Vamos deixar o arredondado mentir aqui, ok?
+[00:36]  A gente vai entrar lá no selo principal, ó.
+[00:39]  Aqui embaixo, nós temos a base principal, né?
+[00:42]  Que tem esse gradient ramp.
+[00:44]  Vamos pressionar Ctrl C nele, vamos votar em selo.
+[00:47]  E colocamos Ctrl V aqui, ó.
+[00:50]  Opa!
+[00:52]  Nesse novo shape colocamos então Ctrl V.
+[00:55]  Ok.
+[00:57]  Agora a gente vai pegar esse mesmo shape, a gente vai duplicar ele, ó.
+[01:00]  Então eu vou chamar aqui a nossa base aqui de base.
+[01:04]  E aqui, essa aqui a gente vai colocar borda, ok?
+[01:09]  Na borda a gente vai tirar o gradient ramp, né?
+[01:12]  Podemos tirar o fio, ó.
+[01:14]  Também remover.
+[01:16]  Vamos em edit, colocamos um stroke.
+[01:19]  Então vamos aumentar um pouquinho, ó.
+[01:21]  Essa forma.
+[01:23]  Dessa forma.
+[01:25]  E ok.
+[01:27]  Vamos entrar aqui no selo principal.
+[01:29]  A gente vem aqui em entalhe, tá?
+[01:33]  A gente pega o entalhe, a gente copia Ctrl C.
+[01:36]  Volta aqui, Ctrl V.
+[01:39]  Colocamos mais aqui.
+[01:41]  O entalhe, ele ficou ali em cima, tá?
+[01:43]  Porque ele era linkado, né?
+[01:45]  Então por isso ele ficou ali em cima, a gente vai, ó.
+[01:47]  Posição, colocamos aqui para baixo.
+[01:51]  Então vamos posicioná-lo aqui, tá?
+[01:54]  Se a gente vem aqui em Align, ó.
+[01:56]  A gente consegue centralizar ele aqui, tá?
+[01:58]  Muito bem, então a gente está centralizado aqui.
+[02:00]  Podemos colocar um pouco mais para dentro.
+[02:02]  Vamos pegar o entalhe, vamos duplicar ele, né?
+[02:05]  Clicar com o botão direito.
+[02:07]  Vamos vir em Transform e vamos colocar Flip Vertical.
+[02:11]  Pegamos, ó.
+[02:13]  E colocamos então para este lado aqui.
+[02:15]  Muito bem.
+[02:17]  Então vamos pegar a borda e duplicar.
+[02:20]  E vamos renomear isso aqui agora para Dresses.
+[02:24]  Ok.
+[02:26]  Novamente, vamos abrir.
+[02:28]  Vamos abrir o Content, o retângulo e Ensaize.
+[02:31]  Vamos diminuir.
+[02:33]  Dá essa forma aqui.
+[02:35]  Ok.
+[02:36]  Podemos deixar marcar aqui a proporção e diminuir um pouquinho mais aqui, ó.
+[02:42]  Para que fique no uniforme, um pouquinho mais em cima, né?
+[02:46]  Então vai ficar dessa forma aqui.
+[02:49]  Então em Stroke, a gente vai ter que diminuir mais daqui a pouco.
+[02:53]  Mas aqui embaixo nós temos Stroke.
+[02:55]  E aqui embaixo nós temos Dresses.
+[02:58]  Então a gente vai clicar.
+[03:01]  Ok.
+[03:02]  Então o Stroke a gente precisa diminuir, né?
+[03:04]  Dessa forma aqui.
+[03:06]  E pessoal, você está vendo aqui, ó, que nós temos aqui um corte quadradinho, né?
+[03:10]  Esses Dresses a gente pode mudar aqui o Butte Cap para Road Cap.
+[03:15]  Então ele fica redondadinho, redondo, fica bem quentinho, ó.
+[03:19]  Então a gente vem aqui em selo principal, né?
+[03:22]  Você lembra que nesses Dresses aqui, ó.
+[03:25]  A gente tem aqui o Content.
+[03:28]  Dresses 2, né?
+[03:30]  A gente vai abrir o Content.
+[03:32]  Stroke.
+[03:33]  E...
+[03:35]  Deixa eu levantar um pouco isso aqui.
+[03:37]  E aqui em Dresses, nós temos aqui Offset, né?
+[03:40]  Nós temos o Time-67, né?
+[03:43]  Na verdade, isso aqui não é com menos, tá?
+[03:46]  A gente vai pegar essa mesma expressão, vamos digitá-la aqui, tá?
+[03:50]  Offset no Dresses.
+[03:52]  Então, ó, Time vezes 67, tá?
+[03:55]  Então a gente vai manter o mesmo tempo de animação aí.
+[04:00]  Ok? Então, ó, bem legal.
+[04:05]  Na verdade, é negativo mesmo, né? Para ir para o outro lado.
+[04:09]  A gente vai colocar menos aqui, 67.
+[04:12]  Voltamos aqui no Dresses, desse aqui.
+[04:14]  Então colocamos também aqui, ó, menos 67.
+[04:18]  Peli para esse lado, né? Tá certo agora.
+[04:22]  Bem legal, pessoal.
+[04:24]  Então aqui, nesse cara, a gente vai apenas colocar aqui, ó.
+[04:27]  Dentro dele, pressionei Ctrl-T, ferimento de texto.
+[04:30]  Vamos colocar aqui, ó, 50%.
+[04:33]  Vamos aumentar aqui em Caracter.
+[04:38]  Vamos aumentar aqui.
+[04:41]  E vamos colocar aqui dentro, né?
+[04:44]  Eu vou aumentar o 50, tá?
+[04:47]  Estante aqui.
+[04:49]  Eu vou pegar o porcentagem aqui, ó.
+[04:53]  Vamos diminuir um pouquinho.
+[04:57]  Então, trazer um pouco mais para cá.
+[04:59]  Agora eu vou pressionar a escala aqui e vou diminuir um pouco, tá?
+[05:02]  Então colocamos ele aqui, lembrando que sempre tem que colocar, né?
+[05:06]  Um bom espaço para a borda.
+[05:09]  Queria que vai ficar 80.
+[05:11]  Ó.
+[05:14]  Bem legal, 50%.
+[05:17]  A gente pode colocar aqui, ó.
+[05:21]  A gente coloca só o desconto, tá?
+[05:23]  Você nem precisa colocar o outro, tá?
+[05:27]  Então a gente coloca o desconto.
+[05:29]  Lembrando que não é que você mantenha, ó.
+[05:31]  Tá? Alinhada aqui.
+[05:33]  Alinhada aqui.
+[05:35]  Então vai ficar bem bonitinho.
+[05:37]  A gente coloca aqui.
+[05:40]  E a gente tem que sempre colocar aquele até, tá?
+[05:43]  Para você não dar problema.
+[05:47]  Tá? Não sei que seja realmente 50% desconto, né?
+[05:50]  No bruto lá.
+[05:51]  Tudo bem, né?
+[05:53]  Então esse até a gente deixa ele bem pequeno, tá?
+[05:55]  Não precisa a gente destacar ele.
+[05:57]  É só para constar mesmo.
+[05:59]  A gente pega aqui a nossa rega, ó.
+[06:01]  Coloca aqui.
+[06:03]  50 aqui, ok.
+[06:05]  Pego até, colocamos aqui.
+[06:07]  E, ó, mantemos, né?
+[06:09]  Esse espaço aqui
+[06:11]  entre as palavras.
+[06:13]  Então, fit.
+[06:15]  Muito bem.
+[06:17]  Acho que vou pegar o até.
+[06:19]  Eu vou centralizar aqui.
+[06:21]  Dessa forma.
+[06:23]  50% desconto.
+[06:25]  Vou tirar aqui essa linha.
+[06:27]  E eu vou posicionar aqui ao centro, né?
+[06:29]  Dessa forma.
+[06:31]  Muito bem, pessoal.
+[06:33]  A gente vai pegar essa telinha toda, tá, pessoal?
+[06:35]  Todo mundo aqui, ó.
+[06:37]  A gente vai agrupar.
+[06:39]  Então, a gente vai colocar aqui como...
+[06:41]  Podemos colocar a box, né?
+[06:43]  01.
+[06:45]  Box 50%.
+[06:47]  E colocamos para ensinamos, ok.
+[06:49]  Vamos entrar lá.
+[06:51]  Então, a gente vai selecionar todo mundo.
+[06:53]  Controlar.
+[06:55]  Pegamos essa ferramenta aqui, a de Região O87.
+[06:57]  A gente vai clicar, ó.
+[06:59]  Tá vendo esse pontinho azul aqui?
+[07:01]  Nesse outro aqui embaixo.
+[07:03]  A gente vai clicar um pouquinho antes dele, ó.
+[07:05]  Ok?
+[07:07]  E um pouquinho antes daqui do outro.
+[07:09]  Dessa forma, a gente vai ter, né?
+[07:11]  O objeto bastante centralizado.
+[07:13]  Então, a gente vem aqui em Composição.
+[07:15]  Crop.
+[07:17]  A gente vem aqui em Crop Região O87.
+[07:19]  Prontinho.
+[07:21]  Cortamos.
+[07:23]  A gente não precisa da composição daquele tamanho, tá?
+[07:25]  Então, ó.
+[07:27]  Aqui, ó. Como você pode ver aqui as marcações, né?
+[07:29]  É esse tamanho da nossa composição aqui.
+[07:31]  Bem legal.
+[07:33]  A gente pode pegar esse mesmo box, ó.
+[07:35]  Selecionar ele aqui, ó.
+[07:37]  Contro D.
+[07:39]  Dois cliques.
+[07:41]  A gente pode mudar aqui, ó.
+[07:43]  Por exemplo, para 30.
+[07:45]  Então, a gente entra nele, ó.
+[07:47]  A gente altera aqui, ó.
+[07:49]  Para 30.
+[07:51]  Ok.
+[07:53]  A gente entra nele de novo, ó.
+[07:55]  A gente pode colocar, por exemplo, 10.
+[07:57]  Né? 10%.
+[07:59]  A gente entra na composição e coloca um aqui.
+[08:01]  Então, esse aqui, ó.
+[08:03]  Não ficou muito legal. A gente precisa fazer alguns ajustes, né?
+[08:05]  Podemos aumentar um pouquinho, né?
+[08:07]  Escalar aqui.
+[08:09]  Prontinho.
+[08:11]  Aumentamos e ficou legal.
+[08:13]  Então, ó.
+[08:15]  Se a gente vir agora aqui nesse cara.
+[08:17]  A gente pode pegar aqui
+[08:19]  e marcar a escala, né?
+[08:21]  Divinei um pouquinho.
+[08:23]  Mais ou menos desse tamanho aqui.
+[08:25]  E então,
+[08:27]  volta aqui e coloca em zero.
+[08:31]  Além disso, ó.
+[08:33]  Posso voltar aqui e pressionar Shift-E
+[08:35]  para mostrar a rotação.
+[08:37]  Marca.
+[08:39]  E a rotação aqui, ó. Por exemplo,
+[08:41]  menos 70.
+[08:43]  Ok?
+[08:45]  Então, vou ter isso aqui, ó.
+[08:47]  A gente pega os dois keyframes.
+[08:49]  Vem NWIS, WIS.
+[08:51]  WIS, NWIS.
+[08:53]  E pressionamos uma palavra aqui, né?
+[08:55]  Com elástico Alt e Alt, tá?
+[08:57]  Então, olha só.
+[08:59]  A gente precisa afastar mais os keyframes, né?
+[09:01]  Mais um pouquinho, ó.
+[09:03]  Bem legal, né, pessoal?
+[09:05]  Bem legal, né?
+[09:07]  Bem legal, né, pessoal?
+[09:09]  Bem legal, né?
+[09:11]  Ok.
+[09:13]  Então, para a gente pegar e
+[09:15]  fazer as outras telas,
+[09:17]  com a mesma animação,
+[09:19]  basta a gente duplicar aqui, ó.
+[09:21]  Ctrl-B.
+[09:23]  E eu pego 30%, ó.
+[09:25]  Na verdade, é pelo 40% no meio.
+[09:27]  Então, pego essa aqui, que é do meio.
+[09:29]  Pego os 30%
+[09:31]  pressionando Alt.
+[09:33]  E, ó, eu coloco aqui.
+[09:35]  Então, posso mudar aqui o time, né?
+[09:37]  Ó.
+[09:39]  Então, aparece os dois, ó.
+[09:41]  Com a mesma animação.
+[09:43]  Ok? Então, a mesma coisa
+[09:45]  posso fazer com os 10%.
+[09:47]  Então, pego 30 aqui, eu duplico, ó.
+[09:49]  Pego o de baixo e arrasto para cá.
+[09:51]  Pego o 10%.
+[09:53]  Alt. E coloco.
+[09:55]  Então, ó, prontinho.
+[09:57]  Eu tenho os três aqui, ó.
+[09:59]  Posso afastar aqui, né?
+[10:01]  Para eles entrar em time diferente.
+[10:05]  Então, está pronto esse trecho aí?
+[10:07]  Até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_156
+=========================================
+
+[00:00]  Gente, lembro aqui, então a partir desse box, pessoal, a gente vai fazer uma outra, né?
+[00:04]  Outra paradinha agora aqui, então vamos pegar o box qualquer um, pode ser esse 10% e duplicar ele, né?
+[00:10]  A gente vai agora renomear para tag, tá?
+[00:13]  Deixa eu colocar tag, texto, tá?
+[00:18]  Então, normalmente a gente tem que colocar aqui 0, 1, tá?
+[00:22]  Porque depois vai ter o texto 0, 2.
+[00:26]  Então, dois cliques, entramos aqui.
+[00:29]  Essa tag a gente vai fazer é um pouco maior assim, na horizontal, tá?
+[00:33]  Então, a gente precisa aumentar o tamanho da nossa composição aqui.
+[00:35]  Então, como é que a gente faz? A gente precisa controlar, tá?
+[00:39]  Então, você vem aqui, com a position, com a position settings, ok?
+[00:45]  E o IDF, então, a gente vai aumentar.
+[00:47]  Lembrando que temos que estar desmarcado essa opção aqui, tá bom?
+[00:50]  Então, o IDF, a gente vai aumentar aqui.
+[00:53]  Ele já morta para a gente ir em tempo real.
+[00:56]  Então, a gente aumenta aqui o mais ou menos o tamanho que a gente precisa.
+[00:59]  Vai ser bastante grande, né?
+[01:02]  Ó, ok, a gente vai pensando aqui em uma fase grande.
+[01:09]  Então, vai caber.
+[01:11]  Muito bem, então, a gente pressiona aqui, ok?
+[01:14]  Opa, desculpa.
+[01:16]  Então, ficou aqui, ó, 2.804, tá?
+[01:19]  Colocar 2.800 só para simplificar.
+[01:22]  2.800 da altura ficou a mesma, 523.
+[01:25]  Então, vou pressionar ok aqui.
+[01:28]  Bem, então, vamos alterar o tamanho desses caras aqui.
+[01:33]  Então, esse...
+[01:36]  Então, a gente vai abrir a base, content,
+[01:40]  e aqui, ó, nós vamos abrir aqui esse size, né?
+[01:44]  Então, a borda, a gente já vai abrir também a borda, né?
+[01:49]  Então, ó, tá parecendo o size da borda e o size aqui do outro, né?
+[01:52]  Você pode ver que ele tem o mesmo tamanho.
+[01:54]  Então, a gente vai clicar nos dois, tá?
+[01:56]  Clica no size e no size aqui, pressionando shift, shift ou control, tá?
+[02:01]  Muito bem.
+[02:02]  Então, a gente aumenta aqui, ó.
+[02:04]  Já vai aumentar os dois juntos, tá?
+[02:06]  A gente vai desde marcar aqui esse cara que mantém a proporção, tá?
+[02:11]  E a gente vai aumentar aqui, ó.
+[02:13]  Ok?
+[02:14]  Vamos aumentar mais até aqui.
+[02:18]  Bem legal.
+[02:19]  Então, agora, só falta a gente aumentar os dresses, né?
+[02:24]  Vamos abrir o content, retângulo, size, ó.
+[02:27]  Desde marcarmos aqui, tá?
+[02:29]  E aumentamos os dresses também.
+[02:34]  Os dresses são totalmente adaptáveis, né?
+[02:38]  E, ó, quando eu der um play, já vai estar animado também.
+[02:41]  Ok?
+[02:43]  Então, eu vou trazer aqui.
+[02:46]  E, ok.
+[02:48]  Então, nós vamos pegar aqui os entalhes, né?
+[02:51]  Vamos arrastar pra cá, ó.
+[02:54]  Ok?
+[02:55]  Deixa eu desligar aqui o...
+[02:57]  O alfa pra você ver melhor.
+[03:00]  E pegamos o outro entalhe, ó.
+[03:01]  Arrastamos pra cá.
+[03:05]  E é isso, ok, pessoal?
+[03:06]  Então, tá feito aqui.
+[03:09]  Então, o que a gente vai fazer aqui com esses textos?
+[03:12]  A gente vai deletar eles todos.
+[03:14]  E a gente vem, ó, lá no selo principal, tá?
+[03:18]  Quando deixa eu pressionar Ctrl A,
+[03:20]  pressionar, por exemplo, S, eu fecho todo mundo.
+[03:23]  A gente pode pegar um texto, por exemplo, esse liquido, ó.
+[03:26]  Pressionar Ctrl C nele.
+[03:27]  Eu volto na tecla de texto.
+[03:29]  E aqui, ó, Ctrl V, ok?
+[03:32]  Lembrando aqui, como ele estava linkado, né?
+[03:34]  Ao objeto, ele acaba indo aqui pra cima, ó.
+[03:37]  Então, a gente vai pegar e ele vai retornar ele pra cá.
+[03:40]  Vamos voltar aqui, pressionar Fit.
+[03:43]  Vamos pegar aqui, ó, criar um novo no objeto,
+[03:46]  só pra gente pegar todo mundo, ó.
+[03:49]  Linkamos ao novo, só pra gente dar um resize aqui, né?
+[03:53]  A gente me deu aqui um pouquinho.
+[03:55]  E podemos deletar esse nu agora, ok?
+[03:58]  Então, a gente pega o liquido, ó.
+[04:00]  A gente vem aqui num caracteres, a gente aumenta, tá?
+[04:04]  Aumenta bastante.
+[04:07]  E a gente pode colocar aqui, ó.
+[04:09]  Por exemplo, qualquer palavra, tá?
+[04:11]  Começou o liquido a tudo, né?
+[04:16]  Opa, começou.
+[04:18]  A gente pode colocar mesmo.
+[04:19]  Atenção, né?
+[04:22]  Lembrando aqui, vamos ligar aqui nesse cara.
+[04:25]  E lembrando, pessoal, que aqui, ó, já está feita, né?
+[04:27]  Nossa animação do texto.
+[04:30]  Atenção, né?
+[04:31]  Então, centralizado aqui, bonitinho.
+[04:34]  Vou só vir a line, se a gente ficar que tá alineado ao centro, ó.
+[04:39]  Ok?
+[04:40]  Então, a gente já criou vários elementos aqui, pessoal.
+[04:42]  Eu vou duplicar a tag de 50%, né?
+[04:44]  Vou colocar ela aqui em cima.
+[04:47]  E vou pegar a minha tag, pressionando Alt e vou substituir.
+[04:51]  Porém, vai ficar muito feia a rotação, né?
+[04:53]  A rotação aqui, ó.
+[04:54]  Fica muito feio, fica muito grosseiro.
+[04:56]  Então, vou pressionar U, pega a minha agulha, ó.
+[04:59]  Coloca aqui para o final, tá?
+[05:00]  E eu deleto esses keyframes aqui, ó, da rotação.
+[05:03]  Posso simplesmente só clicar aqui, ó.
+[05:05]  Ok?
+[05:06]  Então, já deletou.
+[05:07]  Então, vai ficar apenas com esse cala, olha só.
+[05:11]  Né?
+[05:12]  Bem legal, então.
+[05:14]  Então, olha só, quantos elementos nós já temos aqui, ó.
+[05:16]  Nós podíamos fazer o nosso vídeo.
+[05:19]  Ok?
+[05:20]  Então, temos o selo principal e outras telinhas.
+[05:25]  Então, tudo feito aqui inteiramente dentro do After Effects, tá?
+[05:28]  Como você pode ver, nem tudo é 3D, né, pessoal?
+[05:32]  Então, vamos lá para a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_157
+=========================================
+
+[00:00]  Muito bem pessoal, o selo principal, vamos selecionar ele, vamos pressionar Ctrl-Alt-F
+[00:04]  para ele preencher a nossa tela aqui, então esse tag, texto, vamos desabilitar ele aqui,
+[00:10]  deixar ele desligado, vamos colocar ele aqui para baixo, o background, como eu já falei,
+[00:16]  a gente tem sempre que pré-compôr, vamos pré-compôr ele, Ctrl-Shift-C, marcamos aqui
+[00:23]  e mover todos os atributos, e vamos renomear aqui simplesmente para BG e a gente coloca
+[00:30]  01, caso a gente sê, não é 02 depois, então pressiona OK, muito bem, esse box a gente vai
+[00:38]  utilizar isso também, bem, a gente vai precisar tornar essa composição 3D, só que no momento
+[00:45]  que a gente transforma no 3D, olha só o que acontece, não vai funcionar aqui, porque
+[00:50]  nós estamos com a engrenagem ligada, então a gente precisa entrar lá no selo principal,
+[00:53]  selecionar Ctrl-A e torna todo mundo aqui em 3D, vamos voltar aqui no selo, então se
+[01:00]  rotacionar agora, agora sim, está funcionando, está em 3D agora, vamos rotacionar aqui,
+[01:07]  você pode ver que está em 3D, beleza, então a gente vai transformar todo mundo em 3D,
+[01:15]  até o box, menos o background, está bom o background, você deixa como está, 2D mesmo,
+[01:22]  então beleza, a gente vai então adicionar uma câmera, Neo Camera, então a câmera vai
+[01:30]  ser at-to-node, como você já viu a aula de câmera, sabe por que eu estou selecionando
+[01:34]  essa, então 35mm aqui e câmera 01, então pressionamos OK, muito bem, câmera 01 aqui
+[01:46]  então a gente vai colocar aqui Tubius, horizontal, deixa eu diminuir um pouco mais
+[01:52]  da tela aqui, então olha só o pessoal que acontece, eu vou vir aqui na câmera, vou abrir as opções
+[02:00]  dela, deixa eu levantar um pouco, nós vamos ligar o default field, então foco de distância aqui,
+[02:06]  vamos usar um valor aqui, então deixa o default field ligado, muito bem, então vou fechar aqui a câmera,
+[02:16]  então a gente vai pegar os box, se a gente pegar eles, vou colocar para trás, bastante para trás assim,
+[02:26]  e depois a gente coloca ele para cá, até aqui o 10% para cá, e o de 30% a gente deixa ele aí mesmo,
+[02:38]  quando a animação aparecer ele vai aparecer lá, então esses caras já estão bastante atrás,
+[02:44]  então a gente precisa desfocar ele, então a gente vem aqui, a gente começa a aumentar aqui,
+[02:50]  a gente vê que já está desfocando, bem legal, então a gente vai pegar os 50% por exemplo,
+[02:58]  a gente vai trazer para a frente, deixar um aqui também enfocado, então a gente vai trazer um pouco mais para cá,
+[03:04]  e aqui desse lado a gente clica e coloca ele um pouco mais para cima, então traz um pouco mais para foco
+[03:14]  a gente vai pegar a escala dele, clica aqui ou não de ter um keyframe, a gente vai diminuir,
+[03:20]  colocar em 30, 30 foi muito, 37 diminui um pouquinho, já deixa esse tamanho, ok, então com 10% a gente vai fazer a mesma coisa,
+[03:34]  duplica o 10%, traz para cá, coloca aqui, ó, em frente, aumenta um pouquinho para aparecer o 10% ali e o outro,
+[03:48]  levar um pouco para trás, ficou muito grande, um pouco para trás aqui, e colocamos então aqui,
+[03:57]  então a gente duplica o mesmo, a gente pode posicionar ele aqui, mas embaixo,
+[04:02]  então mais aqui um pouquinho saindo da tela, a gente traz para frente, aqui em x a gente rasta um pouquinho, ok,
+[04:11]  então a gente vai fazer uma cena aqui, ok, então desfoco aqui na frente também, novamente vamos trazer para frente,
+[04:18]  em x traz um pouquinho para aparecer aqui no canto, essa forma aqui, novamente vou trazer em z,
+[04:27]  clico aqui, traz em z, e trago em x novamente para aparecer aqui,
+[04:36]  ok, então eu posso pressionar espaço e arrastar aqui, clicar aqui,
+[04:42]  parece que no cantinho, depois de animação, somo, a gente volta para cá e ok,
+[04:50]  a gente pode pegar esse 10% e arrastar de um pouquinho mais para fora né,
+[04:55]  essa forma aqui e ok, como ele não aparece a gente pode duplicar pessoal,
+[05:01]  abrir aqui o posicion, como não aparece que é o 10% né, a gente pode duplicar e colocar por exemplo aqui,
+[05:10]  aqui em y, a gente pode posicionar ele aqui nesse canto,
+[05:16]  também fazendo uma outra imagem desfocada, beleza, então a gente vai pegar o de trás,
+[05:21]  a gente vai duplicar novamente o 10%, a gente coloca aqui para baixo né,
+[05:27]  então a gente coloca um pouco para cá e ó, a gente vem desse lado, um pouco para baixo e em z a gente coloca bastante aqui agora né,
+[05:37]  ó, a gente vai ficar bem atrás agora, a gente vai pegar agora o 30% né,
+[05:45]  vamos colocar ele para aparecer também, então eu pego ele ó, simplesmente coloca aqui,
+[05:51]  ok, a gente leva ele um pouquinho para trás, a gente vai duplicar novamente e agora
+[05:58]  a gente tem que trazer um aqui para frente né pessoal, tem que aparecer também aqui junto né,
+[06:02]  a gente pode colocar ele aqui ó,
+[06:05]  você lembra pessoal, dá hora de equilíbrio né, então olha só como eu estou
+[06:09]  equilibrando a minha cena toda aqui né, então bem legal, então vou pegar o 50% duplicar ele,
+[06:16]  control D, aqui ó desse lado eu posso levar ele um pouco mais para trás,
+[06:22]  um pouco mais, opa, leva aí Y, um pouco mais e até aqui, ok, então eu posso duplicar ele
+[06:32]  mais uma vez, o arrastar bastante agora para trás e quando aparece o X aqui ó,
+[06:38]  arrasta aqui, está vendo que quando aparece o Y, eu posso mexer em tom para cima aqui,
+[06:43]  ok, como ele já não aparece né, então não importa mais 50% ou outro, a gente duplica
+[06:49]  e acaba, quando aparece o Y, a gente levanta também, ok pessoal, então aqui já é o suficiente,
+[06:57]  a cena já está equilibrada, aparece o 10, aparece o 50, aqui nós temos algumas aqui nessa
+[07:03]  parte né, então está feito ó, nós temos uma cena equilibrada, podemos aqui ó, o chovius
+[07:09]  mudar para 1 view né, então bem bonitinha, sem exageros, então aqui vamos criar aqui um
+[07:14]  new no objeto né, pessoal F4 para aparecer esse menu aqui e torna o 3D, ok, então vou chamar ele de
+[07:23]  control cam, ok, que é o controle da câmera, então pegamos a câmera, ligamos nesse cara,
+[07:31]  vou abrir rotação, se rotacionar aqui em Y, olha só pessoal, que legal, que movimento que a gente
+[07:38]  está fazendo nessa cena né, que movimento legal, se eu ver em X ó, bem legal também né, então
+[07:47]  daí você pode ver os movimentos interessantes que nós podemos fazer aqui nessa cena e com
+[07:53]  muita facilidade né, olha só, que legal, muito bom pessoal, agora para completar essa transição,
+[08:03]  a composição, vamos pressionar control Y, vamos voltar aqui em liquida tudo, aqui no prototype
+[08:10]  né, vamos entrar aqui, nós temos em vídeos né, nós temos esse efeito aqui né, partículas,
+[08:18]  então vamos copiar ele, control C, vamos voltar aqui em liquida tudo ó, em vídeos, control V,
+[08:26]  então vamos pegar essas partículas e vamos importar né, vamos colocar umas partículas aqui
+[08:34]  para ficar bonitinho, então ó, pega minhas partículas, pressione F4 aqui no blend mode,
+[08:40]  vou colocar em edit, para elas aparecerem né, elas são menores tá, são 720, ela é na resolução
+[08:47]  de 720 né, e nossa resolução aqui é de 1080 né, então a gente vai pressionar control
+[08:56]  Alt F para ela preencher nossa tela, simplesmente isso, bem facinho né, então se a gente der um play,
+[09:01]  olha só que legal pessoal, composição bonitinha né, ok, então agora a gente vai clicar com o botão
+[09:10]  direito, vamos em mil, adusman layer tá, colocar um adusman layer para todo mundo aqui, então aqui
+[09:17]  vamos colocar um efeito ó, coloco o resto, Ruiz Saturation tá, então lembrando que aqui tem
+[09:23]  que estar 16 bits tá pessoal, a gente vai aumentar a intensidade das cores, olha só pessoal,
+[09:29]  a gente vai aumentar a intensidade aqui ó, deu uma diferença muito boa, viu, e ok, aqui ó, nesse
+[09:38]  Ruiz Saturation aqui em cima a gente pode mexer nesse valor pessoal, vai alterar a cor aqui da nossa
+[09:42]  resolução ó, caso você queira alterar ó, tá vendo só, aí você vai ter que fazer um controle
+[09:50]  menor de, melhor de cores, por exemplo se você quiser azul, funcionou muito bem, vai só diminuir
+[09:55]  aqui essa aturação, azul, roxo ó, o laranja também fica bem legal, laranjado aqui ó, né,
+[10:06]  e eu vou deixar o meio aqui onde estava tá, aqui no background né, vamos entrar nele,
+[10:11]  vamos deixar mais claro essa parte aqui de dentro tá, vamos deixar mais claro aqui dessa forma,
+[10:18]  então ficou ó, FF88B5 tá, digita aí, FF88B5, beleza? Então vou pressionar o que aqui, vou voltar,
+[10:32]  olha só a diferença né, muito bonito, então olha só pessoal, a gente tem uma teninha pronta aqui,
+[10:40]  né, bem bonitinha, uma cor bem bonita, bem diferente né, então a gente pode pegar o background,
+[10:49]  se você quiser também, eu venho em New, Address Meleia, e a gente pode mudar a cor do background,
+[10:55]  tem cola correja, curvas, e ó, a gente começa a alterar aqui, tenta pegar uma cor,
+[11:02]  por exemplo verde ficou muito bonito né, e a gente tem um bom contraste agora aqui,
+[11:07]  então olha só, nossa cena aqui né, então a gente pode entrar, levantar mais um pouquinho aqui,
+[11:15]  e em camera, em control camera, a gente vê aqui ó, imposição, marca um keyframe, vê alguns
+[11:23]  aqui para frente né, e ó, a gente dá um zoom aqui, ok, né pessoal, muito bonito, parece assim que as
+[11:35]  coisas estão flutuando aqui, bem bonito mesmo, ok pessoal, então aqui ó, você já tira uma tela
+[11:44]  liquida tudo, prototype né, como você pode ver né, nossa tela ficou bastante completa né, e como
+[11:51]  você pode ver é bastante simples né, usando todos esses conceitos que a gente aplicou aqui,
+[11:55]  de uma forma geral é bastante simples né, então é isso pessoal, até a próxima aula!
+
+
+=========================================
+📖 INÍCIO DA VIDEO_158
+=========================================
+
+[00:00]  Muito bem pessoal, vim aqui no Google e eu quis dizer que é o produto, tá? Product.
+[00:05]  Então, enferramentas, ó, eu costumo usar enferramentas e vim em tamanho, eu sempre coloco aqui grande, tá?
+[00:12]  Vou ver logo as imagens de boas resoluções.
+[00:15]  Às vezes eu coloco em transparente, tá? Que eu já pego alguns produtos, ó.
+[00:20]  Vamos ver esse aqui.
+[00:21]  Ele já pode estar com transparência, como você pode ver aqui.
+[00:25]  Mas dificilmente eles vêm bem cortados, tá? Normalmente a gente precisa realmente cortar eles.
+[00:30]  Então, vamos pegar alguns aqui, tá? De forma bastante aleatória.
+[00:35]  Tentando simular como se o cliente mudasse o produto pra gente, né?
+[00:39]  Porque dessa forma é mais desconfortável, né?
+[00:42]  Se a gente tentar pegar aqui, se a gente escolher, a gente vai pegar o que é mais bonito pra gente.
+[00:46]  Então, não vai ser muito real.
+[00:49]  Então, beleza.
+[00:51]  Então, a gente vai fazer aqui o seguinte, ó.
+[00:53]  Vamos pegar, por exemplo, esse aqui já está em PNG, né?
+[00:56]  Então, ó, posso clicar com o botão direito e abrir uma nova tela, né?
+[01:00]  Então, ó, posso pegar esse outro aqui.
+[01:04]  PNG também, vou abrir uma nova tela, ó. PNG bonitinho, né?
+[01:09]  Então, eu vou escolher um outro aqui que não esteja nos 400 pra gente recortar um, tá?
+[01:14]  Então, eu vou abrir aqui, deixa eu ver, eu vou clicar nesse aqui.
+[01:17]  Vamos pegar um desse aqui.
+[01:20]  Vamos abrir.
+[01:22]  Acho que três produtos vai dar bom na frente fazer.
+[01:25]  Então, a gente pode pegar aqui mais uma outra coisa, diferente, deixa eu ver o que.
+[01:30]  A gente pode pegar um relógio, né? Só um vídeo, um exemplo.
+[01:34]  Então, ok, a gente vai usar essas coisas aqui, né?
+[01:38]  Então, a gente clica aqui, ó, com o botão direito, save, é, está.
+[01:41]  Então, você salva aí no seu navegador.
+[01:43]  Então, em liquidatudo, ó, eu tô querendo o projeto já, liquidatudo, a gente vai entrar em imagens, né?
+[01:49]  Aqui, nós podemos fazer uma nova pasta, colocar aqui, ó, produtos, ok?
+[01:54]  Opa, produtos.
+[01:57]  Enter, né?
+[01:59]  E entramos. Então, sempre deixa realmente com o nome do produto, tá?
+[02:03]  Então, salva.
+[02:05]  Vamos vir aqui na outra.
+[02:07]  Botão direito, salvar, né? Salve aí.
+[02:10]  Nós temos esse aqui, né? Que vamos pegar alguns produtos daí.
+[02:14]  Salvar também.
+[02:16]  Eu acho que esse relógio não vai ter muito a ver, né?
+[02:20]  Estamos com produtos de beleza, né?
+[02:22]  Então, a gente pode pegar esse aqui, né? Que vai dar um...
+[02:26]  Bem legal esse aqui também.
+[02:28]  Então, a gente vai copiar.
+[02:30]  Às vezes, o cliente manda assim para a gente, tá?
+[02:32]  Pessoal, a gente tem que se virar.
+[02:34]  Então, bem legal, por isso que eu vou pegar ele.
+[02:36]  Então, eu estou aqui dentro da pasta, ó, imagens, né?
+[02:39]  Aqui, está.
+[02:40]  Então, a gente vai preparar esses produtos no Photoshop, antes de entrar.
+[02:44]  Esses produtos no Photoshop, antes de enviar para o After Effects, tá?
+[02:48]  Já aqui no Photoshop, pessoal, vamos em Neo, tá?
+[02:51]  File, Neo.
+[02:53]  Então, vamos criar aqui uma composição do tamanho de 1.000, né?
+[02:57]  Por 1.000.
+[02:59]  Lembrando aqui, vamos deixar 16 bits, tá?
+[03:02]  Resolução de 72.
+[03:04]  Como falei para você, 72 aqui é o suficiente.
+[03:08]  Então, vamos criar, tá?
+[03:10]  Ó, criamos isso aqui.
+[03:12]  É uma partinha de produtos lá da pasta, né?
+[03:15]  Já vai preparar esses primeiros aqui, ó.
+[03:18]  Colocamos aqui.
+[03:20]  E reposicionamos aqui, então, né?
+[03:23]  Então, eu vou pegar aqui, ó, pressionar Ctrl-R, abrir minha rega.
+[03:28]  E eu vou colocar aqui, ó, os limites, né?
+[03:31]  De altura.
+[03:33]  Apenas de altura, tá?
+[03:35]  Então, beleza.
+[03:36]  Eu vou desmarcar aqui o background para ficar transparente.
+[03:39]  Então, eu vou pegar a minha camada, vou tornar ela aqui, ó.
+[03:43]  Rasterizar, tá bom?
+[03:45]  Botão direito, rasterizei.
+[03:47]  E eu vou vir aqui, ó.
+[03:49]  Vou tirar esse roxo dessa mulher aqui, né?
+[03:52]  Esse ferramento de laço.
+[03:54]  Vamos selecionar aqui a mulher.
+[03:56]  E vamos, ó, pressionar Shift-F5.
+[03:59]  Prontinho, só isso aí, tá?
+[04:02]  Então, aqui eu vou pegar o nome, vou tirar esse eco.
+[04:06]  Tiro aqui, né?
+[04:08]  Vou mudar aqui.
+[04:10]  Vou tirar esse aqui tudo.
+[04:12]  Vou colocar aqui, ó.
+[04:14]  Por exemplo, produto.
+[04:18]  Pro-du-to.
+[04:20]  Né?
+[04:22]  Então, a gente pega isso, ó.
+[04:24]  A gente coloca aqui.
+[04:26]  Então, beleza.
+[04:28]  Ficou grosseira, né?
+[04:29]  Vamos diminuir um pouquinho.
+[04:31]  Também, vamos tirar do preto.
+[04:33]  Seleciona aqui a ferrinha de texto.
+[04:35]  E, ó, vou deixar um pouco verde aqui.
+[04:38]  E, ok.
+[04:40]  Só centralizar um pouco mais.
+[04:43]  E eu também vou mudar a cor um pouco, né?
+[04:45]  Pessoal, vou recenteration.
+[04:47]  Eu vou colocar roxo aqui dessa forma.
+[04:51]  Vai ficar diferente, né?
+[04:53]  Então, vou em Save As.
+[04:55]  Lembrando que isso eu estou fazendo aqui só por conta do curso, tá?
+[04:57]  Então, vamos em PNG.
+[04:59]  Selecionamos aqui o produto, ó.
+[05:01]  Colocamos para substituir, tá?
+[05:03]  E sim, e salvou, tá?
+[05:05]  Se a gente vier aqui, ó.
+[05:06]  Temos o produto salvo dessa cor.
+[05:08]  Agora, na resolução 1.000 por 1.000.
+[05:10]  Vamos pegar o outro, né?
+[05:12]  Vamos colocar, então, aqui também.
+[05:14]  Então, pressionamos Ctrl-T para selecionar.
+[05:16]  Vamos aumentar a escala dele, né?
+[05:19]  Até o nosso limite aqui.
+[05:21]  Esse um um pouco mais gordinho.
+[05:23]  A gente pode deixar um pouco menor.
+[05:25]  E, ok.
+[05:27]  Então, eu vou novamente pegar aqui a minha ferrinha de seleção, ó.
+[05:30]  Vou rastrizar a camada.
+[05:32]  Pegar essa ferramenta aqui.
+[05:34]  E vou, né, tirar algumas coisas aqui, ó.
+[05:36]  Por exemplo, você tirar esse nome Vanilla aqui.
+[05:38]  Esse é um Shift-F5.
+[05:40]  Tirei, ó.
+[05:42]  Então, vou tirar esse nome aqui em cima também.
+[05:47]  Shift-F5.
+[05:49]  Tá bom.
+[05:51]  Selecionamos novamente.
+[05:53]  Shift-F5.
+[05:55]  Tá bom.
+[05:56]  Tem problema essa bagunça.
+[05:58]  É só para a gente fazer exemplo.
+[06:00]  É só deixar caracterizar ele aqui um pouco, né?
+[06:02]  Para não ter problema aí.
+[06:04]  Então, ó.
+[06:06]  Posso pegar o Ruiz Satureixo que a gente tem aqui embaixo.
+[06:08]  Colocar ele aqui em cima e ver se vai ficar legal.
+[06:10]  Sim.
+[06:12]  Então, vou, ó.
+[06:14]  Save-S.
+[06:16]  PNG.
+[06:18]  Clico no produto.
+[06:20]  Salva em cima, tá?
+[06:22]  Pesso no OK.
+[06:24]  Então, ó.
+[06:26]  Dois produtos aqui.
+[06:28]  Vamos pegar, então, esses produtos aqui, ó.
+[06:31]  Colocamos ele aqui.
+[06:33]  Então, vamos focar em um aqui.
+[06:36]  Aqui do meio, tá?
+[06:38]  Então, vou retacionar aqui.
+[06:40]  Vamos deixar ele, então, em pé, ó.
+[06:47]  Assim.
+[06:49]  E OK, né?
+[06:51]  Nós podemos pegar aqui as ferramentas de retângulo de seleção, né?
+[06:55]  Já fazer, ó, uma pré-seleção aqui.
+[06:58]  Pesso na Control-J.
+[07:00]  A gente desliga aqui esse 1.
+[07:02]  Desliga todo mundo para baixo, né?
+[07:04]  Então, ó, aqui está, né?
+[07:06]  A gente pode pegar a ferramenta mágica aqui e tentar recortar já ele e todo, né?
+[07:12]  Pesso na Control-G.
+[07:14]  Então, a gente cria aqui, ó, uma máscara aqui embaixo.
+[07:17]  Clicando na máscara, se a pessoa não control-G,
+[07:20]  ele vai fazer o contrário, né?
+[07:22]  Legal.
+[07:24]  Vamos ligar o background e ver se esse recorte está bom mesmo, né?
+[07:28]  Ah, legal.
+[07:29]  Então, a gente pega, pressiona B, ó.
+[07:31]  Seleciona aqui o Brush, botão direito, ó.
+[07:35]  Seleciona aqui essa ferramenta, né?
+[07:38]  E eu vou diminuir ela aqui, pressionando Abre-Cochades.
+[07:41]  E nós vamos apagar, então, essa parte, tá?
+[07:43]  Lembrando que eu estou com um brush com a mágica selecionada.
+[07:46]  E aqui, ó, em preto, tá?
+[07:49]  Então, vamos apagando.
+[07:51]  Pagar esse aqui, ó.
+[07:53]  Então, um pouco de zoom aqui.
+[07:55]  Nós vamos passar, então, esse brush aqui, ó.
+[07:59]  Aqui.
+[08:01]  Se você tem dificuldade aí, por exemplo, usando mouse, né?
+[08:04]  Porque eu estou usando mensa digitazizadora aqui.
+[08:06]  Então, você vem, ó, pega essa ferramenta aqui.
+[08:09]  Meia de pentu, clica.
+[08:11]  Ó, você faz uma curva, tá?
+[08:13]  Você pode até fazer uma curva assim, mas dentro, tá?
+[08:15]  Pessoal, nem respeitando tanto o objeto, ó.
+[08:18]  Aqui, né, o clenche não vai notar isso aí, não, tá, pessoal?
+[08:22]  Então, você não precisa fazer tão perfeitinho aqui, tá?
+[08:25]  Então, ó, a gente faz um corte dessa forma aqui.
+[08:28]  E, ok, então, trago aqui para fora e make selection, tá?
+[08:34]  Botão direito, make selection, tá?
+[08:37]  Então, agora a gente pressiona B,
+[08:40]  voltamos para a ferramenta de pincel, né?
+[08:43]  Com a mágica selecionada, em preto aqui, ó.
+[08:46]  Então, eu começo a apagar aqui, ó, né?
+[08:48]  Com mais facilidade, ok?
+[08:51]  Pessoa no control D para sair essa seleção, ó.
+[08:54]  O meu objeto aqui está recortado, ok?
+[08:58]  Então, novamente, eu vou só tirar esses nomes daqui, né?
+[09:02]  Pessoa aqui, a ferramenta de laço, ó.
+[09:04]  Se seleciona, circula aqui o nome, ó.
+[09:09]  Pessoa no shift F5.
+[09:11]  Opa, tem que selecionar aqui, tá?
+[09:14]  Shift F5, ó.
+[09:15]  Shift F5, novamente, até ele tirar, realmente.
+[09:18]  Fazemos outra aqui, ó.
+[09:21]  Shift F5, prontinho, tiramos.
+[09:25]  Selecionamos esse nome todo aqui, ó.
+[09:28]  Ok? Shift F5.
+[09:31]  Selecionamos, então, o borrado aqui ficou.
+[09:34]  Tentamos de novo. Shift F5, sumiu, ó.
+[09:37]  Ok?
+[09:38]  Então, a gente pode pegar aquele produto que a gente fez lá embaixo,
+[09:41]  colocar aqui também.
+[09:43]  Pessoa no control T para selecionar ele e arrastar para cá, né?
+[09:47]  E produto.
+[09:49]  Então, colocamos uma cor azul aqui para combinar.
+[09:52]  Novamente, a gente pode pegar o recetoreixo, né?
+[09:55]  Nesse caso aqui, eu quero mudar as cores,
+[09:57]  porque são produtos de terceiros, né?
+[10:00]  Eu só vou mudar aqui para deixar caracterizar, né?
+[10:03]  Deixa eu ver disso aqui.
+[10:05]  Era verde, não era azul, né?
+[10:07]  Muito bem.
+[10:09]  Então, ó, o que falta a gente fazer,
+[10:11]  é só a gente pegar aqui o produto, né?
+[10:13]  E o produto, o texto, né?
+[10:16]  O produto e aumentar o tamanho dele aqui, ó.
+[10:19]  Até as nossas imagens.
+[10:21]  Vem para cima, comenta um pouco,
+[10:24]  para baixo.
+[10:26]  Então, ó, prontinho.
+[10:28]  Benifile, Save As.
+[10:31]  E aqui em produtos, ó.
+[10:33]  Vamos mudar aqui para PNG, né?
+[10:35]  Nós não temos esse produto aqui em PNG.
+[10:37]  Então, a gente volta aqui, pega o mesmo nome,
+[10:40]  copia para cá e cola, tá?
+[10:42]  Então, ó, agora vai ser o PNG.
+[10:46]  Pressiona OK.
+[10:48]  Então, ó, como você pode ver, eu tenho aqui, tá?
+[10:50]  Vamos usar três produtos, tá, pessoal?
+[10:52]  Porque é o suficiente para dar o exemplo.
+[10:55]  Se você quiser outro produto daqui, você sabe
+[10:57]  já como recorta, como descracteriza, né?
+[11:00]  E já sabe como posicionar e salvar.
+[11:02]  Então, tem uns produtos,
+[11:03]  os produtos salvo aqui, tudo o mesmo nome, tá?
+[11:06]  Então, isso é bem legal para trabalhar.
+[11:08]  Muito bem.
+[11:09]  Então, você pode recortar outro produto aí,
+[11:11]  se você deseja, tá?
+[11:13]  OK, vamos lá.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_159
+=========================================
+
+[00:00]  A gente vai agrupar todo mundo, menos o background, tá?
+[00:04]  Então, a gente pega aqui, ó, de tag text01, né?
+[00:08]  A gente vai, ó, pegar aqui o de similar e até tag01,
+[00:12]  pressionando shift, você seleciona todo mundo.
+[00:15]  Agora, contra shift C para pré-compô, tá?
+[00:18]  Então, vamos digitar aqui, ó, TL, traça 01, tá?
+[00:22]  Depois a gente vai criar 02.
+[00:24]  Então, muito bem, pressionamos OK.
+[00:28]  Então, vou pressionar zero aqui, ó, vamos renderizar.
+[00:38]  OK, até aqui, mais ou menos.
+[00:40]  Deixa eu aumentar o tempo da minha composição, contra o car, né?
+[00:43]  Vamos colocar aqui para 20 e OK.
+[00:47]  Então, ó, até três segundos aqui está bom para essa tela, né?
+[00:51]  Eu vou cortar ela, deleto.
+[00:54]  Então, eu vou duplicar ela, dupliquei, a minha agulha está aqui,
+[00:58]  e eu pressionando abre, coxete e já trago para cá.
+[01:01]  Então, eu vou ter uma outra tela, tá bom?
+[01:04]  Então, o botão direito aqui, ó, Revell, Revell Insourcing Project.
+[01:08]  Aqui está a tela 01.
+[01:10]  Se eu clicar aqui para ficar para baixo, OK.
+[01:13]  Contra o D, dupliquei, tem na 02.
+[01:16]  Pressão no Alt, ó, duplique e jogo para cá.
+[01:19]  Muito bem?
+[01:22]  Então, eu vou dar dois cliques, e nós vamos, então, fazer algumas alterações aqui, né?
+[01:26]  Para a gente fazer a tela do produto.
+[01:28]  Então, eu vou pegar aqui o background, vou colocar aqui, né?
+[01:31]  Só para a gente ver melhor.
+[01:33]  E OK.
+[01:34]  A gente não pode deixar o background aqui, porque está cortando, tá, pessoal?
+[01:37]  Esse furinho aqui está cortando, por isso a gente deixei lá fora.
+[01:40]  Então, vamos otimizar essa tela, né, para um outro fim, né?
+[01:44]  Eu vou pegar o selo, vou diminuir ele, tá?
+[01:47]  Vamos posicionar ele para cá, tá?
+[01:50]  Posicionar ele mais ou menos aqui.
+[01:52]  Você está vendo esses caras aqui, né?
+[01:54]  10%, 50% grande, vamos tirar eles, vamos deletar.
+[01:58]  Selecione eles, né?
+[02:00]  Esse 30% aqui também, podemos deletar.
+[02:03]  Vamos deixar só que a gente mais lá atrás, tá?
+[02:06]  10% aqui, letamos também.
+[02:10]  OK?
+[02:11]  Então, eu vou pegar esses caras aqui, ó, vamos posicionar eles assim.
+[02:15]  Porque aqui a gente vai deixar o nosso produto, tá?
+[02:19]  Então, aqui, ó, vamos colocar mais aqui em cima, talvez, né?
+[02:24]  Então, aqui no outro lado, nós temos aqui algumas coisas em cima, né, do selo.
+[02:28]  Podemos colocar isso aqui um pouco mais embaixo.
+[02:30]  E esse outro, ó, um pouco mais aqui, né?
+[02:34]  Então, a gente vai ter isso aqui agora, tá bom?
+[02:37]  OK.
+[02:39]  Então, vamos pegar o produto, né?
+[02:41]  Os produtos vamos importar para cá.
+[02:44]  Antes de importar, a gente já criou uma pasta aqui, ó.
+[02:47]  E vamos renomear para produto.
+[02:49]  Produtos, tá?
+[02:51]  Com essa pasta selecionada, tá?
+[02:53]  A gente já precisa controlar e controlar.
+[02:55]  E com isso, os produtos já vão cair dentro da pasta.
+[02:58]  Controli, localiza a pasta dos produtos, seleciona os três, ó.
+[03:03]  Opa!
+[03:05]  Seleciona os três e importa, tá?
+[03:09]  Prontinho. Já tá, ó, dentro da pasta do produto, tá?
+[03:13]  Então, a gente pega esse produto, ó.
+[03:15]  A gente cria, ó, coloca dentro de uma composição.
+[03:17]  Dessa forma, a gente cria uma composição exatamente do tamanho, tá?
+[03:21]  Do tamanho do produto.
+[03:23]  Então, bem legal.
+[03:24]  Vou fechar.
+[03:25]  A gente não vai precisar dele aberto.
+[03:27]  E aqui está essa composição.
+[03:28]  Vamos despressinar entre e renomear produto 01.
+[03:35]  Então, produto 01, né?
+[03:37]  Vamos colocar ele aqui na nossa composição.
+[03:40]  Aqui está.
+[03:42]  Vou rastar ele um pouco mais para cá.
+[03:44]  Pessoa no S, tá?
+[03:46]  Para abrir aqui a escala, vou diminuir ele um pouco, né?
+[03:49]  Não precisa de ser tão grande assim.
+[03:51]  O dia de hoje, né?
+[03:53]  Todo mundo tem TV, né?
+[03:55]  Essas TVs aí muito grandes, né?
+[03:57]  Então, dificilmente, pessoas com TVs pequenas, né?
+[04:01]  Então, control D.
+[04:03]  Eu vou duplicar o meu produto, tá?
+[04:05]  Agora, eu vou desligar esse 01 aqui, ó.
+[04:08]  Selecionar o de baixo.
+[04:09]  Tá vendo aqui esse pontinho?
+[04:11]  Vou pegar e eu vou amassar o meu produto dessa forma, tá?
+[04:15]  Então, ligo novamente o meu produto aqui, ó.
+[04:19]  Esse de baixo, a gente vai clicar nele,
+[04:21]  vai arrastar aqui para baixo.
+[04:23]  O legal de fazer a sombra dessa forma
+[04:26]  é porque vamos fazer uma sombra, tá?
+[04:28]  O legal de fazer a sombra dessa forma
+[04:30]  é porque cada produto que a gente adicionar,
+[04:32]  ele modifica a sombra.
+[04:34]  Então, fica bem legal.
+[04:36]  Ok, produto 01, né?
+[04:38]  Eu vou pressionar aqui, ó.
+[04:40]  Contra e a barra, né?
+[04:42]  Para abrir meu X-console.
+[04:44]  E eu vou pegar aqui, ó.
+[04:46]  Fastbox Blue, ok?
+[04:48]  Colocamos e, ó.
+[04:50]  Fazemos um blue ali, tá legal?
+[04:52]  Então, basta agora a gente deixar isso preto, né?
+[04:55]  Para ter aparência de sombra.
+[04:57]  Novamente, contra e espaço.
+[04:59]  Eu vou digitar aqui, ó.
+[05:01]  Fio, tá?
+[05:03]  Pego o fio e adiciono aí
+[05:06]  e mudo a cor para preto, tá?
+[05:08]  Preto 100%.
+[05:10]  Então, a gente vem aqui no produto, tá?
+[05:12]  Que a sombra e a opacidade a gente diminui agora.
+[05:15]  Legal?
+[05:17]  A gente diminui assim para ficar bem mentindo, tá?
+[05:19]  Não ficar tão forte.
+[05:21]  Então, bem legal.
+[05:25]  Ok.
+[05:26]  Esse 30% aqui, vamos tirar daqui,
+[05:28]  porque aqui no meio a gente vai colocar as informações, tá?
+[05:36]  Quero colocar aqui no meio, porque vai ficar
+[05:38]  bastante diferente de tudo que já existe.
+[05:40]  Porque se você for ver, né?
+[05:42]  Os comerciais normalmente vão aqui no lado
+[05:44]  e o preço aqui, né?
+[05:46]  Então, vamos tentar fazer umas coisas diferentes, tá, pessoal?
+[05:48]  Inovar e o que já existe, né?
+[05:50]  Muito bem.
+[05:52]  Então, eu vou começar a colocar mais
+[05:54]  informações do produto.
+[05:56]  Então, você lembra daquela tag, tá, pessoal?
+[05:58]  Que a gente fez, né?
+[06:00]  Do texto.
+[06:02]  Então, vamos pegar ela, ó.
+[06:04]  Vamos colocar aqui para cima do produto, tá?
+[06:07]  E eu vou dar dois cliques nela.
+[06:10]  E a gente vai escrever aqui, ó, plus protein, tá?
+[06:13]  Esse mesmo nome que tá querendo o produto.
+[06:15]  Vou pressionar shift, o...
+[06:17]  Botando Windows, sabe esse?
+[06:19]  IR.
+[06:21]  Então, pressiono Windows e IR.
+[06:23]  Então, eu vou escrever aqui, ó.
+[06:25]  Plus protein.
+[06:27]  Ok?
+[06:29]  Nessa forma, eu escrevo o nome aqui sem precisar entrar na composição
+[06:31]  e voltar para ver se o nome tá certo, né?
+[06:33]  Então, eu já copio esse nome aqui e fecho.
+[06:35]  Entra aqui, ó.
+[06:37]  Ó, digita o nome aqui.
+[06:39]  Já coube aqui e ficou bem bom.
+[06:41]  Então, você aduniu um pouquinho.
+[06:43]  Ok? Pouca coisa.
+[06:45]  Aduniu aqui um pouquinho.
+[06:47]  E eu vou levantar um pouco mais aqui para cima.
+[06:49]  Muito bem.
+[06:51]  Bota na tela 2, ó.
+[06:53]  Já estaria o nome do produto, né?
+[06:55]  Vou alinhar ele aqui.
+[06:57]  Eu vou pegar o meu celular.
+[06:59]  Eu já sei que eu vou precisar alinhar ele um pouquinho.
+[07:01]  Beleza.
+[07:03]  Então, eu vou colocar um texto aqui mais abaixo, né?
+[07:09]  Vou clicar, ó.
+[07:11]  E nós vamos escrever aqui.
+[07:13]  Podemos pegar essa parte aqui, ó.
+[07:15]  Boost de gestão, né?
+[07:17]  Então, a gente vai digitar isso.
+[07:19]  Boost.
+[07:21]  Deixa eu diminuir contra o A.
+[07:23]  E eu vou diminuir o tamanho aqui, ó.
+[07:25]  Ok? Esse texto.
+[07:27]  Esse texto tem que ser menor que o nome.
+[07:29]  O que é esse texto aqui de cima, tá, pessoal?
+[07:33]  Vou abrir mais caracteres mais aqui, ó.
+[07:35]  Você vê que eu estou selecionando aqui
+[07:37]  o Alcaps, tá?
+[07:39]  Para ficar tudo maiúsculo, mesmo que eu digite minúsculo.
+[07:41]  Então, a gente vai diminuir um pouco mais, né?
+[07:43]  E nós vamos pegar isso, ó.
+[07:45]  Vamos alinhar aqui, ó.
+[07:47]  Para a esquerda, tá?
+[07:49]  Porque isso aqui vai ficar alineado
+[07:51]  dessa forma aqui no canto, tá?
+[07:53]  Mantenha um pouco de distância para ficar bonitinho.
+[07:55]  Vai ter a proporção, né?
+[07:57]  Então, eu vou digitar aqui
+[07:59]  de gestão.
+[08:01]  Ok, muito bem.
+[08:03]  Vou diminuir mais um pouco
+[08:05]  para ele não competir, né?
+[08:07]  Com o nome que está ali em cima.
+[08:09]  E vai ficar dessa forma.
+[08:11]  Ok. Eu pego esse mesmo texto,
+[08:13]  eu duplico, eu control D,
+[08:15]  raste ele aqui para baixo.
+[08:17]  E aqui, por exemplo, eu posso colocar 29,
+[08:19]  que seria o preço.
+[08:21]  Então, eu vou aumentar aqui
+[08:23]  mais ou menos assim.
+[08:27]  Ok, então, centraliza aqui.
+[08:29]  Então, agora, já é na hora
+[08:31]  de a gente usar o grid aqui, né, pessoal?
+[08:33]  Então, ó, a gente pode pegar aqui,
+[08:35]  colocar aqui,
+[08:37]  e outra linha aqui, tá?
+[08:39]  Se não estiver aparecendo a régua,
+[08:41]  control R, tá?
+[08:43]  Então, beleza, ó. Um espaço aqui,
+[08:45]  meu espaço aqui, e aqui o
+[08:47]  meu 29, né? O preço.
+[08:49]  Aumentar um pouquinho.
+[08:51]  E eu deixo aqui, ó.
+[08:53]  Tá bom? Considerando o meu espaço aqui
+[08:55]  Então, control D, duplico, né?
+[08:57]  E eu vou diminuir.
+[08:59]  E nesse aqui, ó,
+[09:01]  deixa eu arrastar um pouco para cá.
+[09:03]  Então, a gente vai colocar aqui para o canto.
+[09:05]  A gente vai colocar nesse, ó,
+[09:07]  R, e o cifrão, tá?
+[09:09]  Seleciono control A,
+[09:11]  e ó, vou diminuir aqui bastante, tá?
+[09:13]  Vamos colocar aqui.
+[09:15]  Diminuir um pouquinho mais.
+[09:17]  E eu vou alinhar, então, aqui, ó.
+[09:19]  Pego o boost, né?
+[09:21]  Precisamos, né?
+[09:23]  Vou alinhar aqui, ó. Pego o boost, né?
+[09:25]  Precisamos alinhar mais ainda.
+[09:27]  E o RS,
+[09:29]  vamos alinhar também.
+[09:31]  Só que eu vou alinhar ele aqui, ó.
+[09:33]  Vou colocar aqui um pouco mais em cima.
+[09:35]  Vou alinhar ele aqui nesse canto.
+[09:37]  Legal.
+[09:39]  Vou pegar o mesmo, control D, duplico.
+[09:41]  Eu arrasto aqui para esse lado.
+[09:43]  E aqui, ó, eu vou digitar
+[09:45]  0,99, tá?
+[09:47]  Então, a gente posiciona aqui,
+[09:49]  e ok.
+[09:51]  A gente pode escrever a vista
+[09:53]  aqui embaixo, né?
+[09:55]  Olha só.
+[09:57]  Essa vista tem uma craze, tá?
+[09:59]  A vista.
+[10:01]  Então, a gente arrasta para cá.
+[10:03]  Novamente, aqui,
+[10:05]  numa vista, a gente mantém
+[10:07]  essa proporção dessa diferença
+[10:09]  dessa distância aqui, tá, pessoal?
+[10:11]  Então, olha só.
+[10:13]  Baixei um pouco aqui.
+[10:15]  Eu desconsidero aqui o
+[10:17]  acento, tá?
+[10:19]  Eu tenho aqui a proporção aqui.
+[10:21]  Bem legal.
+[10:23]  Então, eu vou deletar aqui as minhas réguas, ó.
+[10:27]  Então, você vê, pessoal,
+[10:29]  que como é importante a gente alinhar isso, ó.
+[10:31]  Então, a gente vai ter uma coisa
+[10:33]  bastante agradável visualmente, ok?
+[10:35]  Então, fica esse espaço aqui
+[10:37]  que pode acomodar, né?
+[10:39]  A gente pode resolver isso aí, ó.
+[10:41]  Simplesmente vindo aqui, ó.
+[10:43]  Pentul, né?
+[10:45]  Caso fique um espaço, alguma coisa que não fique legal,
+[10:47]  tem, então, uma forma aqui, ó.
+[10:49]  Então, a gente vai clicar mais ou menos
+[10:51]  no centro aqui dessas duas letras, pressionando
+[10:53]  o shift, a gente clica mais embaixo
+[10:55]  e aqui.
+[10:57]  Lembrando, pessoal, antes de pegar a Pentul
+[10:59]  e fazer, você não tem que estar com nenhum
+[11:01]  leis selecionado, tá?
+[11:03]  Muito bem. Então, vou pressionar V
+[11:05]  e eu vou pegar esses dois aqui,
+[11:07]  eu vou baixar um pouquinho até o centro
+[11:09]  aqui da minha letra, né?
+[11:11]  Então, novamente, ó, vou manter
+[11:13]  uma distância aqui de onde começa
+[11:15]  aqui, ó. Novamente, outra
+[11:17]  distância, né? Pra ficar legal.
+[11:19]  Então, olha só.
+[11:21]  Bem legal, né, pessoal?
+[11:23]  Ficou nessa telinha aqui do preço.
+[11:25]  Então, o que a gente faz agora?
+[11:27]  A gente pega tudo, né?
+[11:29]  O que faz parte aqui de texto do produto.
+[11:31]  A gente pré-compõe, tá?
+[11:33]  Vamos pré-compôo porque depois vamos precisar
+[11:35]  alterar para outros. Então, a gente coloca
+[11:37]  o preço 0, 2,
+[11:39]  0, 1, né? Na verdade.
+[11:41]  E enter.
+[11:43]  Prontinho, pessoal. Está feito, tá?
+[11:45]  Então, na próxima aula,
+[11:47]  vamos animar o produto
+[11:49]  e aqui
+[11:51]  a sua descrição, tá?
+[11:53]  Então, até a próxima aula.
+
+
+=========================================
+📖 INÍCIO DA VIDEO_160
+=========================================
+
+[00:00]  muito bem pessoal vamos selecionar aqui olha o preço né produto eu vou ligar aqui o
+[00:07]  safe area ó liguei aqui né a gente vê que o celular está aqui nessa parte né
+[00:13]  quase fora e o produto está mais afastado então a gente vai pegar o preço
+[00:18]  produto e o selo tá a gente vai ó trazer pra cá e centralizar tá bem legal
+[00:25]  tá vendo que temos aqui uma distância entre né o selo e esses
+[00:30]  caracteres então a gente vai pegar aqui o preço rastar um pouquinho pra cá tá
+[00:35]  manter a mesma distância pra ficar bonitinho aqui então beleza agora esse
+[00:40]  30% e esse 10 aqui né vamos tirar eles daqui né pra não
+[00:44]  atrapalhar o nosso produto vamos colocar um pouco mais pra cá procurar o 10
+[00:50]  e o 10 eu posso colocar um pouco mais dentro aqui né legal então aqui eu
+[00:57]  vou atrapalhar o preço a gente vai localizar aquele cara que tá ali que
+[01:01]  está que está e nós podermos colocar então aqui em baixo
+[01:08]  beleza
+[01:12]  então a gente vai abrir nossa câmera
+[01:15]  camera option e aqui em blue level vamos aumentar um pouco
+[01:20]  pra gente focar mais ali o fundo né focar mais ali as coisas a gente tem mais
+[01:25]  foco aqui na frente tem as informações principais né então olha só uma
+[01:31]  composição bem bonita né para produtos de beleza no caso né até mesmo de moda
+[01:36]  roupas né bem legal
+[01:42]  então vamos entrar aqui no preço ok nós vamos alinhar é animar então todo
+[01:48]  mundo ok então pressionar p aqui eu vou pular aqui ao 30 que frame está pressionando
+[01:56]  contra o shift é certo pra frente ó 10 20 30 marco aqui ó tá pego a agulha
+[02:05]  pra cá então segura o shift tá pessoal pra ir mais rápido aqui ó então
+[02:11]  consigo mover mais rápido eu arrasto todo mundo aqui pra fora ok mais ou menos
+[02:16]  aqui a gente vai sair o produto né e nem precisa sair da tela toda não é
+[02:22]  fenóvel tá em todo mundo pra só avisar o movimento vamos aqui no
+[02:28]  grafo e ó arrasta pra cá pegue isso aqui arrasta um pouquinho tá então ó
+[02:36]  vai chegar todo mundo ali suave então vai ficar bem legal
+[02:41]  muito bem feito isso pessoal a gente precisa fazer uma ordem aqui ó o quinto
+[02:47]  primeiro vai ser esse plus né depois o boost esse cara aqui tá certo na verdade
+[02:52]  ou 99 né bem mais embaixo aqui ó primeiro né e o avista
+[02:58]  então a gente pega o preço e por fim ver um rs e o e o outro aqui né esse adjustamento
+[03:06]  leia não era pra ir tá aqui né deixa eu deletar aqui
+[03:10]  trazer o adjustamento leia pra cá né por isso que ficou mais claro então
+[03:14]  a frontinga está aí corrigido muito bem então a gente fez essa ordem aqui tá
+[03:22]  porque primeiro vai entrar esses aqui ó né depois entra o preço entre esse
+[03:28]  shape né pra ficar na ordem correta então eu pego o boost eu coloco um pouco
+[03:32]  pra trás o 99 eu pego a vista coloco quase junto e o 29 é um pouco mais
+[03:41]  pra trás e aqui ó o rs um pouco mais pra trás e o shape né então supresionar aqui olha
+[03:48]  que legal né pessoal então vamos só trazer um pouco mais para frente e eles
+[03:55]  para não ficar uma animação cansativa né
+[04:00]  ok então vou pegar o avista eu vou colocar junto com o 99 e o preço
+[04:11]  posso colocar junto aqui o rs né e o shape
+[04:17]  então legal posso pegar então todos os que frames ó tentar só avisar mais aqui
+[04:23]  a beleza agora sim ó né bem legal então eu volto aqui eu quero que todos
+[04:30]  as informações ela saia por trás do preço do produto tá vou mudar aqui o
+[04:35]  preço para amarelo e é lou ok a gente pode aqui simplesmente pegar lá criar uma
+[04:43]  máscara tá pegamos um retângulo a gente tem uma máscara aqui ó mais ou menos
+[04:47]  aqui em cima do produto né e olha só a gente pega então o nosso preço a gente
+[04:53]  coloca atrás tá o baixo do produto então vai ficar atrás lá ó então olha só
+[05:01]  né legal ok então agora vamos animar o produto selecionamos o produto
+[05:09]  você está vendo aqui o anchor point lembra da aula do anchor point pois é
+[05:14]  muito legal de ligar aqui o safe área lembra do equipe em que ponte vamos pegar
+[05:21]  aqui a ferramenta para mexer nele e vou pegar o em que ponte que está aqui no
+[05:26]  centro eu vou gastar vou colocar aqui no canto tá bom e o da sombra a gente pode
+[05:32]  deixar aqui no canto caso a gente precisa já esteja né porque a gente vai fazer uma
+[05:35]  animação ó sabe o pote batendo assim então legal então a gente vai pegar p né
+[05:42]  e aqui p nos dois produtos
+[05:47]  e nos dois aqui ó marcamos posição tá deixa eu ver quantos que frames 10 20 vamos fazer em 20
+[05:55]  aqui primeiro né aqui e eu vou pegar então o produto vou arrastar ele para fora ok
+[06:01]  estamos aqui um pouco para fora e seleciono ele ó pressione f9 então basta eu só avisar
+[06:10]  a animação aqui né que você sabe que a animação está dura então ó fazer isso aqui
+[06:15]  e ok
+[06:20]  ok pegamos podemos pegar os que frames aqui ó fazer em 30 também né pular mais um pouco
+[06:27]  aqui e arrastar ó bem legal também sensível agora animação e a gente vai pressionar olha
+[06:36]  shift R agora tá o esse produto selecionado então já marcar aqui ó o roteixo né aqui
+[06:43]  mesmo e mais aqui ó mais o meio no meio vamos fazer isso aqui tá pessoal não é muito tá bem
+[06:53]  pouco a minas 15 ok então a gente vai ter essa animação aqui ó né feinha né então vamos
+[07:03]  pegar os dois que frames pressionar é f9 então com isso já só avisa um pouco né mas não é o
+[07:09]  suficiente vamos vir aqui no editor gráfico tá apenas com o roteixo selecionado e vamos fazer isso aqui
+[07:16]  e aí
+[07:25]  e aí então a gente pode pegar esse que frame aqui levar um pouco mais para frente
+[07:30]  é ok legal olha só então só falta né lembra do o vela é de dar o conceito de overlap vamos
+[07:40]  clicar aqui no vela é quem clicamos aqui nesse que foi meu pra fazer esse o vela é que é muito
+[07:46]  simples pessoal presta atenção eu pego esse cara aqui tá bom só esse eu baixo aqui ó tá vendo
+[07:53]  então é ficar baixo de zero aqui ó tá vendo como tá ficando aí ó menos três menos quatro ali
+[07:58]  pois é então se dá um play ali só que acontece tá vendo como ele meio que amortesse ó
+[08:06]  é bem legal então vamos fazer mais overlap aqui ó menos sete menos dez menos onze ficou aqui
+[08:21]  olha só que bonitinho que fica pessoal né podemos trazer um pouco mais que frame pra cá
+[08:26]  e então a gente precisa acelerar um pouco mais aqui né pra ter sido muito lento
+[08:38]  ó a gente peça que frame novamente pra cá
+[08:44]  então é só como ficou legal então veja com a importância pessoal você saber
+[08:49]  que frames aqui né então ó e tá aqui ó deixa ver um dois três tá um terceiro que frame começa
+[08:57]  a rotação e depois uma duas né eu vou marcar aqui certinho 20 não vai fazer tanta diferença
+[09:04]  pra você conseguir fazer então olha só contra os 3 que frames aqui começa a rotação né deixei
+[09:12]  aqui o frame da rotação depois disso ó uma duas tá então pulei 20 vezes aqui pressionando
+[09:19]  contra o shift e acerto para frente ou seja 20 frames então vou ter isso aqui bem legal bem bonito
+[09:27]  então olha a gente quando o nosso produto estiver chegando aqui então que começa a entrar as
+[09:32]  informações tá então vou pegar aqui ó o preço eu vou arrastar ele então umas pra cá né que
+[09:38]  começa a aparecer pode ser um pouco mais
+[09:45]  mais um pouquinho aqui ó legal né esquece o link meio que ele bate e joga né o conteúdo dele
+[09:53]  então bem legal olha só
+[09:54]  bem bonitos né pessoal
+[10:07]  então o que falta a gente fazer aqui ó mais ou menos aqui a gente pega todo mundo tá
+[10:14]  esses caras aqui o produto e o preço a gente torna ele em 3d tá pra ele funcionar aqui ó de
+[10:20]  coloque de baixo da câmera pra ele funcionar o movimento já aqui diz um que a gente já tem
+[10:25]  nessa cena olha só tá então vai funcionar tudo em já aqui ó legal
+[10:34]  muito bem pessoal ficou bem bonitinho é bem organizado né fica visualmente muito confortável
+[10:40]  né feito isso ó já está aqui né que a gente já tinha alineado se tivesse áudio bastava alinear
+[10:47]  o áudio aqui então na próxima aula já vamos fazer então colocar um outro produto vamos fazer
+[10:53]  outra tela ok então até a próxima aula
+
+
+=========================================
+📖 INÍCIO DA VIDEO_161
+=========================================
+
+[00:00]  Muito bem pessoal, só precisamos pegar aqui novamente o produto e o preço e o selo.
+[00:07]  Opa, tem que frame aqui, vamos trazer aqui para o keyframe de position e vamos só arrastar aqui,
+[00:16]  mas um pouco para cá, para a gente centralizar novamente, ok, centralizado agora.
+[00:23]  Quando der o zoom aqui, ok, até aqui centralizado.
+[00:26]  Você pode ver que eu estou deixando aqui respeitando a minha margem, aquela margem que eu coloco.
+[00:31]  Bem legal, então.
+[00:34]  Eu vou pegar essa tela 2, botão direito, opa, revela, revela em source inpros, aqui está,
+[00:42]  tela 0,2, pressionei control d e dupliquei.
+[00:45]  Mesa de baixo, control d para duplicar, e como minha agulha está aqui no final, já pressionei, abre o chave, está.
+[00:52]  No início, esses atalhos podem parecer bastante trabalhosos para você,
+[01:00]  mas quando a gente está trabalhando, a gente faz isso de uma forma muito automática aqui,
+[01:03]  então é bem legal, pessoal, aprender esses atalhos, ok?
+[01:06]  Segura a áudio, já substituí eu aqui, ok?
+[01:10]  Então, temos uma tela 3, tá pessoal, presta atenção aí se realmente você fez uma tela 3,
+[01:15]  se não, você vai substituir errado.
+[01:17]  Muito bem, aqui na tela 3 a gente vai fazer, então, ao contrário, tá?
+[01:22]  A gente vai pegar esse produto, a gente vai fazer entrar desse lado aqui, ok?
+[01:26]  E o preço vai entrar ao contrário, tá? E o selo vem para cá.
+[01:30]  Então, vamos fazer essa modificação.
+[01:32]  Então, isso vai dar uma dinâmica diferente para o nosso vídeo, né?
+[01:35]  E agrega valor também ao nosso trabalho.
+[01:37]  Então, vamos pegar primeiro o selo, que é mais fácil, vamos jogar ele aqui para esse lado.
+[01:44]  E, ok, vamos pegar, então, o produto, a gente pressiona U,
+[01:50]  ó, aqui, né?
+[01:52]  Num caso, o position, esse position aqui, né?
+[01:56]  Deixa o agulho em cima do position, tá?
+[02:00]  A gente pode clicar no position, tá pessoal?
+[02:02]  Nos dois aqui, ó, a gente arrasta para cá, opa.
+[02:07]  Pronto, cliquei no position, tá? Os quatro aqui, ó, azul, né?
+[02:11]  Eu posso clicar e arrastar.
+[02:14]  Então, o produto vai ficar aqui, né?
+[02:17]  Esse aqui vai ficar aqui.
+[02:20]  E eu volto aqui para o dispositivo inicial aqui, ó.
+[02:24]  Seleção nos dois, tá? Novamente.
+[02:27]  Só que, dessa vez, temos que selecionar apenas esses dois keyframes aqui da frente, tá?
+[02:31]  Esse aqui, deixa eu comentar.
+[02:33]  A gente vai pegar isso, ó.
+[02:34]  A gente vai colocar aqui para fora da composição, tá?
+[02:37]  Dessa forma.
+[02:39]  Então, a gente clica aqui, ó, para ir com o keyframe da rotação aqui, ó.
+[02:43]  E essa rotação, ela está em menos 15.
+[02:46]  Basta que a gente tira o menos daqui e deixe apenas o 15.
+[02:49]  E ela vai ficar dessa forma, né?
+[02:51]  Então, não vai ficar interessante, porque o anchor point está aqui, né?
+[02:57]  Então, a gente vai pensar em mover esse anchor point aqui, ó.
+[03:00]  Movei para cá.
+[03:03]  Então, ok.
+[03:05]  Se a gente vier aqui, ó.
+[03:07]  Olha só.
+[03:10]  Então, já está.
+[03:16]  Bem legal, né?
+[03:18]  Você vê, pessoal, como o texto está entrando aqui, né?
+[03:21]  Isso aqui, entrando daqui.
+[03:23]  Não tem uma ligação e fica uma bagunça.
+[03:25]  Olha só como fica, ó.
+[03:26]  Dá um arro de guitarra bagunçada.
+[03:31]  Né?
+[03:32]  Então, a gente vai pegar o selo.
+[03:34]  Vamos pegar aqui no eixo x, ó.
+[03:36]  Colocar um pouco mais próximo aqui.
+[03:38]  Deixar ele nessa linha aqui.
+[03:41]  E, ok.
+[03:42]  Então, vou colocar mais para cá.
+[03:43]  As informações do preço, né?
+[03:45]  A gente precisa, então, deixá-lo mais aqui, né?
+[03:54]  Centralizado aqui.
+[03:55]  Muito bem.
+[03:56]  A gente vai pressionar M, agora.
+[03:59]  Fique aqui, né?
+[04:01]  Deixa eu diminuir um pouquinho aqui.
+[04:03]  A gente vai pressionar M aqui, selecionando o preço.
+[04:05]  Vou selecionar a máscara, tá?
+[04:07]  Qual a ferramenta de seleção?
+[04:11]  Vamos pegar, ó.
+[04:12]  Vamos trazer essa máscara aqui.
+[04:15]  Para trás do produto, tá?
+[04:21]  Então, a gente entra no preço, tá?
+[04:22]  E a gente altera ele para cá.
+[04:24]  Lembrando, pessoal, que esse preço é o mesmo que tem na tela 0.2 ainda, tá?
+[04:30]  Então, o que a gente tem que fazer?
+[04:31]  Ó, botão direito, revel, revel em Sourcing Project.
+[04:35]  Então, duplica isso aqui, ó.
+[04:37]  Precio 2, agora, tá?
+[04:39]  Então, aqui está, ó.
+[04:39]  Precio 2, já substituí, pressionando Alt.
+[04:41]  Se isso você já aprendeu, né?
+[04:44]  Então, substituí aí.
+[04:45]  E ok, então, vamos nessa.
+[04:48]  Então, aqui, né?
+[04:49]  Esses keyframes de posito estavam para esse lado.
+[04:53]  A gente vai fazer aqui o seguinte, pessoal.
+[04:56]  Selecionamos todos os keyframes, ó.
+[04:58]  Aqui embaixo também.
+[05:01]  A gente vai clicar com o botão direito, ó.
+[05:02]  Assistente keyframes.
+[05:04]  Time Reversing Keyframes, ó.
+[05:09]  Tá vendo?
+[05:09]  Então, dessa forma, tinha que fazer uma animação aqui, ao contrário.
+[05:13]  Ok?
+[05:13]  Agora, como é que a gente faz para pegar todo mundo e posicionar para ali, né?
+[05:17]  Ali, para o centro.
+[05:19]  Então, a gente vai em Neo, ó.
+[05:20]  Nu Object.
+[05:22]  Pegamos todo mundo.
+[05:23]  E linkamos ao Nu Object.
+[05:26]  Abrimos o posito.
+[05:28]  E, ó, eu arrasto para cá, ó.
+[05:31]  E olha só o que acontece se eu pressionar zero, ó.
+[05:34]  Tá vendo?
+[05:35]  Muito simples.
+[05:36]  Então, aqui a gente precisa trocar a ordem, né?
+[05:39]  Aquela ordem que eu te falei.
+[05:41]  De como as coisas aparecem aqui.
+[05:44]  Muito bem.
+[05:45]  Então, deixa eu dar aqui.
+[05:47]  Então, o primeiro que entra, né?
+[05:49]  É o Boost e o preço.
+[05:52]  O nome aqui em cima e o Boost está certo, né?
+[05:55]  Mas o RS, ó.
+[05:56]  Ele vai entrar em primeiro, agora, depois do Boost.
+[05:59]  O Shape, também, ó.
+[06:01]  Né?
+[06:01]  Junto com o RS.
+[06:03]  99 vai para cima, né?
+[06:05]  Ele vai ser o último.
+[06:06]  E o Avista, também.
+[06:08]  Ok?
+[06:09]  Então, olha só como está aqui o desenho aqui, né?
+[06:12]  Então, a gente precisa alterar isso aí.
+[06:14]  Vamos trazer, então, para cá o RS.
+[06:16]  Trazer para cá o Shape.
+[06:19]  E, 29 deixa aqui, né?
+[06:21]  E o 99 junto com o Avista entra junto.
+[06:27]  Tá vendo, pessoal?
+[06:28]  Foi bastante simples.
+[06:29]  Aí, só tem uma coisa que a gente precisa ajustar agora aqui, ó.
+[06:33]  Como a gente reverteu, né?
+[06:35]  Reverteu, também, aqui o nosso editor gráfico, né?
+[06:37]  O...
+[06:39]  A velocidade dos keyframes.
+[06:42]  Então, a gente vai pressionar o.
+[06:43]  Pessona todo mundo aqui, ó.
+[06:45]  Seleciona o.
+[06:47]  Tá?
+[06:48]  Seleciona todos os keyframes e volta no editor gráfico.
+[06:50]  Olha só como está aqui, ó.
+[06:53]  Então, a gente vai pegar eles.
+[06:55]  A gente vai pressionar F9.
+[06:56]  A gente redama meio que um reset, né?
+[06:58]  Então, a gente pega esses...
+[06:59]  Opa!
+[07:01]  Então, a gente pega aqui, ó.
+[07:02]  Esses primeiros pontos.
+[07:03]  Clica.
+[07:04]  Arrasta um pouquinho pra cá.
+[07:06]  Pega todos esses outros pontos aqui.
+[07:09]  Clica e arrasta bastante, ó.
+[07:11]  Tá? Dessa forma.
+[07:12]  Então, olha só.
+[07:14]  Mas, pessoal, é bastante simples, né?
+[07:16]  Pra você fazer a tela inversa, né?
+[07:19]  Ao invés de você fazer aquela mesma tela entrando aqui
+[07:22]  com o mesmo produto, né?
+[07:23]  Então, você faz uma entrando de um lado,
+[07:25]  outra entrando de outro.
+[07:26]  Então, vai dar uma dinâmica bem legal para o vídeo, né?
+[07:30]  E vai fazer o seu produto diferenciar dos outros, né, pessoal?
+[07:33]  Então, você vai ter um vídeo bem mais bonito,
+[07:36]  bem mais atraente.
+[07:38]  Tá legal?
+[07:39]  Então, prontinho.
+[07:41]  Isso tá feito, pessoal.
+[07:42]  A gente fez a outra tela.
+[07:43]  Se você pensou que isso ia ser um bicho de sete cabeças,
+[07:47]  vamos você pode ver, não é, né?
+[07:51]  Então, ó, vamos substituir o produto.
+[07:53]  Produto 01.
+[07:55]  A gente clica no botão direito, ó.
+[07:57]  Reveal.
+[07:58]  Reveal em socials in projects.
+[08:00]  Aqui está.
+[08:01]  Contro D, duplicante, para fazer o 2, tá?
+[08:04]  Selecionamos o produto 01 aqui, tá?
+[08:07]  Pressionamos ALT, vamos substituir.
+[08:10]  Legal.
+[08:11]  Vamos entrar, então, aqui no produto.
+[08:13]  E, ó, vamos pegar um outro produto aqui,
+[08:15]  por exemplo, este 01 aqui, ok?
+[08:19]  E a gente deleta.
+[08:20]  A gente volta aqui na tela, ó.
+[08:22]  Pronto, já temos outro produto aqui.
+[08:25]  Então, a gente vem aqui em preço, por exemplo.
+[08:30]  Opa, preço 2, tá?
+[08:33]  A gente vem aqui e muda, né?
+[08:35]  Contro D para selecionar o termo de texto.
+[08:37]  Prodemos colocar para 35, por exemplo, este aqui, né?
+[08:41]  Prontinho, 35.
+[08:43]  Então, está estranho aqui, né?
+[08:44]  Como está entrando aqui a rotação, ó.
+[08:46]  Não está entrando legal esse produto.
+[08:48]  Vamos voltar aqui no produto, pressionar U.
+[08:50]  Vamos ver o que está acontecendo, né?
+[08:54]  Ah, legal, olha só.
+[08:57]  O...
+[08:58]  Em que ponte, né, ele não está posicionado num canso do produto, ó.
+[09:01]  Então, a gente vai ter que arrastar ele aqui, tá bom, pessoal?
+[09:05]  Para o cantinho aqui, para acontecer de forma que deve.
+[09:15]  Vamos prestar e selecionar aqui o roteixo, né?
+[09:18]  Então, a gente precisa pegar aqui a rotação, né?
+[09:20]  Porque a gente mudou aqui, no caso, ficou para 15, né?
+[09:25]  A gente precisa agora pegar este cara aqui do Overlap,
+[09:28]  levar para cima, tá, pessoal?
+[09:30]  Vê lá aqui para cima, ó.
+[09:32]  Foi mais ou menos, mais de 10, né?
+[09:34]  Mais ou menos 18.
+[09:36]  Então, olha só.
+[09:41]  Ah, prontinho, pessoal.
+[09:42]  Então, está feito.
+[09:43]  Só vamos confirmar aqui, né?
+[09:46]  É, temos que pegar aqui o nosso texto,
+[09:49]  selecionar a máscara
+[09:52]  e trazer um pouco mais para cá, ó, tá?
+[09:54]  Para sair realmente por trás do produto.
+[09:58]  Então, prontinho.
+[10:00]  Pressionar a zero, para a gente ver.
+[10:02]  Líquido a tudo.
+[10:04]  Aí entra o produto 01, 29, 99.
+[10:06]  Entra o produto 02, 35, 99.
+[10:09]  Legal, né?
+[10:11]  Então, ó, você já teria um VT
+[10:13]  feito totalmente dentro do After Effects, tá?
+[10:16]  Totalmente em 2D,
+[10:17]  mas que fica bastante atraente se a gente usar
+[10:21]  umas boas técnicas aqui relacionado ao design gráfico, né?
+[10:24]  Então, beleza, pessoal.
+[10:26]  Até a próxima aula.
